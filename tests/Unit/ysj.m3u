@@ -17,7 +17,7 @@
 "sites":[
 
 {"key": "Kunyu77","name": "七七影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
-{"key":"293视频","name":"293影院","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/kaisertv/pro/blob/master/tests/Unit/jar/293.jar"},
+{"key":"293视频","name":"293影院","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/kaisertv/pro/raw/master/tests/Unit/jar/293.jar"},
 {"key":"Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "Kuaikan","name": "快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
