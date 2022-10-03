@@ -9,7 +9,7 @@
 
 
 {
-"spider":"https://gitee.com/kaisertv/pro/blob/master/tests/Unit/jar/0928all.jar",
+"spider":"https://gitee.com/kaisertv/pro/raw/master/tests/Unit/jar/0928all.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGF0aWMtODEyMDQ2ZDItN2E5Yy00MjUwLTlhY2EtMTJhOTE4Mzk2ZDk4LmJzcGFwcC5jb20vbGl2ZS9saXZlLnR4dA=="]}]}],
