@@ -292,13 +292,3 @@ sdrewds,http://21470.vod.adultiptv.net/ph5702ab5261c97/play.m3u8
 sdrew,http://1244.vod.redtraffic.xyz/ph576255ee4231b/play.m3u8
 sdfawe,http://6122.vod.adultiptv.net/ph569ee1ef39947/play.m3u8
 serwer,http://10238.vod.redtraffic.xyz/ph5b380726c1b2c/play.m3u8
-srwe,http://6122.vod.adultiptv.net/ph57dc082d2e128/play.m3u8
-werasd,http://12204.vod.adultiptv.net/ph5afe16ab81425/play.m3u8
-asdfr,http://1465.vod.redtraffic.xyz/ph5a9589bbe5f66/play.m3u8
-sdrew,http://1465.vod.redtraffic.xyz/ph56247d54b74c7/play.m3u8
-sdrfwe,http://21470.vod.redtraffic.xyz/ph5633ca4bad9d8/play.m3u8
-sdr,http://60106.vod.redtraffic.xyz/ph563bf3cf11c4e/play.m3u8
-asdfsdf,http://1244.vod.adultiptv.net/ph5739eb890bb45/play.m3u8
-sadfsdf,http://13216.vod.redtraffic.xyz/ph57158296d7e4c/play.m3u8
-sdfsdaf,http://10238.vod.redtraffic.xyz/ph5a7cc95eb6617/play.m3u8
-asdf,http://10238.vod.adultiptv.net/ph57133cbe990c3/play.m3u8
