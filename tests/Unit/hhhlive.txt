@@ -257,20 +257,5 @@ a4,http://1244.vod.adultiptv.net/ph59ee497cbc021/play.m3u8
 a3,http://6122.vod.adultiptv.net/ph5993265520eff/play.m3u8
 a2,http://6122.vod.redtraffic.xyz/ph5bea5affc9477/play.m3u8
 a1,http://1465.vod.redtraffic.xyz/ph58bf59ddc8d98/play.m3u8
-e4,http://12204.vod.redtraffic.xyz/ph58f307dd45156/play.m3u8
-e3,http://21470.vod.adultiptv.net/ph5bd54987c653f/play.m3u8
-e2,http://6122.vod.adultiptv.net/ph5a3634c6ab4b7/play.m3u8
-e1,http://10238.vod.adultiptv.net/ph57524f3a5ee18/play.m3u8
-w5,http://10238.vod.redtraffic.xyz/ph59829f7adf965/play.m3u8
-w6,http://12156.vod.adultiptv.net/ph5798b81ecdc18/play.m3u8
-w4,http://1244.vod.adultiptv.net/ph55a3949a0e323/play.m3u8
-w3,http://218158.vod.redtraffic.xyz/ph5aea9a0760275/play.m3u8
-w2,http://1465.vod.adultiptv.net/ph58bba2486c51b/play.m3u8
-w1,http://1244.vod.redtraffic.xyz/ph5bc4d4e2605da/play.m3u8
-q6,http://11216.vod.adultiptv.net/ph59c6157639e0d/play.m3u8
-q5,http://13216.vod.adultiptv.net/ph5a3d8aeb2a41b/play.m3u8
-q4,http://12204.vod.adultiptv.net/ph575b602823fa6/play.m3u8
-q3,http://6122.vod.redtraffic.xyz/ph5799b7432c4c3/play.m3u8
-q2,http://1244.vod.redtraffic.xyz/ph5ad9a64556f9b/play.m3u8
-q1,http://12204.vod.adultiptv.net/ph59bf6074c8827/play.m3u8
+
 
