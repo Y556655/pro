@@ -1,9 +1,9 @@
-﻿
+
 {
 "spider":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/0928all.jar",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGF0aWMtODEyMDQ2ZDItN2E5Yy00MjUwLTlhY2EtMTJhOTE4Mzk2ZDk4LmJzcGFwcC5jb20vbGl2ZS9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20va2Fpc2VydHYvcHJvL3Jhdy9tYXN0ZXIvdGVzdHMvVW5pdC9oaGhsaXZlLnR4dA=="]}]}],
 
 "sites":[
 
