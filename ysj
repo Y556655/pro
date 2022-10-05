@@ -1,17 +1,11 @@
 // 配置地址 --> clan://localhost/TVBox/xxx.json
-//https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/tvbox3h12/TVBox/jar/
-//http://2345.tgzy.cc/api.php/provide/vod/from/qq/at/xml/       各大视频网站源码
-//各大视频网站源码  根据网名自行更改
-//http://360.tgzy.cc/api.php/provide/vod/from/sohu/at/xml/  xxx      各大视频网站源码
-//https://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/          各大视频网站源码***
-//https://www.555ziyuan.com:555/api.php/provide/vod/from/youku/at/xml/   ok
-//https://www.hongniuzy2.com/api.php/provide/vod/at/xml/     ok
 
 
 {
-"spider":"https://gitcode.net/m0_74088126/ysj/-/raw/master/src/0928all.jar",
+"spider":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/0928all.jar",
 
-//电视文件放在https://unicloud.dcloud.net.cn/login
+//jar18电视文件放在https://unicloud.dcloud.net.cn/login
+
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGF0aWMtODEyMDQ2ZDItN2E5Yy00MjUwLTlhY2EtMTJhOTE4Mzk2ZDk4LmJzcGFwcC5jb20vbGl2ZS9saXZlLnR4dA=="]}]}],
 
 "sites":[
