@@ -1,6 +1,7 @@
 
 {
 "spider":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/1alist.jar",
+//jar18电视文件放在uniclo
   "lives": [
     {
       "group": "redirect",
