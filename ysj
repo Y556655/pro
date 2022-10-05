@@ -12,12 +12,12 @@
 "spider":"https://gitcode.net/m0_74088126/ysj/-/raw/master/src/0928all.jar",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9tMF83NDA4ODEyNi95c2ovLS9yYXcvbWFzdGVyL3R2YmRzLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGF0aWMtODEyMDQ2ZDItN2E5Yy00MjUwLTlhY2EtMTJhOTE4Mzk2ZDk4LmJzcGFwcC5jb20vbGl2ZS9saXZlLnR4dA=="]}]}],
 
 "sites":[
 
 {"key": "Kunyu77","name": "七七影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
-{"key":"293视频","name":"293影院","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcode.net/m0_74088126/ysj/-/raw/master/src/293.jar"},
+{"key":"293视频","name":"293影院","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitcode.net/m0_74088126/ysj/-/blob/master/src/293.jar"},
 {"key":"Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 {"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "Kuaikan","name": "快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
