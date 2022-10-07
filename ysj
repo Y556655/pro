@@ -55,7 +55,7 @@
 {"name":"如不能观看-请手动更换以下解析", "type":1,"url":"https://rx.bt5v.com/json/jsonindex.php/?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"chaloli","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="},
 //{"name":"aiku1","type":1,"url":"http://k.json.icu/home/api?type=ys&uid=3096391&key=hjmDEFHKLQWYZ04789&url="},
-{"name":"newjiexi", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
+{"name":"F-newjiexi", "type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"aiku3","type":1,"url":"http://k.json.icu/home/api?type=ys&uid=11512173&key=cfklmprwJLNOPR1489&url="},
 {"name":"解析0","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"解析1","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="}, 
