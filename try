@@ -47,6 +47,7 @@
 //{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
 {"key": "csp_xBPQ_爱酷影视","name": "爱酷影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱酷影视.json"},
 {"key": "csp_xBPQ_LIBVIO","name": "LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
+{"key":"alist网盘","name":"alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#一只鱼$https://alist.youte.ml#轻谈浅唱$https://g.xiang.lol#我的盘$http://139.224.64.109:5244#DISK$http://124.222.140.243:8080#小江$https://dyj.me#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
 {"key": "Gitcafe","name":"小纸条盘搜","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
 {"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"7e662e4e66a149a1bedb4b94c12e15a8"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
