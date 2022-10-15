@@ -1,5 +1,5 @@
 {
-    "spider": "./proxy.jar",
+    "spider": "https://gitee.com/kaisertv/pro/blob/master/js/js.jar",
     "sites": [
         {
             "key": "drpy_js_腾云驾雾",
