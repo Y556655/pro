@@ -1,5 +1,5 @@
 {
-    "spider" : "assets://js/lib/proxy.jar",
+    "spider" : "./proxy.jar",
     "sites" : [
            {
             "key" : "drpy_js_腾云驾雾",
