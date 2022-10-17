@@ -117,12 +117,13 @@
                 }
             }
         },
-        {
+  {"name":"js可用jx.dygfsdy.com-atm","type":0,"url":"https://jx.parwix.com:4433/player/?url="},     
+        //{
             "name": "风起长林",
             "type": 0,
             "url": "https://okjx.cc/?url="
         },
-        {
+       // {
             "name": "风起江湖",
             "type": 1,
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
@@ -131,13 +132,13 @@
             "name": "解析0",
             "type": 1,
             "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
-        },
-        {
+        }
+       // {
             "name": "解析1",
             "type": 1,
             "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
         },
-        {
+       // {
             "name": "解析2",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
@@ -147,7 +148,7 @@
                 }
             }
         },
-        {
+       // {
             "name": "keyu",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
