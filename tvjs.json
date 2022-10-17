@@ -117,7 +117,11 @@
                 }
             }
         },
-{"name":"js可用jx.dygfsdy.com-atm","type":0,"url":"https://jx.parwix.com:4433/player/?url="}, 
+     {
+    "name":"jsdygfsdy",
+    "type":0,
+    "url":"https://jx.parwix.com:4433/player/?url="
+    }, 
         {
             "name": "解析0",
             "type": 1,
