@@ -35,6 +35,7 @@
 {"key": "csp_xBPQ","name": "️在线之家","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/zxzj.json"},
 {"key": "csp_xBPQ_极品影视","name": "极品影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/极品影视.json"},
 {"key": "csp_xBPQ-真不卡","name":" 真不卡影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/真不卡.json"},
+{"key": "csp_xBPQ_cz","name": "厂长影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/厂长资源.json"},
 {"key": "csp_xBPQ_umyy","name": "UM影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/UM影院.json"},
 {"key": "csp_xBPQ_LGyy","name": "蓝光影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/蓝光影院.json"},
 {"key": "csp_CZSPP","name": "厂长蓝光","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0"},
