@@ -3,7 +3,7 @@
   "作者":"ZXY",
   "站名": "厂长资源",
   "User":"User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
-  "主页url": "https://www.czspp.com",
+  "主页url": "https://www.czspp.com/?btwaf=64892997",
   //  "主页url": "https://www.czzy.tv",
   "数组": "<li>&&</li>",
   "副标题": "span>&&</span>",  
@@ -22,7 +22,7 @@
   "播放链接": "czspp.com&&\"",
   
 	"分类": "电影$dyy#华语电影$huayudianying#日本电影$ribendianying#欧美电影$meiguodianying#电视剧$dianshiju#国产剧$guochanju#美剧$mj#韩剧$hj#日剧$rj",
-	"分类url": "https://www.czspp.com/movie_bt/movie_bt_series/{cateId}/page/{catePg}?btwaf=81380950"
+	"分类url": "https://www.czspp.com/movie_bt/movie_bt_series/{cateId}/page/{catePg}?btwaf=64892997"
            
 //类型{cateId}、剧情{class}、地区{area}、年份{year}、排序{by}，{letter}字母 "{lang}语言",{catePg}翻页
 
