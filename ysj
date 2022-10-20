@@ -39,6 +39,7 @@
 {"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"7e662e4e66a149a1bedb4b94c12e15a8"},
 {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
 {"key": "csp_xBPQ_爱酷影视","name": "爱酷影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱酷影视.json"},
+{"key" : "drpy_js_cokemv","name" : "cokemv","type" : 3,"api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext" : "https://gitee.com/kaisertv/pro/raw/master/js/cokemv.js"},
 {"key": "csp_xBPQ_LIBVIO","name": "LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"}
 
 
