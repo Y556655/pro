@@ -7,6 +7,18 @@
 
 
 "sites":[
+ {
+"jar": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar",
+"key": "csp_xBPQ_krj",
+"name": "️抗日剧",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"click": "weiyi99.com;.vjs-big-play-button",
+"ext": "https://gitee.com/kaisertv/pro/raw/master/json/抗日剧.json"
+},   
 {
 "jar": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar",
 "key": "csp_xBPQ_frse",
