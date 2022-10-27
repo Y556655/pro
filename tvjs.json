@@ -67,9 +67,9 @@
             "url": "Sequence"
         },
         {
-            "name": "恩哥",
-            "type": 1,
-            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+            "name": "解析",
+            "type": 0,
+            "url": "https://jx.parwix.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
