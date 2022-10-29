@@ -50,7 +50,7 @@
 {"key":"alist网盘","name":"alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#一只鱼$https://alist.youte.ml#轻谈浅唱$https://g.xiang.lol#我的盘$http://139.224.64.109:5244#DISK$http://124.222.140.243:8080#小江$https://dyj.me#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
 {"key": "Gitcafe","name":"小纸条盘搜","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
 {"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4dbc7660a664a2ebabb265d75911a5c"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
+//{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
 {"key": "T4","name": "🦌T4爬虫SY","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/vod%20(4).json","jar": "http://刚刚.live/jar2/0906.jar"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c&timeout=10","searchable":1,"quickSearch":1,"filterable":0}
 //备用
