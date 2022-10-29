@@ -42,10 +42,6 @@
 {"key":"csp_Alist2","name":"B","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://xn--i0v44m.xyz"},
 {"key":"csp_Alist3","name":"C","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://www.feifwp.top"},
 {"key":"Alist","name":"D","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://anime.mqmmw.ga"},
-{"key": "Gitcafe","name":"小纸条盘搜","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
-{"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"7e662e4e66a149a1bedb4b94c12e15a8"},
-{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
-{"key": "T4","name": "🦌T4爬虫SY","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7e662e4e66a149a1bedb4b94c12e15a8","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/vod%20(4).json","jar": "http://刚刚.live/jar2/0906.jar"},
 {"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=9f908347b43c46888c97a8630050d252&timeout=10","searchable":1,"quickSearch":1,"filterable":0}
 ],
 
