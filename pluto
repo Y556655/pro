@@ -1,5 +1,5 @@
 {
- "dr_count": 5,
+ "dr_count": 2,
  "mode": 2,
  "spider": "http://101.34.67.237/files/custom_spider.jar",
  "drives": [
@@ -8,37 +8,7 @@
    "server": "http://alist.xiaoya.pro",
    "type": "alist"
   },
-  {
-   "key": "dr_腾云驾雾",
-   "name": "腾讯(drpy)",
-   "type": 3,
-   "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/腾云驾雾.js"
-  }, 
- {
-   "key": "dr_酷云77",
-   "name": "酷云77(drpy)",
-   "type": 3,
-   "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/酷云77.js"
-  },
- {
-   "key": "dr_百忙无果",
-   "name": "芒果(drpy)",
-   "type": 3,
-   "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/百忙无果.js"
-  },
-  {
+   {
    "key": "py_ali",
    "name": "py_ali(Pyramid)",
    "type": 3,
