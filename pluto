@@ -3,58 +3,55 @@
  "mode": 2,
  "spider": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/pluto.jar",
  "drives": [
-  
   {
-   "key": "dr_Ã⁄‘∆º›ŒÌ",
-   "name": "Ã⁄—∂(drpy)",
+   "key": "dr_∆º",
+   "name": "—∂(drpy)",
    "type": 3,
    "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/Ã⁄‘∆º›ŒÌ.js"
+   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/∆º.js"
   }, 
  {
-   "key": "dr_ø·‘∆77",
-   "name": "ø·‘∆77(drpy)",
+   "key": "dr_77",
+   "name": "77(drpy)",
    "type": 3,
    "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/ø·‘∆77.js"
+   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/77.js"
   },
  {
-   "key": "dr_∞Ÿ√¶Œﬁπ˚",
-   "name": "√¢π˚(drpy)",
+   "key": "dr_√¶ﬁπ",
+   "name": "√¢(drpy)",
    "type": 3,
    "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/∞Ÿ√¶Œﬁπ˚.js"
+   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/√¶ﬁπ.js"
   },
-  
   {
-   "key": "dr_∆Ê’‰“Ï ﬁ",
-   "name": "∞Æ∆Ê“’(drpy)",
+   "key": "dr_",
+   "name": "(drpy)",
    "type": 3,
    "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/∆Ê’‰“Ï ﬁ.js"
+   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/.js"
   },
-  
    {
-   "key": "dr_360”∞ ”",
-   "name": "360”∞ ”(drpy)",
+   "key": "dr_360”∞",
+   "name": "360”∞(drpy)",
    "type": 3,
    "api": "https://gitee.com/kaisertv/pro/raw/master/js/drpy.min.js",
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 0,
-   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/360”∞ ”.js"
+   "ext": "https://gitee.com/kaisertv/pro/raw/master/js/360”∞.js"
   }
  ],
  "parses": [
@@ -67,7 +64,7 @@
    }
   },
   {
-   "name": "¬÷—Ø",
+   "name": "—Ø",
    "type": 2,
    "url": "Sequence",
    "header": {
@@ -75,7 +72,7 @@
    }
   },
   {
-   "name": "≤¢∑¢",
+   "name": "",
    "type": 2,
    "url": "Parallel",
    "header": {
@@ -83,28 +80,28 @@
    }
   },
   {
-            "name":"Ω‚Œˆ3",
+            "name":"3",
             "type": 1,
             "url": "http://api.ckflv.cn/?url=",
             "ext":{
                 "flag":[ 
                     "qq",
-                    "Ã⁄—∂",
+                    "—∂",
                     "qiyi",
-                    "∞Æ∆Ê“’",
-                    "∆Ê“’",
+                    "",
+                    "",
                     "youku",
-                    "”≈ø·",
+                    "≈ø",
                     "mgtv",
-                    "√¢π˚",
+                    "√¢",
                     "letv",
-                    "¿÷ ”",
+                    "",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ﬂŸ¡®ﬂŸ¡®",
-                    "ﬂŸ¡®"
+                    "",
+                    ""
                     ],
                     "header":{
                         "User-Agent":"okhttp/4.1.0"
@@ -113,28 +110,28 @@
                 },
 
         {
-            "name": "Ω‚Œˆ",
+            "name": "",
             "type": 0,
             "url": "https://jx.parwix.com:4433/player/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "Ã⁄—∂",
+                    "—∂",
                     "qiyi",
-                    "∞Æ∆Ê“’",
-                    "∆Ê“’",
+                    "",
+                    "",
                     "youku",
-                    "”≈ø·",
+                    "≈ø",
                     "mgtv",
-                    "√¢π˚",
+                    "√¢",
                     "letv",
-                    "¿÷ ”",
+                    "",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ﬂŸ¡®ﬂŸ¡®",
-                    "ﬂŸ¡®"
+                    "",
+                    ""
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
@@ -148,22 +145,22 @@
             "ext": {
                 "flag": [
                     "qq",
-                    "Ã⁄—∂",
+                    "—∂",
                     "qiyi",
-                    "∞Æ∆Ê“’",
-                    "∆Ê“’",
+                    "",
+                    "",
                     "youku",
-                    "”≈ø·",
+                    "≈ø",
                     "mgtv",
-                    "√¢π˚",
+                    "√¢",
                     "letv",
-                    "¿÷ ”",
+                    "",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "ﬂŸ¡®ﬂŸ¡®",
-                    "ﬂŸ¡®"
+                    "",
+                    ""
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
@@ -171,28 +168,28 @@
             }
         },
   {
-   "name": "Ω‚Œˆ0",
+   "name": "0",
    "type": 1,
    "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url=",
    "ext": {
     "flag": [
      "qq",
-     "Ã⁄—∂",
+     "—∂",
      "qiyi",
-     "∞Æ∆Ê“’",
-     "∆Ê“’",
+     "",
+     "",
      "youku",
-     "”≈ø·",
+     "≈ø",
      "mgtv",
-     "√¢π˚",
+     "√¢",
      "letv",
-     "¿÷ ”",
+     "",
      "pptv",
      "PPTV",
      "sohu",
      "bilibili",
-     "ﬂŸ¡®ﬂŸ¡®",
-     "ﬂŸ¡®"
+     "",
+     ""
     ],
     "header": {
      "User-Agent": "okhttp/4.1.0"
@@ -251,7 +248,7 @@
    "group": "redirect",
    "channels": [
     {
-     "name": "÷±≤•",
+     "name": "÷±",
      "urls": [
       "proxy://do=live&type=txt&ext=aHR0cDovLzEwMS4zNC42Ny4yMzcvbGl2ZXM="
      ]
@@ -283,7 +280,7 @@
  },
  "recommend": [
   {
-   "name": "∂π∞ÍÕ∆ºˆ",
+   "name": "∆º",
    "request": {
     "method": "GET",
     "header": [
@@ -338,7 +335,7 @@
  ],
  "ijk": [
   {
-   "group": "»ÌΩ‚¬Î",
+   "group": "",
    "options": [
     {
      "category": 4,
@@ -418,7 +415,7 @@
    ]
   },
   {
-   "group": "”≤Ω‚¬Î",
+   "group": "”≤",
    "options": [
     {
      "category": 4,
