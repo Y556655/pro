@@ -1,7 +1,7 @@
 {
  "dr_count": 118,
  "mode": 2,
- "spider": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/pluto.jar",
+ "spider": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/custom_spider.jar",
  "drives": [
   {
    "key": "dr_Ƽ",
@@ -56,7 +56,7 @@
  ],
  "parses": [
   {
-   "name": "???",
+   "name": "自动",
    "type": 0,
    "url": "",
    "header": {
