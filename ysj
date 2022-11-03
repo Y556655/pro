@@ -21,7 +21,7 @@
 {"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xf_free","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
 {"key": "csp_xBPQ_饭团影院","name":"饭团影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/ftys1.json"},
 {"key": "csp_QQ","name": "腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-//{"key": "csp_MGTV","name": "芒果TV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_MGTV","name": "芒果TV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_IQIYI","name": "爱奇艺","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "souhu","name": "搜狐视频","type": 0,"api": "https://www.555ziyuan.com:555/api.php/provide/vod/from/sohu/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": []},
 //{"key": "csp_xBPQ_ddg","name": "达达龟","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/达达龟.json"},
