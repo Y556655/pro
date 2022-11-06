@@ -16,6 +16,7 @@
 {"key": "低端","name": "低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1},
 {"key": "Kunyu77","name": "七七影视","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 { "jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/202211厂长.jar","key":"spider_IKan","name":"️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"jar": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xBPQ_4kd","playerType": 1,"name": "4Kyy-xBPQ","type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/4kyy.json"},
 {"key":"Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 //{"key":"KanSJ_spider","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "Kuaikan","name": "快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/1019.jar"},
