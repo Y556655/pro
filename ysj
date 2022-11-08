@@ -34,7 +34,8 @@
 //{"key": "csp_xBPQ_LGyy","name": "蓝光影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/蓝光影院.json"},
 //{"key": "csp_Cokemv","name": "Cokemv","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 //{"key": "csp_xBPQ_555yy1","name": "555影视XX","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/555影院.json"},
-{"key": "Gitcafe","name":"小纸条盘搜","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
+//{"key": "Gitcafe","name":"小纸条盘搜","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
+{"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/sousuo.jar",key:'csp_Yisou',name:'易搜(仅搜索)',type:3,api:'csp_Yisou',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json'}
 //{"key": "csp_Yisou","name":"易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"7e662e4e66a149a1bedb4b94c12e15a8"},
 //{"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7e662e4e66a149a1bedb4b94c12e15a8"},
 //{"key": "csp_xBPQ_爱酷影视","name": "爱酷影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱酷影视.json"},
