@@ -1,0 +1,43 @@
+{
+"站名": "新视觉",
+"主页url": "https://www.6080dy1.com/",
+"请求头": "",
+"头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"热门推荐": "30",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"图片代理": "0",
+"数组": "class=\"module-item-pic&&module-item\">",
+"图片": "data-src=\"&&\"",
+"标题": "title=\"&&\"",
+"副标题":"class=\"module-item-text\"&&</div>",
+"链接": "href=\"&&\"",
+"链接前缀": "",
+
+"导演": "",
+"主演": "",
+"简介": "剧情:&&</span>",
+
+"线路数组": "module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>",
+
+"播放数组": "class=\"scroll-content&&</div>[替换:<!--旧原来的*旧原来的-1-->>>空]",
+//*中间段用*号代替 <!--旧原来的-1--> <!-- <a href="/vplay/79904-4-1.html" title="播放点燃我，温暖你第01集"><span>第01集</span></a> --> <!--旧原来的-1-->
+"播放标题": "span>&&</span>",
+"播放链接": "href=\"&&\"",
+"免嗅": "0",
+
+"分类url": "https://www.6080dy1.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+"类型": "",
+"剧情": "",
+
+"地区": "",
+
+"年份": "",
+
+"排序": "",
+
+"筛选": "1"
+}
