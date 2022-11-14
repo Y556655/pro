@@ -1,7 +1,7 @@
 {
 "作者":"YYH",
 "站名": "鸭奈飞影视",
-"头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
+"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
 "主页url": "https://yanetflix.com/",
 "热门推荐": "40",
 
@@ -28,7 +28,6 @@
 "线路数组": "class=\"module-tab-item tab-item&&</div>[排序:NetflixLZ>多多][不包含:NetflixC#NetflixRX#NetflixLV#NetflixPro#NetflixRR#NetflixZX#NetflixA#NetflixLZX#NetflixDX#NetflixB]",
 "线路标题": "<span>&&</span>",
 
-"播放请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
 "播放数组":"class=\"module-play-list&&</div>",
 "播放列表":"<a&&/a>",
 "播放标题":"span>&&</sp",
