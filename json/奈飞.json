@@ -34,7 +34,7 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "https://yanetflix.com",
 
-"免嗅":"0",
+"免嗅":"1",
 "分类": "电影$dianying#电视剧$lianxuju#动漫$dongman#综艺$zongyi",
 "分类url":"https://yanetflix.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "筛选":{
