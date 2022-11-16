@@ -38,6 +38,7 @@
 //{"key": "csp_xBPQ_爱酷影视","name": "爱酷影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱酷影视.json"},
 {"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xBPQ_umyy","name": "UM影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/UM影院.json"},
 {"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key":"csp_xBPQ_奈非","name": "奈非电影(新xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/奈飞.json"},
+{"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/小纸条.jar","key": "csp-Gitcafe","name":"小纸条盘搜","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
 {"key": "csp_xBPQ_LIBVIO","name": "LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"}
 
 
