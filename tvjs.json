@@ -51,13 +51,16 @@
                                                 "filterable": 1,
                                                    "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"
                        },
-        {
-            "key": "drpy_js_酷云77",
-            "name": "酷云77",
-            "type": 3,
-            "api": "assets://js/lib/drpy.js",
-            "ext": "https://gitee.com/kaisertv/pro/raw/master/js/酷云77.js"
-        }
+             {
+                    "key": "dr_77",
+                       "name": "酷云77(drpy)",
+                          "type": 3,
+                             "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
+                                "searchable": 2,
+                                   "quickSearch": 0,
+                                      "filterable": 1,
+                                         "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"
+             }
     ],
     "lives": [
         {
