@@ -9,7 +9,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdGF0aWMtODEyMDQ2ZDItN2E5Yy00MjUwLTlhY2EtMTJhOTE4Mzk2ZDk4LmJzcGFwcC5jb20vbGl2ZS9saXZlLnR4dA=="]}]}],
 
 "sites":[
-
+{"key": "Kuaikan","name": "快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/1019.jar"},
 {"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xf_free","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
 {"key": "csp_xBPQ","name": "️在线之家","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/zxzj.json"},
 {"key": "低端","name": "低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1},
