@@ -69,7 +69,7 @@
 
 ],
 
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"flags":["youku","qq","imgo","iqiyi","qiyi","letv","sohu","tudou","BYGA","rx","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi","douyin","xigua","leshi"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
