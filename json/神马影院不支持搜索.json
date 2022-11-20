@@ -13,10 +13,13 @@
 "主演":"主演：&&</div",
 "简介":"<p>&&</p>",
 
-"线路数组":"class=\"iconfont icon-iconfontplay2&&</div>[排序:高清线路>优选1>优选6][不包含:优选2#优选3]",
+"线路数组":"class=\"iconfont icon-iconfontplay2&&</div>[排序:高清线路>优选1>优选6][不包含:优选2]",
 "线路标题":">&&</",
 
 "播放数组":"class=\"stui-content__playlist&&</ul>",
+"播放标题":">&&</a>",
+"播放链接":"href=\"&&\"",
+"播放链接前缀": "https://www.smdyy.cc",
 
 "搜索模式": "0",
 "搜索后缀": "/kan/",
