@@ -4,7 +4,7 @@
 "主页url":"https://www.smdyy.cc/",
 "热门推荐":"40",
 "起始页":"1",
-"免嗅":"1",
+"副标题": "text-right\">&&</span>",
 "嗅探词":".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
 
 "播放请求头": "User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
