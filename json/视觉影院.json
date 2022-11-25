@@ -1,0 +1,42 @@
+{
+"站名": "视觉影视",
+"主页url": "https://www.shijueyy.com/",
+"请求头": "",
+"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
+"热门推荐": "40",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"图片代理": "0",
+
+"播放数组": "class=\"hl-plays-list hl-sort-list&&</div>",
+"播放列表": "<li&&</li>",
+"播放标题": ">&&</a>",
+"播放链接": " href=\"&&\"",
+"播放链接前缀": "https://www.shijueyy.com",
+"播放链接后缀": "",
+"免嗅": "0",
+"过滤词":"",
+
+"副标题": "class=\"hl-lc-1 remarks\">&&</span",
+
+"线路数组": "class=\"hl-tabs-btn&&class=\"iconfont hl",
+"线路标题": "alt=\"&&\"",
+
+"分类url": "https://www.shijueyy.com/v_show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+"分类二次截取": "",
+"分类数组": "",
+"分类标题": "",
+"分类ID": "",
+"类型": "",
+"剧情": "1",
+
+"地区": "1",
+
+"年份": "2005-2022",
+
+"排序": "1",
+
+"筛选": "1"
+}
