@@ -35,8 +35,6 @@
 "播放链接前缀": "rel=\"canonical\" href=\"&&/\"[替换:https://ddrk.me>>https://ddys.tv]",
 "播放链接后缀": "",
 "免嗅": "0",
-"嗅探词":".m3u8#.mp4#.douyin",
-"过滤词":"",
 "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://ddys.tv",
 
 "搜索url": "https://ddys.tv/?s={wd}&post_type=post",
