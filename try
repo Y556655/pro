@@ -24,7 +24,7 @@
 {"name": "️FREEOK🍑(xBPQ)","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
 {"name": "️在线之家","key": "csp_xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/zxzj.json"},
 {"name": "低端影视","key": "低端","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1},
-{"name": "低端电视不能放xBPQ","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "https://gitee.com/kaisertv/pro/raw/master/json/低端.json"},
+{"name": "低端电视不能放xBPQ","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ", "playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "https://gitee.com/kaisertv/pro/raw/master/json/低端.json"},
 {"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"name": "小苹果","key":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"ext":0},
