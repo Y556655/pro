@@ -68,7 +68,7 @@
 {"name":"找资源搜","key":"mtv_pc_找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4dbc7660a664a2ebabb265d75911a5c"},
 {"name":"易搜盘","key": "csp_Yisou","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4dbc7660a664a2ebabb265d75911a5c"},
 //{"name":"盘搜","key":"AliPS","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
-{"name": "🦌T4爬虫SY","key": "T4","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/vod%20(4).json","jar": "http://刚刚.live/jar2/0906.jar"},
+{"name": "🦌T4爬虫SY","key": "T4","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/vod%20(4).json","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/202211厂长.jar"},
 {"name":"T4公共","key":"t4public","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c&timeout=10","searchable":1,"quickSearch":1,"filterable":0}
 //备用
 
