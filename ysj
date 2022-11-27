@@ -56,7 +56,7 @@
 //{"name":"X盘搜","key":"AliPS","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
 //{"name": "🦌T4爬虫SY","key": "T4","type": 4,"api": "https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/vod%20(4).json","jar": "http://刚刚.live/jar2/0906.jar"},
 //{"name":"T4公共","key":"t4public","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=a4dbc7660a664a2ebabb265d75911a5c&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{name:'易搜(仅搜索)',"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/sousuo.jar",key:'csp_Yisou',type:3,api:'csp_Yisou',searchable:1,quickSearch:1,filterable:1,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json'},
+{name:'易搜(仅搜索)',"jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/sousuo.jar",key:'csp_Yisou',type:3,api:'csp_Yisou',searchable:1,quickSearch:1,filterable:1,ext:'https://gitee.com/kaisertv/pro/raw/master/json/autorun.json'},
 {"name":"小纸条盘搜","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/小纸条.jar","key": "csp-Gitcafe","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"}
 
 ],
