@@ -8,8 +8,8 @@
 
 "sites":[
 
-{"name": "视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/视觉影院.json"}
-
+{"name": "视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/视觉影院.json"},
+{"key": "csp_QQ","name": "腾讯视频","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
 
@@ -23,11 +23,12 @@
 
 {"name":"Json轮询","type":2,"url":"Sequence"},
 
-{"name":"3","type":0,"url":"https://vip.parwix.com:4433/player/?url="}
+{"name": "懒懒1","type": 1,"url": "http://123.57.56.94:9931/lanlan/?url="},
+{"name": "懒懒2","type": 1,"url": "http://lanlan.ckflv.cn/?url=","ext": {"flag": ["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
 
 ],
 
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"flags":["youku","qq","imgo","iqiyi","qiyi","letv","sohu","tudou","BYGA","rx","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi","douyin","xigua","leshi"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
