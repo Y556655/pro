@@ -63,9 +63,9 @@
 
 //搜索类的
 {"name":"alist网盘","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/alist.jar","key":"alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"4K资源$https://pan.ichuguang.com#一只鱼$https://alist.youte.ml#我的盘$http://139.224.64.109:5244#9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml#DISK$http://124.222.140.243:8080#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"}, 
-{"name":"小纸条盘搜","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/小纸条.jar","key": "csp-Gitcafe","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "a4dbc7660a664a2ebabb265d75911a5c"},
-{"name":"找资源搜","key":"mtv_pc_找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4dbc7660a664a2ebabb265d75911a5c"},
-{"name":"易搜盘","key": "csp_Yisou","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"a4dbc7660a664a2ebabb265d75911a5c"}
+{"name":"小纸条盘搜","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/小纸条.jar","key": "csp-Gitcafe","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27fc19b347254e96ba9c7db9f43561fc"},
+{"name":"找资源搜","key":"mtv_pc_找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"27fc19b347254e96ba9c7db9f43561fc"},
+{"name":"易搜盘","key": "csp_Yisou","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"27fc19b347254e96ba9c7db9f43561fc"}
 //备用
 
 //{"key": "ysjpk2","name": "影视界片库2","type": 0,"api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "战争片",  "剧情片", "国产剧", "港台剧", "日韩剧", "大陆综艺", "港台综艺", "日韩综艺", "日本动漫", "欧美动漫"]},
