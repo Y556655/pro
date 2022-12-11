@@ -27,6 +27,7 @@
 {"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"name": "小苹果","key":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"ext":0},
+{"name":"厂长影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Czsapp","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "腾讯视频","key": "csp_QQ","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"name": "芒果TV","key": "csp_MGTV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name": "爱奇艺","key": "csp_IQIYI","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -49,6 +50,7 @@
 //不好用
 {"name": "乐猪影视","key":"Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 {"name": "FAN团影视","key": "csp_xBPQ_饭团影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/ftys1.json"},
+{"name":"新视觉┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Xinsj","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "️**新视觉xBPQ","jar": "https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/ls1025.jar","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/xsj.json"},
 {"name": "搜狐视频","key": "souhu","type": 0,"api": "https://www.555ziyuan.com:555/api.php/provide/vod/from/sohu/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": []},
 {"name": "达达龟","key": "csp_xBPQ_ddg","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/达达龟.json"},
@@ -62,7 +64,8 @@
 {"name": "视觉影院xBPQ","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar1/ls1107.jar","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
 
 //搜索类的
-{"name":"alist网盘","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/alist.jar","key":"alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"4K资源$https://pan.ichuguang.com#一只鱼$https://alist.youte.ml#我的盘$http://139.224.64.109:5244#9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml#DISK$http://124.222.140.243:8080#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"}, 
+//{"name":"alist网盘","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/alist.jar","key":"alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"4K资源$https://pan.ichuguang.com#一只鱼$https://alist.youte.ml#我的盘$http://139.224.64.109:5244#9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml#DISK$http://124.222.140.243:8080#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"}, 
+{"name":"🅿Alist网盘","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/alistsou.json"},
 {"name":"小纸条盘搜","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/小纸条.jar","key": "csp-Gitcafe","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27fc19b347254e96ba9c7db9f43561fc"},
 {"name":"找资源搜","key":"mtv_pc_找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"27fc19b347254e96ba9c7db9f43561fc"},
 {"name":"易搜盘","key": "csp_Yisou","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"27fc19b347254e96ba9c7db9f43561fc"}
