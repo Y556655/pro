@@ -1,0 +1,49 @@
+{
+"作者": "YYH",
+"站名": "神马影院",
+"主页url": "https://www.smdyy.cc/",
+//www.6080x.cc备用
+"请求头": "",
+"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
+"热门推荐": "40",
+"起始页": "1",
+"直接播放": "0",
+"倒序播放": "0",
+"图片代理": "0",
+
+"导演": "导演：&&</p",
+"主演": "主演：&&</p",
+"简介": "<span class=\"detail-sketch\">&&</span>",
+
+
+"线路数组": "<h3 class=\"iconfont icon-iconfontplay2\"&&</div>[排序:高清线路>备用线路>优选1]",
+"线路标题": ">&&</h3>",
+
+"播放数组": "class=\"stui-content__playlist clearfix&&</div>",
+"播放列表": "<li&&</li>",
+"播放标题": ">&&</a>",
+"播放链接": " href=\"&&\"",
+"播放链接前缀": "https://www.smdyy.cc",
+"播放链接后缀": "",
+"免嗅": "1",
+"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+"过滤词":"",
+
+
+"分类url": "https://www.smdyy.cc/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#日韩剧$15#欧美剧$16",
+"分类二次截取": "",
+"分类数组": "",
+"分类标题": "",
+"分类ID": "",
+"类型": "",
+"剧情": "1",
+
+"地区": "1",
+
+"年份": "2005-2022",
+
+"排序": "",
+
+"筛选": "1"
+}
