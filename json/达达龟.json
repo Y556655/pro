@@ -29,8 +29,7 @@
 "主演": "主演：&&</p",
 "简介": "display: none;\">&&</span>",
 
-"免嗅":"1",
-"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+"免嗅":"0",
 
 "分类url":"https://www.dadagui.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
