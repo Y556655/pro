@@ -33,6 +33,7 @@
 {"name": "️热播库","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_rbdy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/热播库.json"},
 {"name":"乐猪影视","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/乐猪影视.json"},
 {"name":"奇优影院","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_qiyou","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/奇优影院.json"},
+{"name":"33影视","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar1/ls1107.jar","key": "csp_33ys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/33影视.json"},
 //测试类
 
 
