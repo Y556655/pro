@@ -32,7 +32,7 @@
 "播放列表": "javascript&&\"image\"[替换:.mp4>>你我他.mp5#/v/*你>>空#我>>/?ep=#他>><序号>]",
 "播放标题": "caption\":\"&&\"",
 "播放链接": "src0\":\"&&.mp5",
-"播放链接前缀": "rel=\"canonical\" href=\"&&/\"[替换:https://ddrk.me>>https://ddys.art]",
+"播放链接前缀": "rel=\"canonical\" href=\"&&/\"",
 "播放链接后缀": "",
 "免嗅": "0",
 "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://ddys.art",
