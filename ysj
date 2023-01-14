@@ -47,7 +47,7 @@
 //{"name": "不能放Cokemv(xBPQ)","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar1/ls1107.jar","key": "csp_cokemv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/cokemv.json"}, 
 //{"name": "555影视XX","key": "csp_xBPQ_555yy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/555影院.json"},
 //{"name": "爱酷影视","key": "csp_xBPQ_爱酷影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱酷影视.json"},
-{"name": "视觉影院xBPQ","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar1/ls1107.jar","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
+//{"name": "视觉影院xBPQ","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar1/ls1107.jar","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
 
 //搜索类的
 //{"name":"alist网盘","jar":"https://static-812046d2-7a9c-4250-9aca-12a918396d98.bspapp.com/jar/alist.jar","key":"alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"4K资源$https://pan.ichuguang.com#一只鱼$https://alist.youte.ml#我的盘$http://139.224.64.109:5244#9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml#DISK$http://124.222.140.243:8080#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"}, 
