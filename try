@@ -67,9 +67,11 @@
 //搜索类的
 //{"name":"alist网盘","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"4K资源$https://pan.ichuguang.com#一只鱼$https://alist.youte.ml#我的盘$http://139.224.64.109:5244#9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml#DISK$http://124.222.140.243:8080#不知道谁$https://6vv.app#不知道谁的盘$https://anime.mqmmw.ga#姬路白雪$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"}, 
 {"name":"🅿Alist网盘","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/alistsou.json"},
-{"name":"小纸条盘搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key": "csp-Gitcafe","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "9a9b1b618b4e4043a7631a82b1f6cbcd"},
-{"name":"找资源搜","key":"mtv_pc_找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"9a9b1b618b4e4043a7631a82b1f6cbcd"},
-{"name":"易搜盘","key": "csp_Yisou","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":1,"ext":"9a9b1b618b4e4043a7631a82b1f6cbcd"}
+{"name":"UP云搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"UpYun","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
+{"name":"找资源","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"Zhaozy","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json$$$yingshi$$$abcd1234"},
+{"name":"易搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
+{"name":"小纸条盘搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"Paper","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
+
 //备用
 
 //{"key": "ysjpk2","name": "影视界片库2","type": 0,"api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "战争片",  "剧情片", "国产剧", "港台剧", "日韩剧", "大陆综艺", "港台综艺", "日韩综艺", "日本动漫", "欧美动漫"]},
