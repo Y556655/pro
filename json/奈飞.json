@@ -26,8 +26,8 @@
 "主演":"主演：&&</div>",
 "简介":"class=\"module-blocklist scroll-box scroll-box-y module-player-list\"&&</span>",
 
-"线路数组": "class=\"module-tab-item tab-item&&</div>[排序:NetflixFF>NetflixLZX]",
-"线路标题": "<span>&&</span>",
+"线路数组": "class=\"module-tab-item tab-item&&</div>",
+"线路标题": "<span>&&</span>[排序:NetflixFF>NetflixLZX]",
 
 "播放数组":"class=\"module-play-list&&</div>",
 "播放列表":"<a&&/a>",
