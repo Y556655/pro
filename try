@@ -60,7 +60,6 @@
 //{"name": "蓝光影院","key": "csp_xBPQ_LGyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/蓝光影院.json"},
 //{"name": "不能放Cokemv(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_cokemv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/cokemv.json"}, 
 {"name": "555影视XX","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_555yy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/555影院.json"},
-{"name": "爱酷影视","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_爱酷影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱酷影视.json"},
 //{"name": "视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
 
 //搜索类的
