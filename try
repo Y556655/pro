@@ -22,6 +22,7 @@
 {"name": "低端影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "低端","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1},
 //{"name": "低端电视不能放xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "https://gitee.com/kaisertv/pro/raw/master/json/低端.json"},
 {"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
+{"name":"🅱演唱会","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key":"csp_Biliych","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/biliych.json"},
 {"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 {"name": "小苹果","key":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"ext":0},
 {"name":"厂长影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Czsapp","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
