@@ -16,7 +16,7 @@
 "sites":[
 
 {"name": "快看(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "Kuaikan","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"name":"农民影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key":"csp_xBPQ_nmys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民影视.json"},
+{"name":"农民影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key":"csp_xBPQ_nmys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://codeberg.org/kaisertv/json/raw/branch/main/back/农民影视.json"},
 {"name": "饭团影视HD","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/饭团影视HD.json"},
 {"name": "️FREEOK(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
 {"name": "️在线之家","key": "csp_xBPQ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/zxzj.json"},
