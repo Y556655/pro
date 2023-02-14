@@ -5,9 +5,10 @@
 "spider":"https://gitee.com/kaisertv/pro/raw/master/app/0928.bmp",
 
 
+"lives":[
+{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/zb.txt"]}]}],
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://gitee.com/ysjback/htv/raw/master/live.txt"]}]}],
-
+]
 "sites":[
 
 {"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
