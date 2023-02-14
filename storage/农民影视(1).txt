@@ -7,7 +7,7 @@
   "倒序播放": "1",
   
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-  
+  18
   "分类url": "https://v.xiangdao.me/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html",
   
   "二次截取": "resize_list\">&&</ul>",
