@@ -1,13 +1,13 @@
 {
   "作者": "YYH",
   "站名": "LIBVIO",
-  "主页url": "https://libvio.me",
-  //"主页url": "https://libvio.me",
+  "主页url": "https://tv.libvio.cc/",
+  //"主页url": "https://libvio.fun",
 
   "分类": "电影&剧集&动漫&日韩剧&欧美剧",
   "分类值": "1&2&4&15&16",
   
-  "分类url": "https://libvio.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
