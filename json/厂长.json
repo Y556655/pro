@@ -1,0 +1,33 @@
+{
+"免嗅":"0",
+//www.czzy.tv
+"请求头": "手机",
+"播放请求头": "Mozilla/5.0 (Linux; Android 12; V2118A Build/SP1A.210812.003) AppleWebKit/537.36 (KHTML, like Gecko)  Chrome/91.0.4472.114 Mobile Safari/537.36",
+"热门推荐": "40",
+
+
+"导演": "导演：&&</li>",
+"主演": "主演：&&</div>",
+"简介": "简介：&&简介",
+
+"线路数组": ">在线播放&&</div>",
+"线路标题": "span>&&</span>",
+
+"播放标题": ">&&</a",
+"播放数组": "class=\"paly_list_btn&&</div>",
+
+"播放链接":"href=\"&&\"",
+"播放链接前缀": "https://www.czzzu.com",
+ 
+"分类url":"https://www.czzzu.com/{cateId}/page/{catePg}",
+"分类":"豆瓣电影Top250$dbtop250#最新电影$zuixindianying#热映中$reyingzhong#电视剧$dsj#国产剧$gcj#美剧$meijutt",
+"类型": "",
+
+"地区": "",
+
+"年份": "",
+
+"排序": "",
+
+"筛选": ""
+}
