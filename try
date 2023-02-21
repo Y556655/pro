@@ -100,7 +100,7 @@
 {"name":"如不能观看请手动更换以下解析", "type":1,"url":"https://play.fuqizhishi.com/xiaobai/API.php?appkey=ganggang&url=","header": {"User-Agent": "Mozilla/5.0"}}, 
 {"name": "懒懒2","type": 1,"url": "http://lanlan.ckflv.cn/?url=","ext": {"flag": ["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 {"name":"星辰云解析①","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name": "6080mg", "type": 0, "url": "https://jx1.idcdr.com/111/555/?url="},
+{"name": "6080mg", "type": 0, "url": "https://jx1.idcdr.com/111/555/?url=","ext":{"flag":[ "qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","sohu"],"header":{"User-Agent": "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"}}},
 {"name": "6080新视觉", "type": 0, "url": "https://jx1.idcdr.com/111/m3u8/?url=SLYS4k-s3.47eb670ec15b9efc5f533998915ccb59efac8de78e3c7d086a6257343042ad5ede7ff61f5440864bb47c729c631180763c9543009a43df7c2e597a32500e89c0&next="}, 
 {"name": "6080BYGA", "type": 0, "url": "https://jx1.idcdr.com/m3u8/?url=BYGB-a275352e09bead6c76af18725a6fee5eb8cae788fbce432a3138c408dabaa678825e26c7e02b043d38db4a61e246365329fa29a93dc3e5dcb19c270472b05569&next="},
 {"name": "6080BYGA1", "type": 0, "url": "https://jx1.idcdr.com/m3u8/?url=BYGA-70d2d72019adca50ebbbe869adc178f1&next="},
