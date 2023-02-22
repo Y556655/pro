@@ -52,7 +52,7 @@
 {"name": "LIBVIO","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
 {"name": "奈非电影(新xBPQ)","key":"csp_xBPQ_奈非","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/奈飞.json","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt"},
 {"name": "***Bttoo(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fantuan1115.txt","key": "csp_bttoo","api": "csp_Bttoo","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1 },   
-
+{"name":"视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/sjyy.json"},
 
 //不好用
 //{"name": "乐猪影视","key":"Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
