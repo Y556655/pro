@@ -2,7 +2,7 @@
 "spider":"https://gitee.com/kaisertv/pro/raw/master/app/0928.bmp",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/zb.txt"]}]}],
 "sites":[
-{"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
+//{"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name":"农民┃影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty0213.txt","key":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/nmys.json"},
 //{"name":"农民影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key":"csp_xBPQ_nmys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民影视.json"},
 {"name": "综艺xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/综艺.json"},
