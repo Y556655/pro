@@ -16,6 +16,7 @@
 
 "sites":[
 
+{"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 //{"name":"农民┃影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty0213.txt","key":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/nmys.json"},
 {"name": "快看(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "Kuaikan","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name": "饭团影视HD","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/饭团影视HD.json"},
@@ -23,7 +24,6 @@
 {"name":"在线之家","jar": "https://gitee.com/kaisertv/pro/raw/master/app/t3.txt","key":"Zxzj","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 {"name": "低端影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "低端","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"click": "ddys.tv;#vjsp > button","filterable": 1},
 //{"name": "低端电视不能放xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "https://gitee.com/kaisertv/pro/raw/master/json/低端.json"},
-{"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name":"🅱演唱会","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key":"csp_Biliych","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/biliych.json"},
 //{"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 //{"name": "综艺xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/影视之家.json"},
