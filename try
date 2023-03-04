@@ -56,7 +56,7 @@
 //不好用
 //{"name": "乐猪影视","key":"Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 //{"name": "FAN团影视","key": "csp_xBPQ_饭团影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/ftys1.json"},
-{"name":"新视觉┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty0303.txt","key":"csp_Xinsj","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"name":"新视觉┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Xinsj","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "️**新视觉xBPQ","jar": "https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/xsj.json"},
 //{"name": "搜狐视频","key": "souhu","type": 0,"api": "https://www.555ziyuan.com:555/api.php/provide/vod/from/sohu/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": []},
 {"name": "达达龟","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_ddg","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/达达龟.json"},
