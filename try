@@ -9,7 +9,7 @@
 
 
 {
-"spider":"https://gitee.com/kaisertv/pro/raw/master/app/fty0319.bmp",
+"spider":"https://gitee.com/kaisertv/pro/raw/master/app/0928.bmp",
 
 "lives":[
 {"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://xn--ihqu10cn4c.xn--z7x900a.love:63/TV/zb.txt"]}]}],
@@ -27,7 +27,7 @@
 {"name":"🅱演唱会","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key":"csp_Biliych","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/biliych.json"},
 //{"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 //{"name": "综艺xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/ls1107.txt","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/影视之家.json"},
-{"name": "小苹果","key":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"name": "小苹果","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty0319.bmp","key":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name":"厂长影视","jar": "https://gitee.com/kaisertv/pro/raw/master/app/t3.txt","key":"Czsapp","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
 //{"name": "️厂长xbpq","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XBPQ230203.txt","key": "csp_XBPQ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/厂长.json"},
 //{"name":"奥特SP","jar": "https://gitee.com/kaisertv/pro/raw/master/app/t3.txt","key":"Auete","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
