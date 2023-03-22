@@ -17,10 +17,10 @@
 "播放数组": "class=\"paly_list_btn&&</div>",
 
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.czzy01.com",
+"播放链接前缀": "https://www.czzzu.com",
  
-"分类url":"https://www.czzy01.com/{cateId}/page/{catePg}",
-"分类":"豆瓣电影Top250$dbtop250#最新电影$zuixindianying#热映中$reyingzhong#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv"",
+"分类url":"https://www.czzzu.com/{cateId}/page/{catePg}",
+"分类":"豆瓣电影Top250$dbtop250#最新电影$zuixindianying#热映中$reyingzhong#电视剧$dsj#国产剧$gcj#美剧$meijutt#韩剧$hanjutv",
 "类型": "",
 
 "地区": "",
