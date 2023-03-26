@@ -16,8 +16,6 @@
   
   "副标题": "class=\"module-item-note\"&&</div>",
   
-  
-  
   "线路数组": "class=\"module-tab-item tab-item&&</div>",
   "线路标题": "<span>&&</span>",
   
@@ -26,7 +24,7 @@
   "播放链接": " href=\"&&\"",
   "播放链接前缀": "https://www.2wyy.com",
   
-  "免嗅": "0",
+  "免嗅": "1",
   "过滤词":"",
 
   "筛选":{
