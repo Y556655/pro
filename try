@@ -112,7 +112,7 @@
 
 //移动不怎么好用
 {"name": "神马影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_SMYY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/神马影院.json"},
-{"name": "*爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xBPQ230203.bmp","key": "csp_2wyyys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/2wyy.json"},
+{"name": "*爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_2wyyys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/2wyy.json"},
 //{"name": "爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
 {"name": "4Kyy(xBPQ)","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_4kd","playerType": 1,"type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/4kyy.json"},
 {"name": "LIBVIO","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
