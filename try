@@ -130,7 +130,7 @@
 //{"name": "视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
 
 //DRPY
-{"name": "人人影视(DRPY)","key": "drpy_js_rrys","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/人人影视.js"},
+{"name": "人人影视(DRPY)","key": "drpy_js_rrys","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext": "https://gitee.com/kaisertv/pro/raw/master/js/厂长资源.js"},
 
 //搜索类的
 {"name":"🅿Alist网盘","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/alistsou.json"},
