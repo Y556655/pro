@@ -120,6 +120,7 @@
 {"name":"视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/sjyy.json"},
 
 //不好用
+{"name": "🎤酷奇MV(XYQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQBiu_酷奇MV","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/酷奇XYQBiu.json"},
 //{"name": "FAN团影视","key": "csp_xBPQ_饭团影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/ftys1.json"},
 {"name":"新视觉┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Xinsj","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "新视觉xBPQ","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/xsj.json"},
