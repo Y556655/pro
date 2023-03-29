@@ -12,7 +12,7 @@
   "副标题": "text-right\">&&</span>",
   
   "搜索模式": "1",
-  "搜索url": "/search/-------------.html?wd={wd}",
+  "搜索url": "search_-------------.html?wd={wd}&submit=",
   "搜索数组": "stui-vodlist__box\">&&</a>",
   "搜索图片": "data-original=\"&&\"",
   "搜索标题": "title=\"&&\"",
