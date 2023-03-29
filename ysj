@@ -142,13 +142,8 @@
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
-		{
-		   "name":"d",
-		   "type":1,
-		   "url":"http://k.json.icu/home/api?type=ys&uid=11512173&key=cfklmprwJLNOPR1489&url="
-		},
         {
-            "name": "e",
+            "name": "d",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         }
