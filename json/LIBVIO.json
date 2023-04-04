@@ -1,7 +1,7 @@
 {
   "作者": "YYH",
   "站名": "LIBVIO",
-  "主页url": "https://tv.libvio.cc/",
+  "主页url": "https://libvio.me/",
   //"主页url": "https://libvio.fun",
   
   "请求头": "手机",
@@ -10,7 +10,7 @@
   "分类": "电影&剧集&动漫&日韩剧&欧美剧",
   "分类值": "1&2&4&15&16",
   
-  "分类url": "https://tv.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+  "分类url": "https://libvio.me/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "text-right\">&&</span>",
   
@@ -32,8 +32,11 @@
   "线路标题": ">&&<[不包含:云盘#网盘]",
   
   "播放数组": "<ul class=\"stui-content&&</ul>",
-  "播放链接前缀": "https://www.libvio.me",
+  "播放链接前缀": "https://libvio.me",
   
+  "免嗅":"0",
+  "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+
   "筛选":{
 "1":[
   {"key":"class","name":"剧情","value":[
