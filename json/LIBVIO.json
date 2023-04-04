@@ -3,6 +3,9 @@
   "站名": "LIBVIO",
   "主页url": "https://tv.libvio.cc/",
   //"主页url": "https://libvio.fun",
+  
+  "请求头": "手机",
+  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://tv.libvio.cc",
 
   "分类": "电影&剧集&动漫&日韩剧&欧美剧",
   "分类值": "1&2&4&15&16",
