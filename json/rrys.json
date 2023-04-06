@@ -1,9 +1,9 @@
 {
 "作者":"YYH",
 "站名":"人人影视",
-"主页url":"https://www.rrets.cc/",
+"主页url":"https://www.rrets.cc",
 "请求头": "手机",
-"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
+"播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.rrets.cc",
 "热门推荐": "40",
 "起始页": "1",
 "直接播放": "0",
@@ -26,8 +26,8 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "https://www.rrets.cc",
 
-"免嗅":"0",
-//"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+"免嗅":"1",
+"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
 "分类url":"https://www.rrets.cc/vodshow-{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
 "分类":"电影$1#剧集$2#动漫$3#综艺$4",
