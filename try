@@ -104,7 +104,7 @@
 //{"name": "芒果TV","key": "csp_MGTV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"name": "爱奇艺","key": "csp_IQIYI","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name":"乐猪影视","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/乐猪影视.json"},
-{"name":"奇优影院","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_qiyou","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/奇优影院.json"},
+{"name":"奇优影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_qiyou","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/奇优影院.json"},
 //测试类
 
 
@@ -114,7 +114,7 @@
 {"name": "神马影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_SMYY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/神马影院.json"},
 {"name": "*爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_2wyyys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/2wyy.json"},
 //{"name": "爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
-{"name": "4Kyy(xBPQ)","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_4kd","playerType": 1,"type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/4kyy.json"},
+{"name": "4K影院xBPQ","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_4kd","playerType": 1,"type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/4kyy.json"},
 {"name": "LIBVIO","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
 {"name": "Bttoo(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/bttoo.bmp","key": "csp_bttwoo","api": "csp_Bttwoo","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1 },
 {"name":"视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/sjyy.json"},
@@ -127,6 +127,7 @@
 {"name": "真不卡影院","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/真不卡.json"},
 {"name": "UM影视","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/UM影院.json"},
 {"name":"555影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty0213.txt","key":"csp_555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+{"name":"555影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_555yy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/555影院.json"},
 //{"name": "视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
 
 //DRPY
