@@ -35,8 +35,7 @@
 "播放链接前缀": "name=\"postid\" v&&\">[替换:alue=\">>https://www.4kvm.com/dplayer?id=]",
 "播放链接后缀": "",
 "免嗅":"0",
-"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
-//"嗅探词":".css",
+"嗅探词":".css",
 "过滤词":"",
 "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 
@@ -60,9 +59,9 @@
 
 "地区": "",
 
-"年份": "2005-2023",
+"年份": "",
 
 "排序": "",
 
-"筛选": "1"
+"筛选": ""
 }
