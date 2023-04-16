@@ -20,6 +20,11 @@
 "主演": "",
 "简介": "剧情:&&</span>",
 
+"搜索url":"https://www.fantuanhd.com/sea{wd}.html",
+"搜索模式": "1",
+"搜索数组": "class=\"stui-vodlist__thumb lazyload&&class=\"stui-vodlist__detail",
+"搜索图片": "data-original=\"&&\"",
+
 "线路数组": "module-tab-item tab-item&&</div>[排序:在线观看>极速-01>蓝光专享1]",
 "线路标题": "<span>&&</span>",
 
