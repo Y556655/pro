@@ -114,6 +114,7 @@
 //{"name": "UM影视","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/UM影院.json"},
 
 //搜索类的
+{"name":"UP云搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"UpYun","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
 {"name":"易搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
 
 ],
