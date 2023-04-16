@@ -140,6 +140,7 @@
 
 //搜索类的
 {"name":"🅿Alist网盘","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/alistsou.json"},
+{"name":"UP云搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"UpYun","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
 {"name":"易搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
 
 ],
