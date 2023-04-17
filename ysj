@@ -92,7 +92,7 @@
 //{"name": "综艺xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/综艺.json"},
 //{"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 //{"name": "快看(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "Kuaikan","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"name":"饭团影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","key":"csp_Fantuanyy","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"name":"饭团影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","key":"csp_Fantuany跳提示y","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"name": "饭团影视HD","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/饭团影视HD.json"},
 {"name": "️FREEOK(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
 //{"name":"在线之家","jar": "https://gitee.com/kaisertv/pro/raw/master/app/t3.txt","key":"Zxzj","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
@@ -116,7 +116,8 @@
 
 //搜索类的
 //{"name":"UP云搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"UpYun","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
-{"name":"易搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
+{"name":"易搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
+{"name":"小纸条盘搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"Paper","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
 
 ],
 
