@@ -85,7 +85,7 @@
 
 "sites":[
 {"name":"小苹果","jar": "https://gitee.com/kaisertv/pro/raw/master/app/xc0320.bmp","key":"LiteApple","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
-{"name":"一起看TV","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty0213.txt","key":"csp_YQKAPP","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
+{"name":"一起看TV","jar": "https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","key":"csp_YQKAPP","type":3,"api":"csp_YQKAPP","playerType":2,"m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-tx.11ty.top"},
 {"name": "看看剧xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/kankanju.json"},
 {"name": "快看(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "Kuaikan","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name":"饭团影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","key":"csp_Fantuanyy","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
