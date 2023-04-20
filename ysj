@@ -109,6 +109,7 @@
 //{"name": "综艺(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/综艺.json"},
 //{"name": "爱看影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
 {"name": "LIBVIO(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
+{"name": "七年影视HD(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"XBPQ_qnys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/qnys.json"},
 
 //XYQH
 {"name":"农民影视XYQH","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民XYQH.json"},
