@@ -1,5 +1,5 @@
 {
-"spider":"https://gitee.com/kaisertv/pro/raw/master/app/0928.bmp",
+"spider":"https://gitee.com/kaisertv/pro/raw/master/app/88.bmp",
 "lives": [
     {
       "name": "直播",
@@ -84,65 +84,69 @@
   ],
 
 "sites":[
-{"name":"小苹果","jar": "https://gitee.com/kaisertv/pro/raw/master/app/xc0320.bmp","key":"LiteApple","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
-{"name": "看看剧xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/kankanju.json"},
-{"name": "快看(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "Kuaikan","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"name":"饭团影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","key":"csp_Fantuanyy","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-//{"name": "饭团影视HD","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/饭团影视HD.json"},
-{"name": "️FREEOK(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
-//{"name": "人人影视xBPQ电视N","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xBPQ230203.bmp","key":"rrysxbpq","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/rrys.json"},
-//{"name":"在线之家","jar": "https://gitee.com/kaisertv/pro/raw/master/app/t3.txt","key":"Zxzj","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-{"name":"低端影视","jar": "https://gitee.com/kaisertv/pro/raw/master/app/xc0320.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
-//{"name": "低端电视不能放xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "https://gitee.com/kaisertv/pro/raw/master/json/低端.json"},
+
+//sp
+{"name": "小苹果","key": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
-{"name":"🅱演唱会","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key":"csp_Biliych","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/biliych.json"},
-//{"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
-//{"name": "综艺xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/影视之家.json"},
-{"name":"厂长影视","key":"csp_Czsapp","jar": "https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","type":3,"api":"csp_Czsapp","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"name":"COKEMV","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/cokemv.json"},
-{"name":"VOFLIX影院","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_voflix","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/voflix.json"},
-{"name":"鸭奈飞影视","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/鸭奈飞.json"},
-//{"name": "️厂长xBPQ电视不能放","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_czys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/厂长.json"},
-//{"name": "腾讯视频", "jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "csp_QQ","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}, 
-//{"name": "芒果TV","key": "csp_MGTV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"name": "爱奇艺","key": "csp_IQIYI","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"name":"乐猪影视","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/乐猪影视.json"},
-{"name":"奇优影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_qiyou","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/奇优影院.json"},
-{"name": "双十电影xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_1010DY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/1010dy.json"},
-//测试类
-{"name":"农民影视XYQH","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民XYQH.json"},
-
-
-
-
-//移动不怎么好用
-{"name": "神马影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_SMYY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/神马影院.json"},
-{"name": "*爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_2wyyys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/2wyy.json"},
-//{"name": "爱看影视xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
-{"name": "4K影院xBPQ","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_4kd","playerType": 1,"type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/4kyy.json"},
-{"name": "LIBVIO","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
+{"name": "低端影视","key": "NoSearch_csp_DiDuan","type": 3,"api": "csp_Ddrk","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0},
+{"name": "厂长资源","key": "csp_CZSPP","type": 3,"api": "csp_Czsapp","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0},
+{"name": "乐猪影视","key": "Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": ""},
+{"name": "快看影视","key": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
+{"name": "一起看TV","key": "YQK_spider","api": "csp_YQKAPP","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api-aws.11ty.top"},
+{"name": "演唱会","jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key":"csp_Biliych","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/biliych.json"},
 {"name": "Bttoo(SP)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/bttoo.bmp","key": "csp_bttwoo","api": "csp_Bttwoo","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1 },
-{"name":"视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/sjyy.json"},
+{"name": "新视觉┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Xinsj","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"name": "555影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty0213.txt","key":"csp_555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+//{"name": "饭团影视┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xc0416.bmp","key":"csp_Fantuanyy","type":3,"api":"csp_Fantuan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"name": "360影院","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
+{"name": "腾讯视频", "jar": "https://gitee.com/kaisertv/pro/raw/master/app/fty1232.bmp","key": "csp_QQ","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+{"name": "芒果TV","key": "csp_MGTV","type": 3,"api": "csp_MGTV","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"name": "爱奇艺","key": "csp_IQIYI","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//不好用
-//{"name": "FAN团影视","key": "csp_xBPQ_饭团影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/ftys1.json"},
-{"name":"新视觉┃SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Xinsj","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"name": "新视觉xBPQ","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/xsj.json"},
-{"name": "达达龟","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_ddg","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/达达龟.json"},
-{"name": "真不卡影院","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/真不卡.json"},
-{"name": "UM影视","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/UM影院.json"},
-{"name":"555影视SP","jar":"https://gitee.com/kaisertv/pro/raw/master/app/fty0213.txt","key":"csp_555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-//{"name":"555影院xBPQ电视N","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_555yy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/555影院.json"},
-//{"name": "视觉影院xBPQ","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
+//xBPQ
+{"name": "饭团影视HD(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/饭团影视HD.json"},
+{"name": "看看剧(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/kankanju.json"},
+{"name": "️FREEOK(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/freeok.json"},
+{"name": "COKEMV(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/cokemv.json"},
+{"name": "VOFLIX影院(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_voflix","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/voflix.json"},
+{"name": "鸭奈飞影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/鸭奈飞.json"},
+{"name": "奇优影院(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_qiyou","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/奇优影院.json"},
+{"name": "双十电影(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_1010DY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/1010dy.json"},
+{"name": "LIBVIO(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
+{"name": "神马影院(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_SMYY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/神马影院.json"},
+{"name": "*爱看影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_2wyyys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/2wyy.json"},
+{"name": "iKan影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
+{"name": "4K影院(xBPQ)","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_4kd","playerType": 1,"type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/4kyy.json"},
+{"name": "视觉影院(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/sjyy.json"},
+{"name": "新视觉(xBPQ)","jar": "https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/xsj.json"},
+{"name": "达达龟(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_ddg","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/达达龟.json"},
+{"name": "真不卡影院(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/真不卡.json"},
+{"name": "UM影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/UM影院.json"},
+//{"name": "FAN团影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_饭团影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/ftys1.json"},
+//{"name": "555影院(xBPQ)电视N","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_555yy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/555影院.json"},
+//{"name": "视觉影院(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_sjyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/视觉影院.json"},
+//{"name": "乐猪影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/乐猪影视.json"},
+//{"name": "综艺(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/综艺.json"},
+//{"name": "爱看影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
+//{"name": "人人影视(xBPQ)电视N","jar":"https://gitee.com/kaisertv/pro/raw/master/app/xBPQ230203.bmp","key":"rrysxbpq","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/rrys.json"},
+//{"name": "低端(xBPQ)电视不能放","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "https://gitee.com/kaisertv/pro/raw/master/json/低端.json"},
+//{"name": "️厂长(xBPQ)电视不能放","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_czys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/厂长.json"},
+
+//XYQH
+{"name":"农民影视XYQH","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民XYQH.json"},
+//{"name":"电视放不了厂长影视(XYQH)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_厂长影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/厂长xyqh.json"},
 
 //DRPY
 //{"name": "人人影视(DRPY)","key": "drpy_js_rrys","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext": "https://gitee.com/kaisertv/pro/raw/master/js/厂长资源.js"},
 
-//搜索类的
+//搜索类
 {"name":"🅿Alist网盘","jar":"https://gitee.com/kaisertv/pro/raw/master/app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/alistsou.json"},
-//{"name":"UP云搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"UpYun","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
-{"name":"易搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
-{"name":"小纸条盘搜","jar":"https://gitee.com/kaisertv/pro/raw/master/app/小纸条.txt","key":"Paper","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
+{"name": "盘搜","key": "AliPanSou","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"name": "优盘搜","key": "UPanSo","type": 3,"api": "csp_UPanSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"name": "找资源","key": "FindZY","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"name": "易搜","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
+{"name": "小纸条盘搜","key":"GitCafe","type":3,"api": "csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
+
 ],
 
 
