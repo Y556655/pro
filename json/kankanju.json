@@ -26,7 +26,7 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "https://kankanju.cc",
 
-"搜索url": "https://kankanju.cc/vodsearch{wd}/page/{pg}.html",
+"搜索url": "https://kankanju.cc/vodsearch.html?wd={wd}&submit=",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
