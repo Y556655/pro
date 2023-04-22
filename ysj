@@ -93,7 +93,7 @@
 {"name":"低端影视","jar": "https://gitee.com/kaisertv/pro/raw/master/app/xc0320.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"name": "乐猪影视","key": "Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"name": "快看影视","key": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
-{"name": "一起看TV","key": "YQK_spider","api": "csp_YQKAPP","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api-aws.11ty.top"},
+//{"name": "一起看TV","key": "YQK_spider","api": "csp_YQKAPP","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api-aws.11ty.top"},
 
 
 
@@ -110,6 +110,8 @@
 //{"name": "爱看影视(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/爱看影视.json"},
 {"name": "LIBVIO(xBPQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/LIBVIO.json"},
 //{"name": "IRROR影视(xBPQ)电视N","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ-irror","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/irror.json"},
+{"name": "神马影院(XYQ)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/ls1107.bmp","key":"csp_xBPQ_神马","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/smyy.json"},
+
 
 //XYQH
 {"name":"农民影视XYQH","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民XYQH.json"},
