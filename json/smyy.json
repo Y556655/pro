@@ -29,7 +29,6 @@
   "搜索url":"https://www.smdyy.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "搜索模式": "0",
   "搜索二次截取": "",
-  "搜索数组": "class=\"stui-vodlist__box&&</span>",
   "搜索图片": "pic\":&&\"",
   "搜索标题": "name\":\"&&\"",
   "搜索链接": "id\":&&,\"",
