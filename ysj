@@ -94,7 +94,7 @@
 {"name": "乐猪影视","key": "Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"name": "快看影视","key": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 //{"name": "一起看TV","key": "YQK_spider","api": "csp_YQKAPP","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api-aws.11ty.top"},
-
+{"key": "csp_Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 
 
 
