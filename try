@@ -115,7 +115,7 @@
 {"name": "LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 {"name": "神马影院(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_SMYY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/神马影院.json"},
 {"name": "爱看影视*(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_2wyyys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/2wyy.json"},
-//{"name": "验证码iKan影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
+{"name": "iKan仅搜索(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
 {"name": "4K影院(xBPQ)","jar": "./app/ls1107.bmp","key": "csp_xBPQ_4kd","playerType": 1,"type": 3, "api": "csp_xBPQ","searchable": 1, "quickSearch": 1,"filterable": 0,"ext": "./json/4kyy.json"},
 {"name": "视觉影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/sjyy.json"},
 {"name": "新视觉(xBPQ)","jar": "./app/ls1107.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/xsj.json"},
