@@ -25,7 +25,7 @@
 "过滤词":"",
 
 "搜索url":"https://www.fantuanhd.com/search.html?wd={wd}&submit=",
-"搜索模式": "1",
+"搜索模式": "0",
 "搜索二次截取": "",
 "搜索数组": "class=\"stui-vodlist__box&&class=\"pic-text text-right",
 "搜索图片": "data-original=\"&&\"",
