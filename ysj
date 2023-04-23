@@ -106,11 +106,11 @@
 {"name":"鸭奈飞影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
 //{"name":"乐猪影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
 //{"name": "综艺(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/综艺.json"},
-//{"name": "爱看影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
 {"name": "LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 //{"name": "IRROR影视(xBPQ)电视N","jar":"./app/ls1107.bmp","key":"csp_xBPQ-irror","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/irror.json"},
 {"name": "神马影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_神马","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/smyy.json"},
-{"name": "AUETE影院","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
+{"name": "AUETE影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
+{"name": "iKan仅搜索(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys2","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
 
 //XYQH
 {"name":"农民影视XYQH","jar":"./app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
