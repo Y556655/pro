@@ -1,42 +1,50 @@
 {
   "作者": "YYH",
-  "站名": "爱看影视",
+  "站名": "爱看影视仅搜索",
   "主页url": "https://ikan6.vip",
   "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
   "热门推荐": "40",
   
-  "数组": "class=\"myui-vodlist__thumb lazyload\"&&myui-vodlist__detail\"",
-"图片": "data-original=\"&&\"",
-"标题": "title=\"&&\"",
-
-"链接": "href=\"&&\"",
-
+  "数组": "class=\"swiper-slide\">&&/p>",
+  "图片": "background: url(&&)",
+  "标题": "<span>&&</span>",
+  "链接": "href=\"&&\"",
+  "副标题": "<p>&&<",
+  
   "分类url": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
   "分类值": "1&2&3&4&15&16",
   
-  "副标题": "text-right\">&&</span>",
   
+  
+  "搜索url":"https://ikan6.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "搜索模式": "0",
-  "搜索后缀": "/voddetail/",
+  "搜索二次截取": "",
+  "搜索图片": "pic\":&&\"",
+  "搜索标题": "name\":\"&&\"",
+  "搜索链接": "id\":&&,\"",
+  "搜索后缀":"/",
+  "搜索链接前缀": "https://ikan6.vip/voddetail/",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
   "影片类型": "分类：&&<span",
-  "导演": "导演：&&</p>",
-  "主演": "主演：&&</p>",
-  "简介": "display: none;\">&&</span>",
+  "导演": "导演：&&</div>",
+  "主演": "主演：&&</div>",
+  "简介": "style=\"line-height: 20px;\">&&</p>",
   
-  "线路数组": "<a href=\"#playlist&&</li>",
-  "线路标题": ">&&</a>",
+  "线路数组": "class=\"module-tab-item tab-item&&</div>",
+  "线路标题": "<span>&&</span>",
   
-  "播放数组": "<div id=\"playlist&&</ul>",
-  "播放标题": ">&&</a>",
+  "播放数组": "class=\"module-play-list-content&&</div>",
+  "播放标题": "<span>&&</span>",
   "播放链接": " href=\"&&\"",
   "播放链接前缀": "https://ikan6.vip",
   "播放链接后缀": "",
-  "免嗅": "0",
-  "过滤词":"",
+  
+"免嗅":"1",
+"嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
+"过滤词":"",
 
   "筛选":{
 "1":[
