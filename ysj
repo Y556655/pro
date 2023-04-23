@@ -113,8 +113,8 @@
 {"name": "AUETE影院","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
 
 //XYQH
-{"name":"农民影视XYQH","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/农民XYQH.json"},
-//{"name":"电视放不了厂长影视(XYQH)","jar":"https://gitee.com/kaisertv/pro/raw/master/app/XYQHiker230328.bmp","key": "csp_XYQHiker_厂长影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/kaisertv/pro/raw/master/json/厂长xyqh.json"},
+{"name":"农民影视XYQH","jar":"./app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
+//{"name":"电视放不了厂长影视(XYQH)","jar":"./app/XYQHiker230328.bmp","key": "csp_XYQHiker_厂长影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长xyqh.json"},
 
 
 
@@ -122,8 +122,8 @@
 //{"name": "盘搜","key": "AliPanSou","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 //{"name": "优盘搜","key": "UPanSo","type": 3,"api": "csp_UPanSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 //{"name": "找资源","key": "FindZY","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
-{"name":"易搜","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"},
-{"name":"小纸条盘搜","key":"GitCafe","type":3,"api": "csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/kaisertv/pro/raw/master/json/autorun.json"}
+{"name":"易搜","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
+{"name":"小纸条盘搜","key":"GitCafe","type":3,"api": "csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"}
 
 ],
 
