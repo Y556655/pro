@@ -149,7 +149,7 @@
 {"name": "优盘搜","key": "UPanSo","type": 3,"api": "csp_UPanSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"name": "找资源","key": "FindZY","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"name": "易搜","jar":"./app/小纸条.txt","key":"YiSo","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
-{"name": "小纸条盘搜","key":"GitCafe","type":3,"api": "csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"}
+{"name":"小纸条盘搜","jar":"./app/小纸条.txt","key":"Paper","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"}
 
 ],
 
