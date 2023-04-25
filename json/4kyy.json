@@ -26,7 +26,7 @@
 "主演": "<h2>演员</h2>&&<div id=\"info",
 "简介": "<p>&&</p>",
 
-"播放二次截取": "id=\'playernotice&&<div class=\"sheader\">",
+"播放二次截取": "id=\'playernotice&&<div class=\"sheader\">[替换:class=\'ajax_mode\'>>>videourls:你我\"name\":1集,\"链洁\":\\&mvsource=0\"和他tables:]",
 "播放数组": "videourls:&&tables:[替换:{>>你我#name\":>>name\":第#url\":>>链洁\":\\&ep=#}>>\\&source=0\"和他]",
 "列表二次截取": "",
 "播放列表": "你我&&和他",
