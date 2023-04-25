@@ -34,7 +34,7 @@
 "播放链接": "链洁\":&&\"",
 "播放链接前缀": "ifsrc:\'&&\'",
 "播放链接后缀": "",
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词":".css#.m3u8#m3u8?#.mp4#mp4?#.flv#.m4a#item/video#video_mp4",
 "过滤词":"",
 "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
