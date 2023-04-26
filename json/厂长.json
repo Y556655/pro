@@ -1,6 +1,6 @@
 {
-    "免嗅":"0",
-    "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a#item/video#video_mp4",
+    "免嗅":"2",
+    "嗅探词": ".mp4#mp4",
     "过滤词": ".html#=http",
     //czzyhd.com-www.CZZY.site-www.czzy01.com/
     "请求头": "手机",
