@@ -91,7 +91,7 @@
 //{"name": "七七影视巧技","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 //{"name": "低端影视","key": "NoSearch_csp_DiDuan","type": 3,"api": "csp_Ddrk","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0},
 {"name":"低端影视","jar": "./app/xc0320.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
-{"name": "乐猪影视","key": "Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": ""},
+//{"name": "乐猪影视","key": "Lezhu_spider","api": "csp_Lezhu","type": 3,"filterable": 1,"playerType": 2,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"name": "快看影视","key": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 //{"name": "一起看TV","key": "YQK_spider","api": "csp_YQKAPP","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://api-aws.11ty.top"},
 
@@ -105,7 +105,7 @@
 {"name":"COKEMV(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/cokemv.json"},
 {"name":"VOFLIX影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_voflix","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 {"name":"鸭奈飞影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
-//{"name":"乐猪影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
+{"name":"乐猪影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
 //{"name": "综艺(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/综艺.json"},
 //{"name":"厂长影视(xBPQ)电视N","jar":"./app/ls1107.bmp","key":"csp_xBPQ_czyyzy","type":3,"api":"csp_xBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/厂长.json"},
 {"name": "LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
