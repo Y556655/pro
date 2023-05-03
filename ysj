@@ -115,7 +115,7 @@
 {"name": "iKan仅搜索(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys2","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
 
 //XYQH
-{"name":"农民影视XYQH","jar":"./app/XYQHiker230328.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
+{"name":"农民影视XYQH","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
 
 
 
