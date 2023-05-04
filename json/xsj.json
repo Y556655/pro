@@ -27,16 +27,18 @@
 //*中间段用*号代替 <!--旧原来的-1--> <!-- <a href="/vplay/79904-4-1.html" title="播放点燃我，温暖你第01集"><span>第01集</span></a> --> <!--旧原来的-1-->
 "播放标题": "span>&&</span>",
 "播放链接": "href=\"&&\"",
+"播放链接前缀": "https://www.6080dy3.com",
+
 "免嗅": "1",
 
-"搜索url": "https://www.6080dy3.com/vodsearch/-------------.html?wd={wd}",
-"搜索模式": "1",
-"搜索二次截取": "",
-"搜索数组": "class=\"module-item-pic&&</div>",
-"搜索图片": "data-src=\"&&\"",
-"搜索标题": "alt=\"&&\"",
-"搜索链接": "a href=\"&&\"",
-"搜索链接前缀": "",
+  "搜索url":"https://www.6080dy3.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "搜索模式": "0",
+  "搜索二次截取": "",
+  "搜索图片": "pic\":&&\"",
+  "搜索标题": "name\":\"&&\"",
+  "搜索链接": "id\":&&,\"",
+  "搜索后缀":"html",
+  "搜索链接前缀": "https://www.6080dy3.com/video/",
 
 "分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
