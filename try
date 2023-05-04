@@ -142,6 +142,7 @@
 
 //DRPY
 //{"name": "人人影视(DRPY)","key": "drpy_js_rrys","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext": "./js/厂长资源.js"},
+{"name":"BTTWOO(DRPY)","key":"csp_Bttoo","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","ext":"./json/bttwoo.js"},
 
 //搜索类
 {"name":"Alist网盘","jar":"./app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/alistsou.json"},
