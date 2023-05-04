@@ -153,7 +153,7 @@
 //{"name":"小纸条盘搜","jar":"./app/小纸条.txt","key":"Paper","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"}
 {"name":"找资源","jar":"./app/xiangl.bmp","key":"Zhaozy","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
 {"name":"易搜","jar":"./app/xiangl.bmp","key":"csp_Yisou","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-{"name":"小纸条","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/autorun.json","jar":"./app/xiangl.bmp"}
+{"name":"小纸条","jar":"./app/xiangl.bmp","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/autorun.json"}
 
 ],
 
