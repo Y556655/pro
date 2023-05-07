@@ -12,7 +12,6 @@
 
 "播放请求头": "User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
 
-"影片年代":"更新：&&</p>",
 "导演":"导演：&&</div",
 "主演":"主演：&&</div",
 "简介":"style=\"line-height: 20px;\">&&</p>",
@@ -25,14 +24,14 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "https://wzyshi.com",
 
-  "搜索url":"https://wzyshi.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
-  "搜索模式": "1",
-  "搜索二次截取": "",
-  "搜索图片": "pic\":&&\"",
-  "搜索标题": "name\":\"&&\"",
-  "搜索链接": "id\":&&,\"",
-  "搜索后缀":"html",
-  "搜索链接前缀": "https://wzyshi.com/voddetail/",
+"搜索url":"https://wzyshi.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+"搜索模式": "1",
+"搜索二次截取": "",
+"搜索图片": "pic\":&&\"",
+"搜索标题": "name\":\"&&\"",
+"搜索链接": "id\":&&,\"",
+"搜索后缀":"html",
+"搜索链接前缀": "https://wzyshi.com/voddetail/",
   
 "分类":"电影$1#剧集$2#综艺$4#动漫$3",
 "分类url":"https://wzyshi.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
