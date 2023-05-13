@@ -30,5 +30,5 @@
 "免嗅":"0",
 "分类url":"http://www.qiyoudy1.com/list/{cateId}_{catePg}.html?order=time",
 "分类":"电影$1#电视剧$2#动漫$3#综艺$4#福利$6",
-"筛选":"1"
+"筛选":""
 }
