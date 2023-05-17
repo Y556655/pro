@@ -29,11 +29,11 @@
   "主演": "主演：&&</div>",
   "简介": "style=\"line-height: 20px;\">&&</p>",
   
-  "线路数组": "class=\"module-tab-item tab-item&&</div>[排序:蓝光线路（暂时）>蓝光线路2（暂时）>爱看专用（优先推荐）]",
-  "线路标题": "<span>&&</span>",
+  "线路数组": "href=\"#playlist3&&</div>[排序:蓝光线路（暂时）>蓝光线路2（暂时）>爱看专用（优先推荐）]",
+  "线路标题": "\">&&</a>",
   
-  "播放数组": "class=\"module-play-list-content&&</div>",
-  "播放标题": "<span>&&</span>",
+  "播放数组": "class=\"myui-content__list scrollbar&&</div>",
+  "播放标题": ">&&</a>",
   "播放链接": " href=\"&&\"",
   "播放链接前缀": "https://ikan6.vip",
   "播放链接后缀": "",
