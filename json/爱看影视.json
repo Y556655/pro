@@ -1,26 +1,26 @@
 {
   "作者": "YYH",
   "站名": "爱看影视仅搜索",
-  "主页url": "https://ikanys.tv",
+  "主页url": "https://aikan.me",
   "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
   "热门推荐": "40",
   
   "副标题": "class=\"module-item-note\"&&</div>",
   
-  "分类url": "https://ikanys.tv/vodtype/{cateId}/",
+  "分类url": "https://aikan.me/vodtype/{cateId}/",
   "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
   "分类值": "1&2&3&4&15&16",
   
   
   
-  "搜索url":"https://ikanys.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "搜索url":"https://aikan.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "搜索模式": "0",
   "搜索二次截取": "",
   "搜索图片": "pic\":&&\"",
   "搜索标题": "name\":\"&&\"",
   "搜索链接": "id\":&&,\"",
   "搜索后缀":"/",
-  "搜索链接前缀": "https://ikanys.tv/voddetail/",
+  "搜索链接前缀": "https://aikan.me/voddetail/",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
@@ -36,7 +36,7 @@
   "播放数组": "class=\"myui-content__list scrollbar&&</div>",
   "播放标题": ">&&</a>",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "https://ikanys.tv",
+  "播放链接前缀": "https://aikan.me",
   "播放链接后缀": "",
 
   "免嗅":"0",
