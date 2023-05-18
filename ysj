@@ -96,6 +96,8 @@
 //{"name": "快看影视","key": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 {"name":"无广告无搜索","jar":"./app/ls1107.bmp","key":"csp_xBPQ_qiy","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/无广告无搜索.json"},
 
+//appysv2
+{"key":"csp_appysv2_酷云影视","name":"酷云影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 
 //xBPQ
 {"name":"饭团影视JS","key":"饭团影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
