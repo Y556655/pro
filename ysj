@@ -98,7 +98,6 @@
 
 //appysv2
 {"key":"csp_appysv2_酷影影视","name":"酷影影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-{"name":"酷云影视","key":"酷云影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"name":"酷影蓝光","key":"酷影蓝光","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 {"name":"多米蓝光","key":"多米蓝光","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
 
@@ -106,7 +105,7 @@
 {"name":"饭团影视JS","key":"饭团影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 //{"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
 {"name": "看看剧(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
-{"name": "️FREEOK(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/freeok.json"},
+//{"name": "️FREEOK(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/freeok.json"},
 {"name":"COKEMV(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/cokemv.json"},
 {"name":"VOFLIX影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_voflix","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 {"name":"鸭奈飞影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
