@@ -24,6 +24,15 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "http://sudu.hdvod.top",
 
+  "搜索url":"http://sudu.hdvod.top/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "搜索模式": "1",
+  "搜索二次截取": "",
+  "搜索图片": "pic\":&&\"",
+  "搜索标题": "name\":\"&&\"",
+  "搜索链接": "id\":&&,\"",
+  "搜索后缀":"html",
+  "搜索链接前缀": "http://sudu.hdvod.top/index.php/vod/detail/id/",
+  
 "分类":"电影$1#剧集$2#综艺$3#动漫$4",
 "分类url":"http://sudu.hdvod.top/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
 "筛选":{
