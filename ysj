@@ -66,9 +66,6 @@
 
 
 "parses": [
-        {"name": "聚合","type": 3,"url": "Demo"},
-        {"name": "并发","type": 2,"url": "Parallel"},
-        {"name": "轮询","type": 2,"url": "Sequence"},
         {
             "name": "c",
             "type": 0,
