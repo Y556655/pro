@@ -55,13 +55,9 @@
 //{"name": "优盘搜","key": "UPanSo","type": 3,"api": "csp_UPanSo","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 //{"name":"小纸条","jar":"./app/xiangl.bmp","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/autorun.json"}
 
-//{"name":"盘搜2","jar":"./app/ss.bmp","key":"csp_PanSou","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-//{"name":"DOVX搜","jar":"./app/ss.bmp","key":"csp_Dovx","type":3,"api":"csp_Dovx","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-//{"name":"up云搜","jar":"./app/ss.bmp","key":"csp_UpYun","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-//{"name":"易搜","jar":"./app/ss.bmp","key":"csp_YiSo","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-{"name":"盘搜","jar":"./app/ss.bmp","key":"csp_PanSearch","type":3,"api":"csp_PanSearch","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-{"name":"小纸条","jar":"./app/ss.bmp","key":"csp_Paper","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
-
+{"name":"找资源","jar":"./app/xiangl.bmp","key":"Zhaozy","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
+{"name":"易搜","jar":"./app/xiangl.bmp","key":"csp_Yisou","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
+{"name":"阿里盘搜","jar":"./app/xiangl.bmp","key":"csp_AliPS","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 ],
 
 
