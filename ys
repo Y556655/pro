@@ -21,9 +21,9 @@
 {"name": "小苹果","jar":"https://tvbox.cainisi.cf/jar/fty.jar","key": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 //appysv2
 //{"name":"酷影影视","key":"csp_酷影影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-{"key": "1酷影资源","name": "1酷影资源","type": 1,"api": "https://cms.wbsys.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 //xBPQ
+{"name":"速度影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_sdys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/sdys.json"},
 
 //XYQH
 
