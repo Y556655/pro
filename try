@@ -55,6 +55,7 @@
 {"name": "UM影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/UM影院.json"},
 {"name": "七年影视*(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQ_qnys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qnys.json"},
 {"name": "神马影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_神马","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/smyy.json"},
+{"name":"极客影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_jkys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jkys.json"},
 {"name": "AUETE影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
 //{"name": "IRROR影视(xBPQ)电视N","jar":"./app/ls1107.bmp","key":"csp_xBPQ-irror","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/irror.json"},
 //{"name": "FAN团影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_饭团影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/ftys1.json"},
