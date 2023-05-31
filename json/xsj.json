@@ -1,7 +1,7 @@
 {
 "站名": "新视觉",
-"主页url": "https://www.6080dy3.com/",
-//https://www.6080dy2.com/,https://www.2wyy.com
+"主页url": "https://www.k6080.com",
+//https://www.3wyy.com/
 "请求头": "",
 "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "热门推荐": "30",
@@ -27,12 +27,12 @@
 //*中间段用*号代替 <!--旧原来的-1--> <!-- <a href="/vplay/79904-4-1.html" title="播放点燃我，温暖你第01集"><span>第01集</span></a> --> <!--旧原来的-1-->
 "播放标题": "span>&&</span>",
 "播放链接": "href=\"&&\"",
-"播放链接前缀": "https://www.6080dy3.com",
+"播放链接前缀": "https://www.k6080.com",
 
 "免嗅": "1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
-"搜索url":"https://www.6080dy3.com/vodsearch/{wd}----------1---.html",
+"搜索url":"https://www.k6080.com/vodsearch/{wd}----------1---.html",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组": "class=\"lazy lazyload&&</a>",
@@ -40,13 +40,13 @@
 "搜索标题": "alt=\"&&\"",
 "搜索链接": "href=\"&&\"",
 "搜索后缀":"",
-"搜索链接前缀": "https://www.6080dy3.com",
+"搜索链接前缀": "https://www.k6080.com",
 
 "免嗅":"1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 "过滤词":"",
 
-"分类url": "https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类url": "https://www.k6080.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 "类型": "1",
 "剧情": "1",
