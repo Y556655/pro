@@ -11,17 +11,14 @@
 {"name":"低端影视","jar": "./app/xc0320.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"name":"厂长影视SP","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"在线之家","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"name":"BTTOO影视SP","jar": "./app/xBPQ230203.bmp","key":"Csp_btto","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+//{"name":"BTTOO影视SP","jar": "./app/xBPQ230203.bmp","key":"Csp_btto","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 //{"name": "快看影视","key": "快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 {"name":"无广告无搜索","jar":"./app/ls1107.bmp","key":"csp_xBPQ_qiy","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/无广告无搜索.json"},
 
 //appysv2
 {"name":"速度影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_sdys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/sdys.json"},
 {"name":"酷影影视","key":"csp_酷影影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-//{"name":"酷影蓝光","key":"酷影蓝光","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 //{"name":"影视界主力源一","key":"影视界主力源一","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
-//{"name":"影视界主力源三","key":"nf影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ap.nfly.cc/api.php/app/"},
-//{"name":"影视界主力源二","key":"69影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 //xBPQ
 //{"name":"饭团影视JS","key":"饭团影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
