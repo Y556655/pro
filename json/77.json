@@ -1,7 +1,7 @@
 {
   "请求头": "Dalvik/2.1.0 (Linux; U; Android 10; JNY-AL10 Build/HUAWEIJNY-AL10)",
-  "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-  "分类url": "http://api.tyun77.cn/api.php/provide/searchFilter?type_id={cateId}&area={area}&pagenum={catePg}pagesize=24&year={year}",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+  "分类url": "http://api.tyun77.cn/api.php/provide/searchFilter?type_id={cateId}&pagenum={catePg}&pagesize=24&area={area}&year={year}&category={class}",
   "热门推荐": "40",
   "主页url": "http://api.tyun77.cn/api.php/provide/searchFilter",
   
@@ -40,7 +40,7 @@
 
 "地区": "1",
 
-"剧情": "",
+"剧情": "1",
 
 "年份": "2023-2010",
 
