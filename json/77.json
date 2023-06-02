@@ -3,7 +3,7 @@
   "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
   "分类url": "http://api.tyun77.cn/api.php/provide/searchFilter?type_id={cateId}&pagenum={catePg}&pagesize=24&area={area}&year={year}&category={class}",
   "热门推荐": "40",
-  "主页url": "http://api.tyun77.cn/api.php/provide/searchFilter",
+  "主页url": "http://api.tyun77.cn/api.php/provide/homeBlock?type_id=0",
   
   
 "数组": "videoCo&&color",
