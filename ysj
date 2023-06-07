@@ -10,6 +10,7 @@
 {"name": "七七影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_77ys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/77.json"},
 //{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name": "如意®APP","jar":"./app/0928.bmp","key":"AppYs_ryys","type": 3,"api": "csp_AppYsV2","ext": "http://cms.maoyingshi.cc/api.php/app/"},
+{"name": "爱迪APP","key": "csp_aidi", "jar":"./app/0928.bmp","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 //{"name": "低端影视","key": "NoSearch_csp_DiDuan","type": 3,"api": "csp_Ddrk","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 0},
 {"name":"低端影视","jar": "./app/xc0320.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"name":"厂长影视SP","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
@@ -26,6 +27,7 @@
 //xBPQ
 //{"name":"饭团影视JS","key":"饭团影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 //{"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
+{"name": "JoJo","jar":"./app/ls1107.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
 {"name": "看看剧(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
 //{"name": "️FREEOK(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/freeok.json"},
 //{"name":"COKEMV(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/cokemv.json"},
