@@ -7,6 +7,7 @@
 {"name":"小苹果(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_xpg","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/litelapple.json"},
 //{"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name": "如意®APP","jar":"./app/0928.bmp","key":"AppYs_ryys","type": 3,"api": "csp_AppYsV2","ext": "http://cms.maoyingshi.cc/api.php/app/"},
+{"name": "爱迪APP","key": "csp_aidi", "jar":"./app/0928.bmp","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 {"name":"多米蓝光","key":"多米蓝光","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top/api.php/app/"},
 {"name": "七七影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_77ys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/77.json"},
 //{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
@@ -36,6 +37,7 @@
 
 //xBPQ
 {"name": "速度影视O(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_sdys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/sdys.json"},
+{"name": "JoJo","jar":"./app/ls1107.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
 {"name":"饭团影视JS","key":"饭团影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 //{"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
 {"name": "看看剧(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
