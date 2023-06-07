@@ -1,0 +1,53 @@
+{
+"请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
+"主页url": "https://app.syrme.top/",
+//来自小米
+
+"热门推荐": "40",
+  
+"数组": "class=\"content-body&&class=\"score",
+"图片": "src=\"&&\"",
+"标题": "card-title\">&&</p>",
+"副标题": "class=\"item-speed\">&&</p>",
+"链接": "href=\"&&\"",
+"链接前缀": "https://app.syrme.top",
+
+"导演": "导演：&&</p>",
+"主演": "主演：&&</p>",
+"简介": "简介：</span>&&</span>",
+
+"线路标题": "JoJo",
+
+"播放链接前缀": "https://app.syrme.top",
+"播放列表": "<a&&/a>",
+"播放标题": "\">&&<",
+"播放链接": "href=\"&&\"",
+"播放数组": "class=\"plyr-sidebar-list jojo-plyr-list&&</div>",
+
+"免嗅":"0",
+"嗅探词": "cn-beijing-data.aliyundrive.net",
+"过滤词":"",
+
+"搜索url":"https://app.syrme.top/video/search?q={wd}",
+"搜索模式": "1",
+"搜索二次截取": "class=\"content-body\">&&<ui-pagination",
+"搜索数组": "<a&&class=\"score",
+"搜索图片": "src=\"&&\"",
+"搜索标题": "class=\"card-title\">&&</p>",
+"搜索链接": "href=\"&&\"",
+"搜索后缀":"",
+"搜索链接前缀": "https://app.syrme.top",
+
+"分类": "电影$电影#美剧$美剧#韩剧$韩剧#日剧$日剧#动漫$动漫",
+"分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag={class}&page={catePg}&size=18",
+"类型": "",
+"剧情": "1",
+
+"地区": "",
+
+"年份": "",
+
+"排序": "",
+
+"筛选": "1"
+}
