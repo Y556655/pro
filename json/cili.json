@@ -40,6 +40,6 @@
   "播放列表": "{\"&&}",
   "播放标题": "title\":\"&&\"",
   "播放链接": "url\":\"&&\"",
-  "播放链接前缀": "https://player.i597.cc/?url=",
-  "播放链接后缀": "&ref=https://z.3412.net.cn/&vfrom=/"
+  "播放链接前缀": "http://player.3412.net.cn/?url=",
+  "播放链接后缀": "&ref=http://z.3412.net.cn/&vfrom=/"
 }
