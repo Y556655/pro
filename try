@@ -6,6 +6,7 @@
 //sp
 {"name":"小苹果(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_xpg","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/litelapple.json"},
 //{"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"name": "玩偶APP","jar":"./app/0928.bmp","key": "玩偶1","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 {"name": "如意®APP","jar":"./app/0928.bmp","key":"AppYs_ryys","type": 3,"api": "csp_AppYsV2","ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"name": "爱迪APP","key": "csp_aidi", "jar":"./app/0928.bmp","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 {"name":"多米蓝光","key":"多米蓝光","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top/api.php/app/"},
