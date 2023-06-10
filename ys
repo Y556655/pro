@@ -14,7 +14,7 @@
 {"name": "玩偶APP","jar":"./app/0928.bmp","key": "玩偶1","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 {"name": "如意®APP","jar":"./app/0928.bmp","key":"AppYs_ryys","type": 3,"api": "csp_AppYsV2","ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"布蕾影院","key":"布蕾影院","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://222.211.73.177:1868/api.php/app/"},
-{"name":"360全网影视","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/360.json"},
+//{"name":"360全网影视","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/360.json"},
 {"name": "七七影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_77ys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/77.json"},
 //{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name":"看看剧","jar":"./app/0928.bmp","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
