@@ -1,7 +1,7 @@
 {
         "二次截取": "\"data\"*[&&]",
         "数组": "{&&}",
-        "图片": "./public/ss.png",
+        "图片": "https://gitee.com/kaisertv/pro/raw/master/public/ss.png",
         "标题": "\"title\"*\"&&\"",
         "副标题": "\"createdAt\"*\"&&\"",
         "链接": "https://pan666.net/d/+\"slug\"*\"&&\"",
