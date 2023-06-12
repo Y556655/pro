@@ -11,11 +11,13 @@
 //{"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"name":"多米蓝光","key":"多米蓝光","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top/api.php/app/"},
 //{"name":"芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
-{"name": "滕训视频","jar":"./app/fty0213.txt","key": "csp_QQ","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}, 
+//{"name": "滕训视频","jar":"./app/fty0213.txt","key": "csp_QQ","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"name": "玩偶APP","jar":"./app/0928.bmp","key": "玩偶1","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 {"name": "如意®APP","jar":"./app/0928.bmp","key":"AppYs_ryys","type": 3,"api": "csp_AppYsV2","ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"name":"布蕾影院","key":"布蕾影院","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://222.211.73.177:1868/api.php/app/"},
 //{"name":"360全网影视","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/360.json"},
+{"name":"啊班app","key":"阿班影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://a.banwl.com/api.php/app/"},
+{"name":"落叶app","key":"落叶影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 {"name": "七七影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_77ys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/77.json"},
 //{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
 {"name":"看看剧","jar":"./app/0928.bmp","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
@@ -24,10 +26,6 @@
 {"name":"厂长影视SP","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"在线之家","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"name":"BTTOO影视SP","jar": "./app/xBPQ230203.bmp","key":"Csp_btto","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-
-//appysv2
-//{"name":"酷影影视","key":"csp_酷影影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
-//{"name":"影视界主力源一","key":"影视界主力源一","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
 
 //xBPQ
 //{"name":"速度影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_sdys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/sdys.json"},
@@ -38,6 +36,11 @@
 //{"name": "影视界(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbysj1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cili.json"},
 //XYQH
 
+//小米
+//{"name":"玩偶盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_wogg","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wogg.txt"},
+{"name":"4k盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_4kss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4ksousuo.txt"},
+{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
+//{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
 //搜索类
 {"name":"玩偶哥哥","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json$$$http://wogg.xyz/"},
