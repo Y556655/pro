@@ -60,8 +60,8 @@
 
 //小米
 //{"name":"玩偶盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_wogg","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wogg.txt"},
-{"name":"4k盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_4kss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4ksousuo.txt"},
-{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
+//{"name":"4k盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_4kss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4ksousuo.txt"},
+//{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
 //{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
 {"name":"玩偶哥哥","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json$$$http://wogg.xyz/"},
