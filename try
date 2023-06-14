@@ -1,5 +1,6 @@
 {
 "spider":"./app/88.bmp",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=meinv&type=302",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 "sites":[
 
