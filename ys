@@ -15,7 +15,7 @@
 {"name":"啊班app","key":"阿班影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://a.banwl.com/api.php/app/"},
 {"name":"落叶app","key":"落叶影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xn--yeta099v.online:66/api.php/app/"},
 //{"name": "七七影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_77ys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/77.json"},
-{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
+{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
 {"name":"看看剧","jar":"./app/0928.bmp","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
 {"name": "爱迪APP","key": "csp_aidi", "jar":"./app/0928.bmp","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 {"name":"低端影视","jar": "./app/xc0320.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
