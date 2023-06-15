@@ -7,12 +7,7 @@
 //sp
 
 {"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"name":"小苹果(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_xpg","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/litelapple.json"},
-{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1, "filterable":1},
-{"name":"量子资源","key":"lzi","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","台湾剧","战争片","动作片","喜剧片","爱情片","剧情片","大陆综艺"]},
-{"name":"暴风采集","key":"bfcj","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","台湾剧","战争片","动作片","喜剧片","爱情片","剧情片","大陆综艺"]},
-{"name": "石榴影视","jar":"./app/ls1223.bmp","key": "csp_xBPQ-slys","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/shilu.json"}
-
+{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1}
 
 ],
 
