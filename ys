@@ -30,6 +30,7 @@
 //{"name": "星影仅搜索(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
 //{"name": "影视界(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbysj1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cili.json"},
 //XYQH
+{"name":"饭团影视JS","key":"饭团影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 
 //小米
 //{"name":"玩偶盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_wogg","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wogg.txt"},
