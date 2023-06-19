@@ -8,7 +8,7 @@
 
 {"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
-{"name": "暴风采集","jar":"./app/xBPQ0606.bmp","playUrl":"http://bfzyplayer.com/player/?url=","key":"csp_bfcj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/暴风.json"}
+{"name": "暴风采集","jar":"./app/ls1107.bmp","playUrl":"http://bfzyplayer.com/player/?url=","key":"csp_bfcj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/暴风.json"}
 ],
 
 "parses":[
