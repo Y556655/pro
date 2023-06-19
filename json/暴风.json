@@ -24,7 +24,7 @@
 "播放标题":"title=\"&&\"",
 "播放链接":"href=\"http://bfzyplayer.com/player/?url=&&\"",
 
-"搜索url":"http://bfzy.tv/index.php/vod/search.html?wd={wd}",
+"搜索url":"http://bfzy.tv/index.php/vod/search/page/{catePg}/wd/{wd}.html",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组": "class=\"videoName\"&&/span>",
