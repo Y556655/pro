@@ -22,7 +22,7 @@
 "播放数组": "class=\"playlist wbox&&全选",
 "播放列表":"<li>&&<hr>",
 "播放标题":"title=\"&&\"",
-"播放链接":"href=\"http://bfzyplayer.com/player/?url=&&\"",
+"播放链接":"http+href=\"http://bfzyplayer.com/player/?url=https&&\"",
 
 "搜索url":"http://bfzy.tv/index.php/vod/search/page/{catePg}/wd/{wd}.html",
 "搜索模式": "1",
