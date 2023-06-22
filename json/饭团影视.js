@@ -4,7 +4,7 @@ var rule = {
     模板:'首图2',
     host:'https://www.fantuanhd.com',
     // url:'/show/fyclass/page/fypage.html',
-    url:'/show/id-fyclassfyfilter.html',
+    url:'/show/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}/page/fypage{{fl.year}}',
     filter: {
