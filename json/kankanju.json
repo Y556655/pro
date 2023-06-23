@@ -16,7 +16,7 @@
 
 "副标题":"pic-text text-right\"><b>&&</b>",
 
-"线路数组":"data-toggle=\"tab\"&&</li>[排序:LZ线路>FF线路>MJ线路>YZ线路>DD线路]",
+"线路数组":"data-toggle=\"tab\"&&</li>[替换:LZ线路>>量子#FF线路>>非凡][排序:KKJ线路>FY线路>量子>非凡>YZ线路]",
 "线路标题":">&&</a",
 
 "播放标题":">&&</a",
@@ -26,14 +26,15 @@
 "播放链接":"href=\"&&\"",
 "播放链接前缀": "https://kankanju.cc",
 
-"搜索url": "https://kankanju.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
-"搜索模式": "0",
+"搜索url": "https://kankanju.cc/type/id-.html?wd={wd}",
+"搜索模式": "1",
 "搜索二次截取": "",
-"搜索图片": "pic\":&&\"",
-"搜索标题": "name\":\"&&\"",
-"搜索链接": "id\":&&,\"",
-"搜索后缀":"html",
-"搜索链接前缀": "https://kankanju.cc/vod/",
+"搜索数组": "class=\"stui-vodlist__box&&class=\"pic-text text-right",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索后缀":"",
+"搜索链接前缀": "",
 
 "免嗅":"1",
 
