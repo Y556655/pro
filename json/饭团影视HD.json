@@ -37,10 +37,10 @@
 "搜索链接": "href=\"&&\"",
 "搜索链接前缀": "https://www.fantuanhd.com",
 
-"分类":"电影$20#电视剧$21#综艺$22#动漫$23",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 "分类url":"https://www.fantuanhd.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
-"20":[
+"1":[
 {
 "key":"class",
 "name":"剧情",
@@ -132,7 +132,7 @@
 ]
 }
 ],
-"21":[
+"2":[
 {
 "key":"class",
 "name":"剧情",
@@ -219,7 +219,7 @@
 ]
 }
 ],
-"22":[
+"3":[
 {
 "key":"class",
 "name":"剧情",
@@ -290,7 +290,7 @@
 ]
 }
 ],
-"23":[
+"4":[
 {
 "key":"class",
 "name":"剧情",
