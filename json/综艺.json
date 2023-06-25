@@ -1,7 +1,7 @@
 {
 "站名": "新视觉",
-"主页url": "https://www.6080dy3.com/",
-//https://www.6080dy2.com/,https://www.2wyy.com
+"主页url": "https://www.3wyy.com",
+//https://www.3wyy.com
 "请求头": "",
 "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "热门推荐": "2",
@@ -30,7 +30,7 @@
 "免嗅": "1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
-"分类url": "https://www.6080dy3.com/vodshow/{cateId}---{class}--{letter}---{catePg}---{year}.html",
+"分类url": "https://www.3wyy.com/vodshow/{cateId}---{class}--{letter}---{catePg}---{year}.html",
 "分类": "综艺$3",
 "筛选":{
 "3":[
