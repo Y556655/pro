@@ -6,6 +6,7 @@
 
 //sp
 
+{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"name":"小苹果(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_xpg","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/litelapple.json"},
 //{"name": "小苹果","jar":"./app/xpg.bmp","key": "小苹果","type": 3,"api": "csp_LiteApple","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
