@@ -37,7 +37,7 @@
 //{"name":"VOFLIX影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_voflix","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/voflix.json"},
 //{"name":"鸭奈飞影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
 {"name":"乐猪影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
-{"name": "综艺(xBPQ)","jar":"./app/xBPQ0606.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "./json/综艺.json"},
+//{"name": "综艺(xBPQ)","jar":"./app/xBPQ0606.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 0,"quickSearch": 1,"filterable": 0,"ext": "./json/综艺.json"},
 //{"name":"厂长影视(xBPQ)电视N","jar":"./app/ls1107.bmp","key":"csp_xBPQ_czyyzy","type":3,"api":"csp_xBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/厂长.json"},
 {"name": "LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 //{"name": "IRROR影视(xBPQ)电视N","jar":"./app/ls1107.bmp","key":"csp_xBPQ-irror","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/irror.json"},
