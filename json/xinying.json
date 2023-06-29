@@ -2,8 +2,8 @@
 "作者":"YYH",
 "站名":"星影",
 "播放请求头": "User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
-"主页url":"https://xy1080.cc/",
-//https://xy1080.cc/
+"主页url":"https://xy1080.net/",
+//https://xy1080.cc/-www.xy1080.net
 "热门推荐":"40",
 "起始页":"1",
 
@@ -27,19 +27,19 @@
 "播放数组":"class=\"anthology-list-play size&&</div>",
 "播放标题":">&&</a>",
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://xy1080.cc",
+"播放链接前缀": "https://xy1080.net",
 
-  "搜索url":"https://xy1080.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "搜索url":"https://xy1080.net/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "搜索模式": "1",
   "搜索二次截取": "",
   "搜索图片": "pic\":&&\"",
   "搜索标题": "name\":\"&&\"",
   "搜索链接": "id\":&&,\"",
   "搜索后缀":"/",
-  "搜索链接前缀": "https://xy1080.cc/voddetail/",
+  "搜索链接前缀": "https://xy1080.net/voddetail/",
   
 "分类":"搜搜看$1",
-"分类url":"https://xy1080.cc/vodshow/{cateId}-----------/",
+"分类url":"https://xy1080.net/vodshow/{cateId}-----------/",
 "类型": "",
 "剧情": "",
 
