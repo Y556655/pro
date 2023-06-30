@@ -1,13 +1,13 @@
 {
   "作者": "YYH",
   "站名": "AUETE影视",
-  "主页url": "https://auete.org",
+  "主页url": "https://auete.art",
   "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://auete.org",
   "热门推荐": "40",
 
   "副标题": "class=\"hdtag\">&&</button>",
   
-  "分类url": "https://auete.org/{cateId}/index.html",
+  "分类url": "https://auete.art/{cateId}/index.html",
   "分类": "电影&连续剧&综艺&动漫",
   "分类值": "Movie&Tv&Zy&Dm",
   
@@ -25,10 +25,10 @@
   "播放数组": "</small>&&</div>",
   "播放标题": "\">&&</a",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "https://auete.org",
+  "播放链接前缀": "https://auete.art",
   "播放链接后缀": "",
 
-"搜索url": "https://auete.org/aueteso.php?searchword={wd}",
+"搜索url": "https://auete.art/aueteso.php?searchword={wd}",
 "搜索模式": "1",
 "搜索二次截取": "",
 "搜索数组": "class=\"list-unstyled threadlist&&</a",
@@ -36,7 +36,7 @@
 "搜索标题": "text-danger\">&&</span>",
 "搜索链接": "data-href=\"&&\"",
 "搜索后缀":"",
-"搜索链接前缀": "https://auete.org",
+"搜索链接前缀": "https://auete.art",
   
   "免嗅": "0",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
