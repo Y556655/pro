@@ -13,7 +13,7 @@
 "主演":"主演：&&</p>",
 "简介":"简介：&&</p>",
 "播放请求头":"User-Agent$Dalvik/2.1.0",
-"线路数组": "<div class=\"stui-vodlist__head&&</div>[替换:量子线路>>lzm3u8#非凡资源>>ffm3u8][排序:奇热>飞云资源>lzm3u8>ffm3u8]",
+"线路数组": "<div class=\"stui-vodlist__head&&</div>[替换:量子线路>>lzm3u8#非凡资源>>ffm3u8][排序:奇热>飞云资源>lzm3u8>ffm3u8][不包含:盘]",
 "线路标题": "<h3>&&</h3>",
 "播放数组": "stui-content__playlist clearfix&&</ul>",
 "播放标题": ">&&<",
