@@ -1,12 +1,12 @@
 {
-"spider":"./app/88.bmp",
+"spider":"./app/ysc.bmp",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=dongman&type=302",
 
 "sites":[
 
 //sp
 
-{"name": "七七影视","jar":"./app/0928.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
+{"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
 
 {"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 1}
 
