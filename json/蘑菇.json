@@ -6,7 +6,8 @@
 "热门推荐":"40",
 "起始页":"1",
 
-"副标题": "class=\"video-info-item\">&&</div",
+"数组": "module-item-pic\">&&module-item\">",
+"副标题": "module-item-text\">&&</div>",
 
 "免嗅":"1",
 "嗅探词":".m3u8#.mp4#.douyin",
