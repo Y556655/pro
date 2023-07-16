@@ -29,8 +29,8 @@
 //XYQH
 
 {"name":"芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
-//{"name":"饭团影视JS","key":"饭团影视","type":3,"playerType":1,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
-
+//{"name":"饭团影视JS","key":"饭团影视","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
+//{"name":"荐片","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
 //搜索类
 {"name":"玩偶哥哥","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
 {"name":"玩偶妹妹","jar":"./app/xyqali.bmp","key": "cps_aliyunpan","type": 3,"api": "csp_XYQHikerAL","ext":"./json/womm.json"},
