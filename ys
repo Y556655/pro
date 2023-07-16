@@ -19,8 +19,8 @@
 
 //xBPQ
 //{"name": "看看剧(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
-{"name":"蘑菇影院(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
-//{"name":"蘑菇影院APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
+//{"name":"蘑菇影院(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
+{"name":"蘑菇影院APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
 {"name":"影探","key":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
 {"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","playerType":1,"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
 {"name": "徕米影视(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimiyy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
@@ -28,7 +28,7 @@
 //{"name": "*LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 //XYQH
 
-{"name":"芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
+//{"name":"芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
 //{"name":"饭团影视JS","key":"饭团影视","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 {"name":"荐片磁力","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
 //搜索类
