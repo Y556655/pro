@@ -32,9 +32,8 @@
 {"name":"影视界主力源二","key":"69影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 //xBPQ
-//{"name": "速度影视O(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_sdys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/sdys.json"},
 //{"name": "JoJo影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
-//{"name":"饭团影视JS","key":"饭团影视","playerType":1,"type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
+//{"name":"饭团影视JS","key":"饭团影视","playerType":1,"type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 {"name":"蘑菇影院APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
 //{"name":"蘑菇影院(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
 {"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","playerType":1,"key": "csp_xBPQ_FTyy1","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
@@ -82,10 +81,8 @@
 {"name":"农民影视XYQH","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
 //{"name":"电视放不了厂长影视(XYQH)","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_厂长影视","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长xyqh.json"},
 
-//DRPY
-//{"name": "人人影视(DRPY)","key": "drpy_js_rrys","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","ext": "./js/厂长资源.js"},
 
-{"key":"lzi","name":"量子资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]},
+{"name":"量子资源","key":"lzi","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片"]},
 
 //搜索类
 //{"name":"Alist网盘","jar":"./app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/alistsou.json"},
