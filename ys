@@ -15,7 +15,6 @@
 {"name":"低端影视","jar": "./app/xiangl0718.bmp","key":"Ddys","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"name":"厂长影视SP","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"在线之家","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-//{"name":"BTTOO影视SP","jar": "./app/xBPQ230203.bmp","key":"Csp_btto","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"荐片","jar":"./app/xiangl0718.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 //xBPQ
@@ -26,21 +25,11 @@
 {"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","playerType":1,"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
 {"name": "徕米影视(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimiyy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 {"name":"熊猫影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
-//{"name": "WZ影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_wzyy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wz影视.json"},
-//{"name": "速搜影视(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_wsousuoyy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ss.json"},
 //{"name": "*LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
-//{"name": "星影仅搜索(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
-//{"name": "影视界(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbysj1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cili.json"},
 //XYQH
 
 {"name":"芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
 //{"name":"饭团影视JS","key":"饭团影视","type":3,"playerType":1,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
-
-//小米
-//{"name":"玩偶盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_wogg","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wogg.txt"},
-//{"name":"4k盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_4kss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4ksousuo.txt"},
-//{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
-//{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
 //搜索类
 {"name":"玩偶哥哥","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
