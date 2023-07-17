@@ -18,6 +18,7 @@
 //{"name":"荐片","jar":"./app/xiangl0718.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 //xBPQ
+{"name": "高清视界(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
 //{"name": "看看剧(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
 //{"name":"蘑菇影院(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
 {"name":"蘑菇影院APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
