@@ -32,6 +32,7 @@
 {"name":"影视界主力源二","key":"69影视","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 //xBPQ
+{"name": "高清视界(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
 //{"name": "JoJo影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
 //{"name":"饭团影视JS","key":"饭团影视","playerType":1,"type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 {"name":"蘑菇影院APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
