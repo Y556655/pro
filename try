@@ -77,6 +77,8 @@
 //{"name":"BTTWO(xBPQ)电视不能放","jar":"./app/ls1107.bmp","key":"csp_xBPQ_Bttwo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/bttwo.json"},
 //{"name": "星影仅搜索","jar":"./app/ls1107.bmp","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
 
+//磁力
+{"name": "无极磁力(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_wjcl01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/无极磁力.json"},
 
 //XYQH
 {"name":"农民影视XYQH","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
