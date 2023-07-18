@@ -38,6 +38,7 @@
 //XYQH
 //{"name":"农民影视XYQH","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
 
+{"name":"推送","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
 
 //搜索类
