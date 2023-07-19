@@ -55,7 +55,7 @@
 {"name": "达达龟(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_ddg","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/达达龟.json"},
 {"name": "真不卡影院(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/真不卡.json"},
 {"name": "UM影视(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/UM影院.json"},
-{"name": "七年影视*(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQ_qnys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qnys.json"},
+//{"name": "七年影视*(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQ_qnys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qnys.json"},
 //{"name": "神马影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_神马","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/smyy.json"},
 {"name":"极客影视(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_jkys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jkys.json"},
 {"name": "AUETE影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
