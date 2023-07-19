@@ -4,7 +4,8 @@
 //https://www.fantuanhd1.com,https://www.fantuanhd2.com,https://www.fantuanhd3.com
 "主页url":"https://www.fantuanhd.com/",
 "数组": "class=\"stui-vodlist__box&&</li>",
-"图片":"data-original=\"&&\"",
+"图片":"https://gitee.com/kaisertv/pro/raw/master/public/gx.png",
+//"图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
