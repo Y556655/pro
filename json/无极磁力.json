@@ -14,7 +14,7 @@
   "搜索url":"https://1cili.com/search?q={wd}",
   "搜索模式": "1",
   "搜索数组": "<tr>&&</tr>",
-  "搜索图片": "https://gitee.com/kaisertv/pro/raw/master/public/ss.png",
+  "搜索图片": "https://gitee.com/kaisertv/pro/raw/master/public/cl.png",
   "搜索标题": "class=\"sample\">&&</p>",
   "搜索副标题": "class=\"td-size\">&&</td>",
   "搜索链接": "href=\"&&\"",
