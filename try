@@ -5,7 +5,7 @@
 "sites":[
 
 //sp
-//{"name": "七七影视","jar":"./app/77fan.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
+{"name": "七七影视","jar":"./app/xiangl0718.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
 {"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"name": "玩偶APP","key": "玩偶1","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 //{"name": "如意®APP","key":"AppYs_ryys","type": 3,"api": "csp_AppYsV2","ext": "http://cms.maoyingshi.cc/api.php/app/"},
@@ -78,6 +78,7 @@
 //{"name": "星影仅搜索","jar":"./app/ls1107.bmp","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
 
 //磁力
+{"name": "Mp4电影","jar":"./app/xiangl0718.bmp","key": "csp_Mp4Mov","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"name": "无极磁力(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_wjcl01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/无极磁力.json"},
 {"name": "BT天堂(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/bt天堂.json"},
 
