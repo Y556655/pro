@@ -1,7 +1,7 @@
 {
 "作者":"YYH",
 "站名":"蘑菇影院",
-"主页url":"https://www.gvideo.me",
+"主页url":"https://www.moguys.xyz",
 //https://www.moguys.xyz-http://www.gvideo.me/-http://www.movie4k.pro/
 "热门推荐":"40",
 "起始页":"1",
@@ -24,10 +24,10 @@
 "播放数组":"class=\"module-blocklist&&</div>",
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.gvideo.me",
+"播放链接前缀": "https://www.moguys.xyz",
 
 "分类":"电影$1#国产剧$13#韩剧$14#美剧$15#泰剧$24#动漫$3",
-"分类url":"https://www.gvideo.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+"分类url":"https://www.moguys.xyz/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
