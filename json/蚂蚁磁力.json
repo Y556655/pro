@@ -9,7 +9,7 @@
 
 //"播放数组":"readonly>&&/a>",
 //"播放标题":"id=\"down-url\">&&<",
-"播放链接": "magnet:?xt=urn:btih:+/do/detail.php?key=&&'>",
+"播放链接": "magnet:?xt=urn:btih:+detail.php?key=&&'>",
 
   "搜索url":"http://www.btmovi.bar/so/{wd}.html",
   "搜索模式": "1",
