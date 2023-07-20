@@ -14,8 +14,8 @@
   "搜索模式": "1",
   "搜索数组": "class=\"item-title&&</tr>",
   "搜索图片": "https://gitee.com/kaisertv/pro/raw/master/public/cl.png",
-  //"搜索标题": "class=\"highlight\">&&</a>",
-  //"搜索副标题": "class=\"label label-info"><b>&&</b>",
+  "搜索标题": "class=\"highlight\">&&</a>",
+  "搜索副标题": "class=\"label label-info"><b>&&</b>",
   "搜索链接": "href=\"&&\"",
   "搜索链接前缀": "https://v87to7jcko1436j4.xyz"
 }
