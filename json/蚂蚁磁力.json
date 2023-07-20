@@ -7,8 +7,8 @@
 "线路数组": "class=\"res-title&&/h1>",
 "线路标题": "\">&&<",
 
-"播放数组":"</p><a&&nbsp",
-"播放标题":"id=\"down-url\">&&</a>",
+"播放数组":"readonly>&&/a>",
+"播放标题":"id=\"down-url\">&&<",
 "播放链接": "magnet:?xt=urn:btih:79bcd27539687ea56b5eab1b77c614d5ed817b67",
 
   "搜索url":"http://www.btmovi.bar/so/{wd}.html",
