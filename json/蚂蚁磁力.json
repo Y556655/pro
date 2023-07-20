@@ -13,10 +13,10 @@
 
   "搜索url":"http://www.btmovi.bar/so/{wd}_rel_{catePg}.html",
   "搜索模式": "1",
-  "搜索数组": "class=\"cpill yellow&&创建时间",
+  "搜索数组": "class=\"search-item&&</b>",
   "搜索图片": "https://gitee.com/kaisertv/pro/raw/master/public/cl.png",
-  "搜索标题": "<em>&&class=\"item-list\"",
-  "搜索副标题": "pill\">&&</b>",
+  //"搜索标题": "<em>&&class=\"item-list\"",
+  //"搜索副标题": "pill\">&&</b>",
   "搜索链接": "href=\"&&\"",
   "搜索链接前缀": "http://www.btmovi.bar"
 }
