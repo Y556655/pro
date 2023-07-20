@@ -7,9 +7,9 @@
 "线路数组": "class=\"res-title&&/h1>",
 "线路标题": "\">&&<",
 
-"播放数组":"id=\"m_link&&</p>",
-"播放标题":"磁力链",
-"播放链接": "value=\"&&\"",
+"播放数组":" readonly&&nbsp",
+"播放标题":"id=\"down-url\">&&</a>",
+"播放链接": "href=\"&&\"",
 
   "搜索url":"http://www.btmovi.bar/so/{wd}.html",
   "搜索模式": "1",
