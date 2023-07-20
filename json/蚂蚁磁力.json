@@ -1,0 +1,22 @@
+{
+"作者":"YYH",
+"站名":"蚂蚁磁力",
+//http://www.btmovi.bar-http://www.eclyun.cc/-http://www.eclzz.bio/
+"播放请求头": "手机",
+
+"线路数组": "class=\"search-form&&class=\"nav-logo\"",
+"线路标题": "title=\"&&\"",
+
+"播放数组":"readonly>&&class=\"download",
+//"播放标题":"title=\"&&\"",
+"播放链接": "href=\"&&\"",
+
+  "搜索url":"http://www.btmovi.bar/so/{wd}_rel_{catePg}.html",
+  "搜索模式": "1",
+  "搜索数组": "class=\"cpill yellow&&创建时间",
+  "搜索图片": "https://gitee.com/kaisertv/pro/raw/master/public/cl.png",
+  "搜索标题": "<em>&&class=\"item-list\"",
+  "搜索副标题": "pill\">&&</b>",
+  "搜索链接": "href=\"&&\"",
+  "搜索链接前缀": "http://www.btmovi.bar"
+}
