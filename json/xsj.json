@@ -41,7 +41,8 @@
 "搜索图片": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F08%2F20210708113445_0fe7a.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1684821090&t=e44e2b6c04524958f0c7abdd8a2e3e1b",
 "搜索标题": "xt\":\"&&\"",
 "搜索副标题": "新视觉",
-"搜索链接": "https://www.6080yy1.com/video/+\"url\":\"https://www.6080yy3.com/video/&&.html\",+.html",
+"搜索链接": "\"url\":\"&&\"",
+//"搜索链接": "https://www.6080yy1.com/video/+\"url\":\"https://www.6080yy3.com/video/&&.html\",+.html",
 
 "免嗅":"1",
 "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
