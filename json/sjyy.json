@@ -27,6 +27,15 @@
 "线路数组": "class=\"hl-tabs-btn&&class=\"iconfont hl",
 "线路标题": "alt=\"&&\"",
 
+"搜索url":"https://www.ikyy.tv/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+"搜索模式": "1",
+"搜索二次截取": "",
+"搜索图片": "pic\":&&\"",
+"搜索标题": "name\":\"&&\"",
+"搜索链接": "id\":&&,",
+"搜索后缀":"html",
+"搜索链接前缀": "https://www.ikyy.tv/v_detail/",
+
 "分类url": "https://www.ikyy.tv/v_type/{cateId}-{catePg}.html",
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 "分类二次截取": "",
