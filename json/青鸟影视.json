@@ -30,14 +30,14 @@
 "播放链接":"href=\"&&\"",
 
 
-"搜索url":"https://www.qingniao.org//index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+"搜索url":"https://www.qingniao.org/search/{wd}/",
 "搜索模式": "1",
 "搜索二次截取": "",
-"搜索图片": "pic\":&&\"",
-"搜索标题": "name\":\"&&\"",
-"搜索链接": "id\":&&,\"",
-"搜索后缀":"html",
-"搜索链接前缀": "https://www.qingniao.org//vdetail/",
+"搜索数组": "class=\"uk-animation-slide&&</font></h3>",
+"搜索图片": "data-xurl=\"&&\"",
+"搜索标题": "class=\"video-post-content\">&&</font>",
+"搜索链接": "href=\"&&?action=get&p=1\"",
+"搜索链接前缀": "",
 
 "分类":"全部$0#欧美剧$1#日剧$11#韩剧$16#番剧$38#大陆剧$39#港台剧$40#泰国剧$41",
 "分类url":"https://www.qingniao.org/search/sy/{catePg}/?cat={cateId}&site=0&tag=0&niandai={year}&zhuangtai=-2&gaojijiansuo=1",
