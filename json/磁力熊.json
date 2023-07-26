@@ -1,0 +1,24 @@
+{
+"作者":"YYH",
+//https://cilixiong.site/-www.cilixiong.com
+"站名":"磁力熊",
+"播放请求头": "手机",
+"数组": "class=\"card card-cover&&<div class=\"col\">",
+"图片": "url(\'&&\')",
+"标题": "pb-2 h4\">&&</h2>",
+"副标题": "items-center small\">&&</li",
+"链接": "href=\"&&\"",
+
+"主演": "主演：&&</p>",
+"简介": "简介：&&</div>",
+
+"线路数组": "class=\"h6 pb-3\"&&/h2>",
+"线路标题": ">&&<",
+
+"播放数组":"class=\"border-bottom pt-2&&</div>",
+"播放标题":">&&</a>",
+"播放链接": "href=\"&&\"",
+
+"分类":"剧集$drama#电影$movie",
+"分类url":"https://www.cilixiong.net/{cateId}/"
+}
