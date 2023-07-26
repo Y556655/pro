@@ -30,6 +30,7 @@
 //{"name": "COKEMV┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/cokemv.json"},
 //{"name": "奈飞┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
 {"name": "乐猪┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
+{"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 //{"name": "LIBVIO(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 //{"name": "神马影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_神马","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/smyy.json"},
 //{"name": "AUETE影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
