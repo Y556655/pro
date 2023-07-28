@@ -1,5 +1,5 @@
 {
-"站名": "来米影视",
+"站名": "javdb影视",
 "作者": "YYH",
 "主页url": "https://javdb521.com",
 //https://javdb.com/-https://javdb521.com/
@@ -15,16 +15,8 @@
 "链接": "href=\"&&\"",
 "副标题": "nbsp;&&,",
 
-//"线路数组": "<li>&&</li>[不包含:U酷资源]",
-//"线路标题": "\">&&</a>",
-
 "跳转播放链接": "https://javdb521.com/v/+data-video-id=\"&&\"+#magnet-links",
 "二次跳转播放链接": "data-clipboard-text=\"&&\"[不包含:.torrent]",
-//"三次跳转播放链接": "\"url\"*\"&&\"",
-
-//"播放数组": "class=\"myui-content__list&&</div>",
-//"播放链接": "href=\"&&\"",
-//"播放标题": ">&&</a>",
 
 "搜索url": "https://javdb521.com/search?q={wd}&f=all",
 "搜索模式": "1",
