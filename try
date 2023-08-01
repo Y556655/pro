@@ -103,11 +103,11 @@
 //{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
 //{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
-{"name":"玩偶┃云盘","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json$$$http://tvfan.xxooo.cf/"},
-{"name":"纸条┃云盘","jar":"./app/xiangl0718.bmp","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/autorun.json"},
-{"name":"资源┃云盘","jar":"./app/xiangl.bmp","key":"Zhaozy","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
-{"name":"易搜┃云盘","jar":"./app/xiangl.bmp","key":"csp_Yisou","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
-{"name":"阿里┃云盘","jar":"./app/xiangl.bmp","key":"csp_AliPS","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
+//{"name":"玩偶┃云盘","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json$$$http://tvfan.xxooo.cf/"},
+//{"name":"纸条┃云盘","jar":"./app/xiangl0718.bmp","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/autorun.json"},
+//{"name":"资源┃云盘","jar":"./app/xiangl.bmp","key":"Zhaozy","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "./json/autorun.json"},
+//{"name":"易搜┃云盘","jar":"./app/xiangl.bmp","key":"csp_Yisou","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"},
+//{"name":"阿里┃云盘","jar":"./app/xiangl.bmp","key":"csp_AliPS","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
 ],
 
