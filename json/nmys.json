@@ -17,6 +17,7 @@
 "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
 "分类url": "https://www.laimi.me/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;u0",
 "跳转播放链接": "https://data.m3u8.in/play.php?url=+link_pre*url\":\"&&\"+&from=+\"from\"*\"&&\"",
+"二次跳转播放链接": "\"url\"*\"&&\"",
 
 "搜索url":"https://www.laimi.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
 "搜索模式": "1",
