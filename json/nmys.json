@@ -3,7 +3,7 @@
 "作者": "YYH",
 "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36#Referer$https://www.laimi.me",
 "请求头": "手机",
-"嗅探": "1",
+"嗅探": "0",
 "嗅探词": ".mp4?#&dis_t#vkey=#.m3u8",
 "过滤词":"data.m3u8.in",
 "主页url": "https://www.laimi.me",
