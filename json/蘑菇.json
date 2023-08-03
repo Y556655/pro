@@ -12,21 +12,19 @@
 "免嗅":"1",
 "嗅探词":".m3u8#.mp4#.douyin",
 
-"播放请求头": "User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
+"播放请求头": "User-Agent:Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
 
 "导演":"导演：&&</div",
 "主演":"主演：&&</div",
 "简介":"content vod_content\">&&</span",
 
-"线路数组":"class=\"module-tab-item tab-item\"&&</div",
-"线路标题":"<span>&&/small>[替换:</span><small>>>空]+集",
+"线路数组":"class=\"module-tab-item tab&&</div[不包含:线路][替换:蓝光2>>普清#蓝光>>阿里][排序:阿里>极速>普清]",
+"线路标题":"<span>&&</span>",
 
-//"播放数组":"class=\"module-blocklist&&</div>",
-//"播放标题":"<span>&&</span>",
-//"播放链接":"href=\"&&\"",
-//"播放链接前缀": "https://www.moguys.xyz",
+"播放数组":"class=\"module-blocklist&&</div>",
+"播放标题":"<span>&&</span>",
+
 "跳转播放链接": "vod_class*url\":\"&&\"",
-//"二次跳转播放链接": "\"url\"*\"&&\"",
 
 "分类":"电影$1#国产剧$13#韩剧$14#美剧$15#泰剧$24#动漫$3",
 "分类url":"https://www.moguys.xyz/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
