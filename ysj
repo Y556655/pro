@@ -36,7 +36,7 @@
 //{"name": "AUETE影院(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
 {"name": "徕米┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_lmyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 //{"name": "热播┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_rbzj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/rbzj.json"},
-
+{"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 //XYQH
 //{"name": "农民┃XYQH","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
 {"name":"荐片┃需最新版影视界才能支持","jar":"./app/xiangl0801.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
