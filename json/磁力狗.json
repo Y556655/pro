@@ -13,7 +13,7 @@
   "分类片单标题": ".video-title&&Text",
   "分类片单链接": "a&&href",
   "分类片单图片": "img&&src",
-  "分类片单副标题": "",
+  "分类片单副标题": "span,7&&Text",
   "分类片单链接加前缀": "https://clga76.buzz",
   "分类片单链接加后缀": "",
   
@@ -26,7 +26,7 @@
   "搜索片单图片": "https://img1.baidu.com/it/u=235588513,2774094053&fm=253&fmt=auto&app=138&f=JPEG?w=414&h=500",
   "搜索片单标题": "[target=_blank]&&Text",
   "搜索片单链接": "a&&href",
-  "搜索片单副标题": ".info&&Text",
+  "搜索片单副标题": "span,7&&Text",
   "搜索片单链接加前缀": "https://clga76.buzz",
   "搜索片单链接加后缀": "",
   
