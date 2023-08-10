@@ -17,7 +17,7 @@
   "搜索片单图片": "https://img1.baidu.com/it/u=235588513,2774094053&fm=253&fmt=auto&app=138&f=JPEG?w=414&h=500",
   "搜索片单标题": "[target=_blank]&&Text",
   "搜索片单链接": "a&&href",
-  "搜索片单副标题": "span,7&&Text",
+  "搜索片单副标题": "span,6&&Text",
   "搜索片单链接加前缀": "https://clga76.buzz",
   "搜索片单链接加后缀": "",
   
