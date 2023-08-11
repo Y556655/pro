@@ -7,7 +7,7 @@
 //sp
 
 {"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
-
+{"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ygpvp.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html"},
 {"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
