@@ -5,11 +5,20 @@
     "请求头参数": "User-Agent$MOBILE_UA",
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
-    "是否开启获取首页数据": "0",
+    "是否开启获取首页数据": "1",
     "首页推荐链接": "https://hua355.com",
-    "首页列表数组规则": "body&&.swiper.swiper-big",
-    "首页片单列表数组规则": "",
+
+    "首页列表数组规则": "body&&.module-main.tab-list.active",
+    "首页片单列表数组规则": "a",
     "首页片单是否Jsoup写法": "1",
+    "首页片单标题": "a&&title",
+    "首页片单链接": "a&&href",
+    "首页片单图片": ".lazyload&&data-original",
+    "首页片单副标题": ".module-item-note&&Text",
+    "首页片单链接加前缀": "https://hua355.com",
+    "首页片单链接加后缀": "",	
+	
+
     "分类起始页码": "1",
     "分类链接": "https://hua355.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
     "分类名称": "电影&电视剧&综艺&动漫",
