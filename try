@@ -45,6 +45,7 @@
 {"name": "*子子┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_zzys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子影视.json"},
 {"name": "*小刀┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xddy01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小刀.json"},
 {"name": "*DVIDEO┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_dvideo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dvideo.json"},
+{"name":"*花花┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_花花","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/花花影视.json"},
 {"name": "双十┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_1010DY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/1010dy.json"},
 {"name": "LIBVIO┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 //{"name": "神马┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_SMYY","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/神马影院.json"},
