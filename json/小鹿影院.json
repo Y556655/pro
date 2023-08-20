@@ -23,7 +23,7 @@
 "播放数组":"class=\"module-play-list\">&&</div>",
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.xiaoluys.me/",
+"播放链接前缀": "https://www.xiaoluys.me",
 //"跳转播放链接": "vod_director\"*\"url\":\"&&\"",
 
 "搜索url":"https://www.xiaoluys.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
