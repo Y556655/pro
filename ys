@@ -14,12 +14,8 @@
 //{"name": "360┃综合","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/360.json"},
 //{"name": "看看┃综合","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
 //{"name": "七七┃APP","jar":"./app/xiangl0718.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
-//{"name": "影探┃APP","key":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
 //{"name": "蘑菇┃APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
 
-
-
-//{"name": "阿里┃切片","key": "aliqieb","type": 1,"api": "https://cms.alyzy.xyz/api.php/provide/vod/","searchable": 1,"playUrl": "https://player.emofun.cn/player/ec.php?code=xy&if=1&url=","quickSearch": 1},
 {"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","playerType":1,"type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","playerType":1,"type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -31,7 +27,6 @@
 {"name": "看看┃(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
 //{"name": "大豆┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimiyy","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/大豆影视.json"},
 //{"name": "蘑菇┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
-//{"name": "饭团┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","playerType":1,"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/饭团影视HD.json"},
 {"name": "熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 {"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 //XYQH
