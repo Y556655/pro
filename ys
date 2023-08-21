@@ -31,8 +31,9 @@
 {"name": "熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 {"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 {"name": "Mp4┃磁力","jar":"./app/xiangl0718.bmp","key": "csp_Mp4Mov","type": 3,"api": "csp_Mp4Mov","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1},
-//XYQH
 
+//XYQH
+{"name":"迅雷┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_迅雷","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷xyqh.json"},
 //{"name": "芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
 //{"name": "饭团┃JS","key":"饭团影视","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 //{"name": "荐片┃磁力","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
