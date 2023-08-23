@@ -28,7 +28,7 @@
 {"name":"影视界3┃采集","key":"ysj69","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 //xBPQ
-{"name": "视界┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
+//{"name": "XYQH替换高清世界┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
 //{"name": "JoJo┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
 //{"name":"饭团┃JS","key":"饭团影视","playerType":1,"type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/饭团影视.js"},
 {"name":"蘑菇┃APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
@@ -91,7 +91,7 @@
 {"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
 //{"name": "磁力07(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_mycl011","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蚂蚁磁力.json"},
 //{"name": "磁力06(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_mycl012","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蚂蚁磁力.json"},
-
+{"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 
 //XYQH
 {"name":"农民┃XYQH","jar":"./app/xiangl.bmp","key": "csp_XYQHiker_农民影视","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/农民XYQH.json"},
