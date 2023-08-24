@@ -29,6 +29,7 @@
 //{"name": "饭团影视HD(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_FTyy1","playerType":1,"type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/饭团影视HD.json"},
 {"name": "小鹿┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xlys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小鹿影院.json"},
 {"name": "看看┃(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
+{"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
 {"name": "熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 //{"name": "COKEMV┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/cokemv.json"},
 //{"name": "奈飞┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
