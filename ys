@@ -11,8 +11,6 @@
 {"name":"荐片┃综合","jar":"./app/xiangl0801.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 
-//{"name": "LY┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_HH","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/66s.json"},
-
 
 
 {"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","playerType":1,"type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
