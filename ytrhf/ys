@@ -1,2 +1,2 @@
-{name": "徕米┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_lmyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
-{"name":"360全网影视","jar":"./app/xBPQ0606.jar","key":"csp_xBPQ360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/360.txt"},
+//{"name": "莱米┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
+//{"name": "360┃综合","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/360.json"},
