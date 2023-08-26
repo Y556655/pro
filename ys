@@ -7,7 +7,6 @@
 //sp
 
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-{"name": "365┃综合", "key": "365", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"name":"荐片┃综合","jar":"./app/xiangl0801.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 //{"name": "徕米┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimiyy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
