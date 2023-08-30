@@ -1,10 +1,6 @@
 {
   "drives": [
     {
-      "name": "一只🐠",
-      "server": "https://vtok.pp.ua"
-    },
-    {
       "name": "杜比",
       "server": "https://dubi.tk"
     },
@@ -22,7 +18,7 @@
     },
     {
       "name": "A大",
-      "server": "https://alist.ccome.site"
+      "server": "https://alist.qyide.com/"
     },
        {
       "name": "9T",
@@ -31,10 +27,6 @@
        {
       "name": "Puppet Studio",
       "server": "https://abnormalize.icu/"
-    },
-    {
-      "name": "DISK",
-      "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co/"
     }
   ]
 }
