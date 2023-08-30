@@ -10,8 +10,6 @@
 
 {"name": "365┃综合", "key": "365", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-{"name": "七七影视","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
-
 {"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
