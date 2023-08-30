@@ -7,6 +7,7 @@
 //sp
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
 {"name": "365┃综合", "key": "365", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
+{"name":"亿视","key":"亿视","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"name": "七七┃APP","jar":"./app/xiangl0718.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
 {"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
