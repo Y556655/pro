@@ -12,7 +12,6 @@
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 
 //{"name": "看看┃综合","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
-//{"name": "七七┃APP","jar":"./app/xiangl0718.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
 //{"name": "蘑菇┃APP","key":"蘑菇影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gvideo.me/api.php/app/"},
 
 {"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","playerType":1,"type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
