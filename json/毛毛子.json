@@ -1,0 +1,34 @@
+  {
+    
+    "作者":"YYH",
+    
+    "站名":"毛毛子影视",
+    
+    "主页url":"http://ys.qtw.asia/",
+    
+    "简介":"剧情：&&<a",
+    
+    "导演":"导演：&&</div>",
+    
+    "主演":"主演：&&</div>",
+    
+    "影片状态":"集数：&&</div>",
+    
+    "影片类型":"video-info-aux scroll-content\">&&立即播放",
+    
+    "数组":"module-item-pic\">&&module-item\">",
+    
+    "副标题":"module-item-text\"&&</div>",
+    
+    "线路数组":"data-dropdown-value=&&</div>[排序:奇艺视频>腾讯视频>优酷视频][不包含:3号]",
+    
+    "线路标题":"<span>&&</span>",
+		
+	"跳转播放链接": "http://43.154.104.152:1234/jhapi/cs.php?url=+vod_class\"*url\":\"&&\"",
+	//http://119.91.123.253:1234/Api/cs.php?url=
+	"二次跳转播放链接": "url\":\"&&\"",
+    
+    "分类url":"http://ys.qtw.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+    
+    "分类":"4K$8#电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
+	}
