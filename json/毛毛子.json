@@ -25,7 +25,7 @@
     "线路标题":"<span>&&</span>",
 		
 	"跳转播放链接": "http://43.154.104.152:1234/jhapi/cs.php?url=+vod_class\"*url\":\"&&\"",
-	//http://119.91.123.253:1234/Api/cs.php?url=
+	//http://119.91.123.253:1234/Api/cs.php?url='http://27.124.4.42:4567/jhjson/ceshi.php?url=https://www.iqiyi.com/v_1sgk6wg53ms.html 分别来自毛毛，畅梦
 	"二次跳转播放链接": "url\":\"&&\"",
     
     "分类url":"http://ys.qtw.asia/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
