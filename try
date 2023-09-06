@@ -112,12 +112,11 @@
 //{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
 //{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
-{"name": "玩偶┃云盘","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1},
-{"name": "盘搜┃云盘","jar":"./app/wogg.bmp","key":"panso","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1},
-{"name": "云搜┃云盘","jar":"./app/xyqali.bmp","key": "cps_aliyunpan","type": 3,"api": "csp_XYQHikerAL"},
-{"name": "纸条┃云盘","jar":"./app/xiangl0718.bmp","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"name": "易搜┃云盘","jar":"./app/xiangl0718.bmp","key":"csp_Yisou","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0},
-{"name": "阿里┃云盘","jar":"./app/xiangl0718.bmp","key":"csp_AliPS","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0},
+{"name": "🖥纸条搜索","key": "纸条","jar":"./app/wogg.bmp","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "🖥易搜","key": "易搜","jar":"./app/wogg.bmp","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "🖥阿里云盘","key": "阿里云盘","jar":"./app/wogg.bmp","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "🖥盘搜","key": "盘搜","type": 3,"jar":"./app/wogg.bmp","api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0},
+
 {"name":"推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 ],
 
