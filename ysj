@@ -41,7 +41,8 @@
 
 //XYQH
 {"name":"荐片┃升级影视界请打开↑乐猪↑扫图片二维码","jar":"./app/xiangl0801.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-//{"name": "玩偶┃云盘","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"阿里设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0},
+{"name": "参考↑阿里设置┃阿里云盘","jar":"./app/404.bmp","key": "csp_WoGG","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"name": "推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
