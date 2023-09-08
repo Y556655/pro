@@ -113,7 +113,7 @@
 //{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
 {"name":"阿里设置","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./app/tokensz.bmp"},
-{"name":"参考↑阿里设置┃阿里云盘","key":"小纸条_cli","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"参考↑阿里设置┃阿里云盘","key":"小纸条_cli","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1/token.txt"},
 //{"name": "↑阿里设置┃纸条","key": "纸条","jar":"./app/wogg.bmp","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 0,"changeable": 0},
 //{"name": "↑阿里设置┃易搜","key": "易搜","jar":"./app/wogg.bmp","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0},
 //{"name": "↑阿里设置┃云盘","key": "阿里云盘","jar":"./app/wogg.bmp","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0},
