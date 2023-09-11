@@ -1,13 +1,3 @@
-{
-"spider":"./app/ysj.bmp",
-"wallpaper":"https://tuapi.eees.cc/api.php?category=dongman&type=302",
-
-"sites":[
-
-//sp
-
-{"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-{"name":"荐片┃综合","jar":"./app/xiangl0801.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 {"name":"云盘┃综合","key":"移动云盘","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "timeout":30},
 //{"name": "看看┃综合","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
