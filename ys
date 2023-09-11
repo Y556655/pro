@@ -1,13 +1,3 @@
-{"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
-{"name":"云盘┃综合","key":"移动云盘","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "timeout":30},
-//{"name": "看看┃综合","key":"看看剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
-
-{"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","playerType":1,"type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-{"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","playerType":1,"type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-{"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-
-//xBPQ
-//{"name": "视界┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
 {"name": "小鹿┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xlys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小鹿影院.json"},
 //{"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 {"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
