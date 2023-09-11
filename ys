@@ -1,5 +1,3 @@
-
-
 {
 "spider":"./app/ysj.bmp",
 "wallpaper":"https://tuapi.eees.cc/api.php?category=dongman&type=302",
@@ -10,25 +8,26 @@
 
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
 {"name":"荐片┃综合","jar":"./app/xiangl0801.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-
-
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
-{"name":"云盘┃综合","key":"盘","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "timeout":30},
+{"name":"云盘┃综合","key":"csp_ydyp","type":1,"playerType":1,"api":"http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1, "timeout":30},
+//{"name": "看看┃综合","key":"csp_kkjys","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kankanju.cc/api.php/app/"},
 
 {"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","playerType":1,"type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","playerType":1,"type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
 //xBPQ
-
-
+//{"name": "视界┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
 {"name": "小鹿┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xlys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小鹿影院.json"},
+//{"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 {"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
 {"name": "看看┃(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
+//{"name": "大豆┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimiyy","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/大豆影视.json"},
+//{"name": "蘑菇┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
 {"name": "熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
+//{"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 
-
+//XYQH
 {"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 {"name":"迅雷┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_迅雷","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷xyqh.json"},
 //{"name": "芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
