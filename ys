@@ -1,13 +1,4 @@
-{"name": "小鹿┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xlys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小鹿影院.json"},
-//{"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
-{"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
-{"name": "看看┃(xBPQ)","jar":"./app/ls1107.bmp","key":"XBPQKKJ","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
-//{"name": "大豆┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_laimiyy","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/大豆影视.json"},
-//{"name": "蘑菇┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
-{"name": "熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
-//{"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 
-//XYQH
 {"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 {"name":"迅雷┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_迅雷","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷xyqh.json"},
 //{"name": "芒哥┃影视","key":"芒哥(DRPY)","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/mg.js"},
