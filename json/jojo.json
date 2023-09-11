@@ -1,11 +1,12 @@
 {
 "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
-"主页url": "https://app.syrme.top/",
+"主页url": "https://jiohub.top",
 //来自小米
 
 "热门推荐": "40",
   
-"数组": "class=\"content-body&&class=\"score",
+"二次截取": "<div class=\"content-body\">&&<div class=\"content-lift\">",
+"数组": "<a&&</a>",
 "图片": "src=\"&&\"",
 "标题": "card-title\">&&</p>",
 "副标题": "class=\"item-speed\">&&</p>",
@@ -28,18 +29,22 @@
 "嗅探词": "cn-beijing-data.aliyundrive.net",
 "过滤词":"",
 
-"搜索url":"https://app.syrme.top/video/search?q={wd}",
+
+"搜索url": "https://www.cupfox.app/s/{wd}",
 "搜索模式": "1",
-"搜索二次截取": "class=\"content-body\">&&<ui-pagination",
-"搜索数组": "<a&&class=\"score",
-"搜索图片": "src=\"&&\"",
-"搜索标题": "class=\"card-title\">&&</p>",
-"搜索链接": "href=\"&&\"",
-"搜索后缀":"",
-"搜索链接前缀": "https://app.syrme.top",
+"搜索二次截取": "type=\"application/json\">&&</script>",
+"搜索数组": "{\"te&&}[包含:JOJO]",
+"搜索图片": "\"icon\":\"&&\"",
+//"搜索图片": "http://xhww.fun:63/小米/4.jpeg",
+"搜索标题": "xt\":\"&&\"",
+"搜索副标题": "JOJO",
+"搜索链接": "url\":\"&&\"",
+//"搜索模式":"1",
+//"搜索url":"https://www.fantuanhd.com/type/id-.html?wd={wd}",
+
 
 "分类": "电影$电影#美剧$美剧#韩剧$韩剧#日剧$日剧#动漫$动漫",
-"分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag={class}&page={catePg}&size=18",
+"分类url": "https://jiohub.top/video/{cateId}?page={catePg}&size=18",
 "类型": "",
 "剧情": "1",
 
