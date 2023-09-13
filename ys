@@ -31,7 +31,7 @@
 //{"name": "影港┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_xyqh-dyg","type":3,"api":"csp_XYQHiker","playerType": 2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影港.json"},
 
 //搜索类
-{"name": "玩偶┃云盘","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/token.txt"},
+{"name": "玩偶┃云盘","jar":"./app/wogg.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/00700/vvebo/raw/branch/main/alikey"},
 {"name":"纸条┃云盘","key":"小纸条_cli","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "./alitoken.txt"},
 //{"name": "云搜┃云盘","jar":"./app/xyqali.bmp","key": "cps_aliyunpan","type": 3,"api": "csp_XYQHikerAL","ext":"./json/womm.json"},
 {"name": "盘搜┃云盘","jar":"./app/wogg.bmp","key":"panso","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "./alitoken.txt"},
