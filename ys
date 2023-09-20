@@ -15,7 +15,7 @@
 {"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 
 //xBPQ
-{"name": "往往┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_wwys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/往往影视.json"},
+//{"name": "往往┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_wwys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/往往影视.json"},
 {"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
 {"name": "熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 
