@@ -11,7 +11,7 @@
 "影片类型": "更新：&&</p",
 "导演":"导演：&&</a",
 "主演":"主演：&&</div>",
-"简介":"class=\"module-info-introduction-content show-desc&&</p>",
+"简介":""style=\"line-height: 20px;\">&&</p>",
 
 "线路数组":"class=\"module-tab-item tab-item&&</div>",
 "线路标题":"<span>&&</span>",
