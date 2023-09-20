@@ -11,7 +11,6 @@
 "标题": "card-title\">&&</p>",
 "副标题": "class=\"item-speed\">&&</p>",
 "链接": "href=\"&&\"",
-"链接前缀": "https://app.syrme.top",
 
 "导演": "导演：&&</p>",
 "主演": "主演：&&</p>",
@@ -19,15 +18,8 @@
 
 "线路标题": "JoJo",
 
-"播放链接前缀": "https://app.syrme.top",
-"播放列表": "<a&&/a>",
-"播放标题": "\">&&<",
-"播放链接": "href=\"&&\"",
-"播放数组": "class=\"plyr-sidebar-list jojo-plyr-list&&</div>",
-
-"免嗅":"0",
-"嗅探词": "cn-beijing-data.aliyundrive.net",
-"过滤词":"",
+"播放数组": "class=\"plyr-sidebar-list&&</div>",
+"嗅探词": "aliyundrive.net#alicloudccp.com",
 
 
 "搜索url": "https://www.cupfox.app/s/{wd}",
