@@ -19,13 +19,6 @@
 "线路数组":"data-toggle=\"tab\"&&</li>[替换:LZ线路>>lzm3u8#FF线路>>ffm3u8][排序:KKJ线路>FY线路>lzm3u8>ffm3u8>YZ线路]",
 "线路标题":">&&</a",
 
-"播放标题":">&&</a",
-"播放数组":"class=\"stui-content__playlist clearfix&&</div>",
-
-"播放列表":"<li&&</li>",
-"播放链接":"href=\"&&\"",
-"播放链接前缀": "https://kankanju.cc",
-
 "搜索url": "https://kankanju.cc/type/id-.html?wd={wd}",
 "搜索模式": "1",
 "搜索二次截取": "",
