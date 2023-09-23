@@ -6,8 +6,6 @@
 
 //sp
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-//{"name": "365┃综合", "key": "365", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
-//{"name": "七七┃APP","jar":"./app/xiangl0718.bmp","key": "Kunyu77","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1, "filterable":1},
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 {"name": "影视┃综合","key": "ysjzh","type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]},
@@ -36,7 +34,6 @@
 //{"name": "XYQH替换高清世界┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_gqsj01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界.json"},
 {"name": "看美剧┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
 {"name": "JoJo┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
-//{"name":"蘑菇┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_mgyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蘑菇.json"},
 {"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
 {"name": "往往┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_wwys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/往往影视.json"},
 {"name":"熊猫┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
@@ -74,12 +71,10 @@
 {"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 {"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 //{"name": "热播┃(xBPQ)分类不出来","jar":"./app/ls1107.bmp","key":"csp_rbzj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/rbzj.json"},
-//{"name": "综艺┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_YSZJ","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/综艺.json"},
 //{"name": "爱看┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/爱看影视.json"},
 //{"name": "人人┃(xBPQ)电视N","jar":"./app/xBPQ230203.bmp","key":"rrysxbpq","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/rrys.json"},
 //{"name": "低端(xBPQ)电视不能放","jar":"./app/ls1107.bmp","key": "csp_xBPQ_dd", "type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0, "click":"ddys.tv;#vjsp > button", "ext": "./json/低端.json"},
 {"name": "️厂长┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_czys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/厂长.json"},
-//{"name": "小鹿┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xlys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/小鹿影院.json"},
 {"name": "天天┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_TTSP01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天天视频.json"},
 //{"name":"BTTWO(xBPQ)电视不能放","jar":"./app/ls1107.bmp","key":"csp_xBPQ_Bttwo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/bttwo.json"},
 //{"name": "星影仅搜索","jar":"./app/ls1107.bmp","key":"csp_CSbxy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xinying.json"},
@@ -105,18 +100,13 @@
 //搜索类
 //{"name":"Alist网盘","jar":"./app/alistsou.bmp","key":"csp_Alist1","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/alistsou.json"},
 
-//小米
-//{"name":"玩偶盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_wogg","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wogg.txt"},
-//{"name":"4k盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_4kss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/4ksousuo.txt"},
-//{"name":"小里盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_xlss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xiaoli.txt"},
-//{"name":"找资源盘搜(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_zzy","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zhaoziy.txt"},
 
 {"name":"阿里设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0},
 {"name": "参考↑阿里设置┃阿里云盘","jar":"./app/404.bmp","key": "csp_WoGG","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"name": "↑阿里设置┃纸条","key": "纸条","jar":"./app/wogg.bmp","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 0,"changeable": 0},
-//{"name": "↑阿里设置┃易搜","key": "易搜","jar":"./app/wogg.bmp","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0},
-//{"name": "↑阿里设置┃云盘","key": "阿里云盘","jar":"./app/wogg.bmp","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0},
-//{"name": "↑阿里设置┃盘搜","key": "盘搜","type": 3,"jar":"./app/wogg.bmp","api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "参考↑阿里设置┃纸条","key": "纸条","jar":"./app/404.bmp","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "参考↑阿里设置┃易搜","key": "易搜","jar":"./app/404.bmp","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "参考↑阿里设置┃云盘","key": "阿里云盘","jar":"./app/404.bmpp","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0},
+{"name": "参考↑阿里设置┃盘搜","key": "盘搜","type": 3,"jar":"./app/404.bmp","api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0},
 
 {"name":"推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 ],
