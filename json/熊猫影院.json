@@ -2,13 +2,13 @@
 "作者":"YYH",
 "站名":"熊猫影院",
 "主页url":"https://xmvod520.com",
-//发布页https://tawk.to/xiongmaoyingyuan
+//xmvod88.com发布页https://tawk.to/xiongmaoyingyuan
 "热门推荐":"40",
 "起始页":"1",
 
 "副标题": "class=\"module-item-note\">&&</div",
 
-"免嗅":"1",
+"免嗅":"0",
 "嗅探词":".m3u8#.mp4#.douyin",
 
 "播放请求头": "User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",
@@ -18,12 +18,15 @@
 "简介":"class=\"module-info-introduction-content\">&&</div",
 
 "线路数组":"class=\"module-tab-item tab-item\"&&</div",
-"线路标题":"<span>&&/small>[替换:</span><small>>>空]+集",
+"线路标题":"data-dropdown-value=\"&&\"[不包含:海外专线]",
 
 "播放数组":"class=\"module-play-list\">&&</div>",
 "播放标题":"<span>&&</span>",
-"播放链接":"href=\"&&\"",
-"播放链接前缀": "https://xmvod520.com",
+"跳转播放链接": "vod_class*url\":\"&&\"",
+
+
+//"播放链接":"href=\"&&\"",
+//"播放链接前缀": "https://xmvod520.com",
 
 "搜索url":"https://xmvod520.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
 "搜索模式": "1",
@@ -35,7 +38,7 @@
 "搜索链接前缀": "https://xmvod520.com/index.php/vod/detail/id/",
   
 "分类":"电影$52#剧集$69#综艺$77#动漫$75",
-"分类url":"https://xmvod520.com/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类url":"https://xmvod520.com/index.php/vod/show/id/{cateId}/page/{catePg}/year/{year}.html;;au0",
 "筛选":{
 "52":[
 {
