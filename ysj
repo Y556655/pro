@@ -14,7 +14,7 @@
 //{"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","type":3,"api":"csp_Ddys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"name": "奇优┃综合","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_qiy","type":3,"api":"csp_xBPQ","playerType":1,"searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/黑狐影院.json"},
+{"name": "奇优┃综合","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_qiy","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/黑狐影院.json"},
 
 //appysv2
 //{"name": "影视界主力源一","key":"影视界主力源一","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
