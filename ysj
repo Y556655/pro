@@ -6,7 +6,7 @@
 
 //sp
 {"name": "畅梦┃升级影视界请打开↓乐猪↓扫图片二维码","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-{"name":"DD┃综合","jar":"./app/xBPQ0606.bmp","key":"csp_xBPQ_ddys01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DDYS.json"},
+{"name":"DD┃综合","jar":"./app/xBPQ0808.bmp","key":"csp_xBPQ_ddys01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DDYS.json"},
 {"name": "MTV┃歌曲","key": "MV_vod","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod","playerType":1,"viewtype": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"name": "影视┃综合","key": "影视界",  "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]},
@@ -19,17 +19,17 @@
 //{"name": "影视界主力源一","key":"影视界主力源一","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
 
 //xBPQ
-{"name": "奇优┃综合","jar":"./app/ls1107.bmp","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
-{"name":"零度┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_ldyy0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零度.json"},
+{"name": "奇优┃综合","jar":"./app/xBPQ0808.bmp","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
+{"name":"零度┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ldyy0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零度.json"},
 //{"name": "看看┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"XBPQKKJ","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
-//{"name": "JoJo┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
+//{"name": "JoJo┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
 {"name": "看美剧┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
-//{"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
+//{"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
 {"name": "往往┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_wwys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/往往影视.json"},
-{"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xmyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
+{"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xmyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 {"name": "乐猪┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
-{"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
-//{"name": "徕米┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_lmyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
+{"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
+//{"name": "徕米┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_lmyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 //{"name": "热播┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_rbzj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/rbzj.json"},
 {"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
 {"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
