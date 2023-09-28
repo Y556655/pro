@@ -17,8 +17,8 @@
 "主演":"主演：&&</div",
 "简介":"class=\"module-info-introduction-content\">&&</div",
 
-"线路数组":"class=\"module-tab-item tab-item\"&&</div",
-"线路标题":"data-dropdown-value=\"&&\"[不包含:海外专线]",
+"线路数组":"class=\"module-tab-item tab-item\"&&</div[不包含:海外专线]",
+"线路标题":"data-dropdown-value=\"&&\"",
 
 "播放数组":"class=\"module-play-list\">&&</div>",
 "播放标题":"<span>&&</span>",
@@ -30,7 +30,7 @@
 
 "搜索url":"https://xmvod520.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
 "搜索模式": "1",
-"搜索二次截取": "",
+"搜索数组": "{&&}",
 "搜索图片": "pic\":\"&&\"",
 "搜索标题": "name\":\"&&\"",
 "搜索链接": "id\":&&,",
