@@ -6,6 +6,7 @@
 
 //sp
 {"name": "畅梦┃升级影视界请打开↓乐猪↓扫图片二维码","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
+{"name": "世界┃综合","key":"csp_sjkp01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/世界.json"},
 {"name":"DD┃综合","jar":"./app/xBPQ0808.bmp","key":"csp_xBPQ_ddys01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DDYS.json"},
 {"name": "MTV┃歌曲","key": "MV_vod","type": 1,"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod","playerType":1,"viewtype": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
