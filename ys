@@ -23,7 +23,7 @@
 //{"name": "QINDIEA┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_QIA","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/QINDIEA.json"},
 {"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 {"name":"零度┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_ldyy0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零度.json"},
-{"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
+//{"name": "不适合影视播放迅雷┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
 
 
 //XYQH
