@@ -7,16 +7,19 @@
 //sp
 
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-
-{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 1}
+{ "key": "玉米", "name": "玉米┃2K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"}
+//{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 1}
 
 ],
 
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
-{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"网络","type":1,"url":"http://1.116.36.66:55/api/jsonindex.php/?key=7FT0KW8rdZnPjObLyw&url=","header": {"User-Agent": "Dart/2.18 (dart:io)"},"ext": {"flag": ["qq","腾讯","youku","优酷","xigua"]}}
+{"name":"DD","type": 1,"url": "http://110.42.3.71:5000/api/jiexi/common?Key=R9Ah232tBzRxK9oC9m&url=","header": {"User-Agent": "Dart/2.18 (dart:io)"},"ext": {"flag": ["qq","腾讯","youku","优酷","YuMi-vip","xigua"]}},
+{"name":"世界","type": 1,"url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=","header": {"User-Agent": "Dart/2.18 (dart:io)"},"ext": {"flag": ["qq","腾讯","youku","优酷","YuMi-vip","xigua"]}}
+
+//{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+//{"name":"网络","type":1,"url":"http://1.116.36.66:55/api/jsonindex.php/?key=7FT0KW8rdZnPjObLyw&url=","header": {"User-Agent": "Dart/2.18 (dart:io)"},"ext": {"flag": ["qq","腾讯","youku","优酷","xigua"]}}
 ],
 
 "rules":[
