@@ -25,8 +25,8 @@
 
 //appysv2
 //{"name":"影视界1┃采集","key":"ysj01","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
-//{"name":"影视界2┃采集","key":"ysj02","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ap.nfly.cc/api.php/app/"},
-{"name":"影视界3┃采集","key":"ysj69","jar":"./app/0928.bmp","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
+//{"name":"影视界2┃采集","key":"ysj02","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ap.nfly.cc/api.php/app/"},
+{"name":"影视界3┃采集","key":"ysj69","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 //xBPQ
 //下面这个直接跳的解析
