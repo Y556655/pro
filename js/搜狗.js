@@ -1,6 +1,7 @@
 var rule = {
     title:'菜狗',
     host:'https://waptv.sogou.com',
+    //来自https://yydsys.top/duo
     homeUrl:'',
     searchUrl:'/film/result?ie=utf8&query=**',
     searchable:2,
