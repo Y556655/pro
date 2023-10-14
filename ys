@@ -48,7 +48,7 @@
 //{"name": "纸条┃云盘","jar":"./app/xiangl0718.bmp","key":"Gitcafe","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"name": "易搜┃云盘","jar":"./app/wogg.bmp","key":"csp_YiSo","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./alitoken.txt"},
 //{"name": "阿里┃云盘","jar":"./app/wogg.bmp","key":"csp_Dovx","type":3,"api":"csp_Dovx","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "./alitoken.txt"},
-{"key":"t4_wo","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=4ee4460bfa0f4145a807a252d456d6e2","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"t4_wo","name":"玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"阿里┃设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0,"ext": "./alitoken.txt"},
 {"name": "推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
