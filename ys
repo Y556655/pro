@@ -9,7 +9,7 @@
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/搜狗.js"},
 //{"name": "奇艺┃解析","key":"csp_qiyi1","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇珍异兽.js"},
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
-{"name": "南坊┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_nfyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/南坊.json"},
+{"name": "南坊┃(xBPQ)","jar":"http://xhww.fun:63/小米/ab.jar;md5;d043db482b513572cbc6531d337c711b","key":"csp_nfyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/南坊.json"},
 {"name": "JOJO┃综合","key": "jojo_open","jar": "./app/jojo.bmp","type": 3,"api": "csp_Jojo","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"name": "360┃APP","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
 //{"name": "玉米┃综合","key":"玉米","type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yumi.ghlyys.com/api.php/app/"},
