@@ -12,14 +12,13 @@
 "链接": "od_id\":&&,",
 "链接前缀": "https://www.nfapp.fun/appto/v1/vod/getVod?id=",
 
-//"线路数组": "sort\"*\"id\"&&\"url_count[不包含:线路]",
-"线路数组": "\"status*show\":&&,[排序:主线[B]>备用[D]>主线[A]>备用[C]][不包含:线路#主线[C]]",
-"线路标题": "\"&&\"",
+"线路数组": "\"player_info\":{&&}",
+"线路标题": "\"show\"*\"&&\"",
 
-"播放数组": "url_count*\"urls\"&&]}",
+"播放数组": "urls*\\[&&\\]",
 "播放列表": "{&&}",
-"播放标题": "\"name\":\"&&\"",
-"播放链接": "解析+\"url\":\"&&\"",
+"播放标题": "\"name\"*\"&&\"",
+"播放链接": "解析+\"url\"*\"&&\"",
 //参考：此网站一定要加播放链接，数据才能正确，解析加在播放链接前才能用，如果加在跳转解析前是不能用的
 //"跳转解析": "默认$空#主线[B]$http://110.42.3.71:5000/api/jiexi/common?Key=IljsrKnj7T0M38IEWh&url=#seven$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#ZNJSON$https://json.jxapi.top/api/?key=0mDwimaDJyllntMlmV&url=#1080zyk$https://json.jxapi.top/api/?key=0mDwimaDJyllntMlmV&url=#JMZN$https://wpjx.chanchuan.top//znjsonapi.php?url=",
 "跳转解析": "默认$空#主线[B]$http://110.42.3.71:5000/api/jiexi/common?Key=IljsrKnj7T0M38IEWh&url=#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#备用[D]$https://wpjx.chanchuan.top//znjsonapi.php?url=",
