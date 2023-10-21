@@ -17,7 +17,7 @@
 "简介": "display: none;\">&&</span>",
 "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
 "分类url": "https://ddys.fun//show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;au0",
-"跳转解析": "默认$https://players.immmm.top/?url=#蓝光-Ymv$http://111.231.2.179//?url=",
+"跳转解析": "默认$https://players.immmm.top/?url=#蓝光-Ymv$https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=cxIHi137xDRu5EIBDT&url=",
 "跳转播放链接": "解析+urlDecode(Base64(vod_class*url\":\"&&\"))",
 "二次跳转播放链接": "\"url\"*\"&&\"",
 "筛选":{
