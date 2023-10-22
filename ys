@@ -41,8 +41,8 @@
 //{"name": "影港┃(XYQH)","jar":"./app/xiangl0718.bmp","key":"csp_xyqh-dyg","type":3,"api":"csp_XYQHiker","playerType": 2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影港.json"},
 
 //搜索类
-{"name": "阿里┃玩偶","key": "csp_Wogg","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "./alitoken.txt+4k|fhd|auto","filter": "./json/wogg.json"}},
-{"name": "阿里┃纸条","key": "csp_XiaoZhiTiao","type": 3, "api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./alitoken.txt+4k|fhd|auto"},
+{"name": "阿里┃玩偶","key": "csp_Wogg","jar":"./app/ali.bmp","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "./alitoken.txt+4k|fhd|auto","filter": "./json/wogg.json"}},
+{"name": "阿里┃纸条","key": "csp_XiaoZhiTiao","jar":"./app/ali.bmp","type": 3, "api": "csp_XiaoZhiTiao","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./alitoken.txt+4k|fhd|auto"},
 //{"name": "玩偶┃云盘","jar":"./app/404.bmp","key":"Wogg","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./alitoken.txt"},
 //{"name":"纸条┃云盘","key":"小纸条_cli","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "./alitoken.txt"},
 //{"name": "盘搜┃云盘","jar":"./app/wogg.bmp","key":"panso","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext": "./alitoken.txt"},
