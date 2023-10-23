@@ -45,7 +45,8 @@
 {"name": "荐片┃升级影视界请打开↑乐猪↑扫图片二维码","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
 //{"name":"荐片┃升级影视界请打开↑乐猪↑扫图片二维码","jar":"./app/xiangl0718.bmp","key":"csp_JianPian","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"name":"阿里设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0},
-{"name": "参考↑阿里设置┃阿里云盘","jar":"./app/404.bmp","key": "csp_WoGG","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"name": "参考↑阿里设置┃阿里云盘","jar":"./app/404.bmp","key": "csp_WoGG","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"name": "阿里云盘扫码登陆┃玩偶","key": "csp_Wogg","jar":"./app/ali.bmp","type": 3,"api": "csp_Wogg","searchable": 1,"changeable": 0,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","filter": "./json/wogg.json"}},
 
 {"name": "推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
