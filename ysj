@@ -25,7 +25,6 @@
 
 //xBPQ
 {"name": "奇优┃综合","jar":"./app/xBPQ0808.bmp","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
-{"name":"零度┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ldyy0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零度.json"},
 {"name":"蛋蛋剧┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 //{"name": "看看┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"XBPQKKJ","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/kankanju.json"},
 //{"name": "JoJo┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_CSbjojo","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jojo.json"},
