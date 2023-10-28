@@ -20,7 +20,7 @@
 //{"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","playerType":1,"type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","playerType":1,"type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 //{"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"name": "在线┃影视","key": "js_在线之家","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/zxzj.js"},
+{"name": "在线┃外剧","key": "js_在线之家","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/zxzj.js"},
 
 //xBPQ
 {"name": "看美剧┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
