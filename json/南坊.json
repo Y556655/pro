@@ -21,7 +21,7 @@
 "播放标题": "\"name\"*\"&&\"",
 "播放链接": "解析+\"url\"*\"&&\"",
 //参考：此网站一定要加播放链接，数据才能正确，解析加在播放链接前才能用，如果加在跳转解析前是不能用的
-"跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#备用[A]$https://wpjx.chanchuan.top/znjsonapi.php?url=#备用[D]$https://wpjx.chanchuan.top//znjsonapi.php?url=",
+"跳转解析": "默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$https://daina.hk/api/?key=41b637ec6192036e0c35960addd26615&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=#备用[A]$https://wpjx.chanchuan.top/znjsonapi.php?url=#备用[D]$https://wpjx.chanchuan.top//znjsonapi.php?url=",
 "跳转播放链接": "\"url\"*\"&&\"",
 
 "影片地区": "vod_area\":\"&&\"", 
