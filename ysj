@@ -17,7 +17,8 @@
 //{"name": "影视┃综合","key": "影视界",  "type": 1, "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/","categories": ["电影", "电视剧", "综艺", "动漫"]},
 {"name": "爱迪┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aidiapp.xyz/xgapp.php/v2/"},
 //{"name": "低端┃外剧","jar": "./app/xiangl0718.bmp","key":"csp_Ddys","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"name":"厂长┃直连","jar":"./app/fan1108.bmp","key":"Czsapp","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
+//{"name": "厂长┃外剧","jar": "./app/小纸条.txt","key":"Csp_czzyhd","type":3,"api":"csp_Czsapp","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 //{"name": "在线┃外剧","jar":"./app/0525qj.bmp","key":"ZXZJ","api":"csp_Zxzj","playerType":1,"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"name": "在线┃外剧","key": "js_在线之家","type": 3,"api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/zxzj.js"},
 
