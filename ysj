@@ -35,7 +35,7 @@
 {"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 //{"name": "徕米┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_lmyy1","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 //{"name": "热播┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_rbzj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/rbzj.json"},
-{"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
+{"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
 {"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 
 
