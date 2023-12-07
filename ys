@@ -7,6 +7,7 @@
 //sp
 
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/搜狗.js"},
+{"name": "七七┃APP","key": "csp_77","jar":"./app/fan.bmp","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
 //{"name": "飞云┃综合","key":"csp_cmm1","type":3,"playerType":1,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/fy.js"},
 //{"name": "玉米┃采集","key": "玉米","type": 0,"api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl": "json:http://110.42.3.71:5000/api/jiexi/common?Key=scR2SCxYQGqNWKLltR&url=","searchable": 1,"quickSearch": 1,"filterable": 1},
