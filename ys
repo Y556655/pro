@@ -8,6 +8,7 @@
 
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./js/搜狗.js"},
 {"name": "七七┃APP","key": "csp_77","jar":"./app/fan.bmp","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"name": "赞赞┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.21.186:119/api.php/app/"},
 {"name": "畅梦┃综合","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
 //{"name": "飞云┃综合","key":"csp_cmm1","type":3,"playerType":1,"api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/fy.js"},
 {"name":"DD┃综合","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_ddys01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DDYS.json"},
@@ -57,8 +58,9 @@
 {"name":"聚合","type":3,"url":"Web"},
 //{"name":"来自","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 //{"name":"小米南坊","type":1,"url": "http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=","User-Agent": "Dart/2.18 (dart:io)", "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"爱酷","type":1,"url":"https://api.json.icu/api/?key=9a2e486d143f6e89f7ad980c6e4ce609&url=","User-Agent": "Dart/2.18 (dart:io)","ext": {"flag": ["qiyi","爱奇艺","奇艺"]}},
-{"name":"世界","type": 0,"url": "https://jx.777jiexi.com/player/?url=","header": {"User-Agent": "Dart/2.18 (dart:io)"}}
+//{"name":"爱酷","type":1,"url":"https://api.json.icu/api/?key=9a2e486d143f6e89f7ad980c6e4ce609&url=","User-Agent": "Dart/2.18 (dart:io)","ext": {"flag": ["qiyi","爱奇艺","奇艺"]}},
+//{"name":"世界","type": 0,"url": "https://jx.777jiexi.com/player/?url=","header": {"User-Agent": "Dart/2.18 (dart:io)"}},
+{"name":"小米赞赞","type": 1,"url": "http://zn.ghlyys.com/znjsonapi.php.php?url=","header": {"User-Agent": "Dart/2.18 (dart:io)"}}
 
  
 ],
