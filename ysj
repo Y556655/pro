@@ -6,7 +6,7 @@
 
 //sp
 //{"name": "搜狗┃解析","key": "搜狗","type": 3,"api": "./libs/drpy.min.js","ext": "./js/搜狗.js","searchable": 1,"quickSearch": 1,"filterable": 0},
-//{"name": "赞赞┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.21.186:119/api.php/app/"},
+{"name": "赞赞┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://154.12.21.186:119/api.php/app/"},
 //{"name": "七七┃APP","key": "csp_77","jar":"./app/fan.bmp","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"name": "畅梦┃升级影视界请打开↓乐猪↓扫图片二维码","key":"csp_cmmb01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/畅梦.json"},
 //{"name": "奇艺┃解析","key":"csp_qiyi1","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/奇珍异兽.js"},
