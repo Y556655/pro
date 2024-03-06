@@ -19,7 +19,7 @@
 //xBPQ
 {"name": "奇优┃综合","jar":"./app/xBPQ0808.bmp","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
 {"name":"蛋蛋剧┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
-{"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xmyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
+//{"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xmyy01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 {"name": "乐猪┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_LZTV","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/乐猪影视.json"},
 {"name": "青鸟┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_bttt01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/青鸟影视.json"},
 {"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
