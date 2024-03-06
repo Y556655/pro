@@ -15,7 +15,6 @@
 {"name":"低端┃直连","jar":"./app/fan.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 
 //xBPQ
-{"name": "看美剧┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
 {"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 
 //XYQH
