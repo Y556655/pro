@@ -8,7 +8,7 @@
 //{"name":"主源┃无广","key":"亮亮","type":3,"api":"csp_AppYsV2","ext":"http://xiutan.shiyifacai.com/zuoan/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
 //{"name": "赞赞┃APP","key": "csp_aidi","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://111.230.51.151:9696//api.php/app/"},
 {"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
-{"name":"七七┃秒播","jar":".app/fan240306.bmp","key":"csp_77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+{"name":"七七┃秒播","jar":"./app/fan240306.bmp","key":"csp_Kunyu77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"name":"好运┃超清","key":"小胡","searchable":1,"quickSearch":1,"type":1,"playerType":1,"api":"http://c.小胡.icu/api.php/provide/vod/"},
 {"name": "KTV","jar":"./app/pg.bmp","key": "Iktv","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
 {"name": "音悦台","jar":"./app/pg.bmp","key": "Yinyuetai","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0},
