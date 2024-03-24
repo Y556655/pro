@@ -18,7 +18,6 @@
 
 //xBPQ
 //下面这个直接跳的解析
-{"name":"南坊┃App","key":"南坊","jar": "./app/fan.bmp","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
 {"name":"DD┃综合","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_ddys01","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DDYS.json"},
 {"name":"蛋蛋剧┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 {"name": "*看美剧┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_kanmeiju","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看美剧.json"},
