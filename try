@@ -32,7 +32,7 @@
 {"name": "世觉┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/sjyy.json"},
 //{"name": "APP才能看视觉┃(xBPQ)","jar": "./app/xBPQ0606.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/xsj.json"},
 {"name": "达达┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_ddg","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/达达龟.json"},
-{"name": "不卡┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/真不卡.json"},
+//{"name": "不卡┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/真不卡.json"},
 {"name": "UM┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/UM影院.json"},
 {"name": "AUETE┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
 {"name": "徕米┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_lmyy1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
