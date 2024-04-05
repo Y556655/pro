@@ -1,12 +1,12 @@
 {
   "作者": "YYH",
   "站名": "爱看影视",
-  "主页url": "https://www.2wyy.com",
+  "主页url": "https://www.92kyy.com",
 
   "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
   "热门推荐": "40",
   
-  "分类url": "https://www.2wyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+  "分类url": "https://www.92kyy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
   "分类值": "1&2&3&4&15&16",
   
@@ -16,13 +16,13 @@
   
   "副标题": "class=\"module-item-note\"&&</div>",
   
-  "线路数组": "class=\"module-tab-item tab-item&&</div>[不包含:夸克]",
+  "线路数组": "class=\"module-tab-item tab-item&&</div>[不包含:夸克#蓝光]",
   "线路标题": "<span>&&</span>",
   
   "播放数组": "class=\"module-play-list-content module&&</div>",
   "播放标题": "<span>&&</span>",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "https://www.2wyy.com",
+  "播放链接前缀": "https://www.92kyy.com",
   
   "免嗅": "1",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
