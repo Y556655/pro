@@ -37,7 +37,6 @@
 {"name": "AUETE┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
 {"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 {"name": "️厂长┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_czys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/厂长.json"},
-{"name": "天天┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_TTSP01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/天天视频.json"},
 
 //磁力
 
