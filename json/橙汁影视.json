@@ -17,13 +17,16 @@
 "主演":"主演：&&</div",
 "简介":"style=\"line-height: 20px;\">&&</p>",
 
-"线路数组":"class=\"module-tab-item tab-item&&</div>",
+"线路数组":"class=\"module-tab-item tab-item&&</div>[不包含:腾讯#爱奇艺#优酷]",
 "线路标题":"span>&&</span",
 
 "播放数组":"class=\"module-play-list\">&&</div>",
 "播放标题":"span>&&</span",
-"播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.orangek.org",
+//"播放链接":"href=\"&&\"",
+//"播放链接前缀": "https://www.orangek.org",
+
+"跳转解析": "NB(自建)$https://p.orangek.org/player/ec.php?code=qw&if=1&url=#默认$空",
+"跳转播放链接": "解析+vod_class\"*\"url\"*\"&&\"",
 
 //"跳转播放链接": "urlDecode(vod_director\"*url\":\"&&\")",
 
