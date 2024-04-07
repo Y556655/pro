@@ -18,6 +18,7 @@
 
 //xBPQ
 {"name":"白嫖影视┃xBPQ","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_csy0108","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
+{"name":"橙汁影视┃xBPQ","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_czyy8","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/橙汁影视.json"},
 //{"name": "熊猫┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_xmyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/熊猫影院.json"},
 
 //XYQH
