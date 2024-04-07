@@ -35,7 +35,7 @@
 //{"name": "不卡┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ-真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/真不卡.json"},
 //{"name": "UM┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_umyy","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/UM影院.json"},
 {"name": "AUETE┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_AUETE","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/auete.json"},
-{"name": "北川┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
+{"name": "北川┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
 {"name": "️厂长┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_czys","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/厂长.json"},
 
 //磁力
