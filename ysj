@@ -14,11 +14,11 @@
 {"name": "KTV","jar":"./app/pg.bmp","key": "Iktv","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0},
 {"name": "音悦台","jar":"./app/pg.bmp","key": "Yinyuetai","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0},
 {"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
-{"name":"在线┃直连","key":"zxzj","jar":"./app/fan.bmp","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
+{"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"name":"低端┃直连","jar":"./app/fan.bmp","key":"DiDuan","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 
 //xBPQ
-{"name":"白嫖影视┃xBPQ","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_csy0108","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
+//{"name":"白嫖影视┃xBPQ","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_csy0108","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/白嫖影视.json"},
 {"name": "奇优┃综合","jar":"./app/xBPQ0808.bmp","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
 {"name":"蛋蛋剧┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 {"name": "北川┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
