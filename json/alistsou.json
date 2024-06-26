@@ -15,14 +15,6 @@
     {
       "name": "A大",
       "server": "https://alist.qyide.com/"
-    },
-       {
-      "name": "9T",
-      "server": "https://drive.9t.ee"
-    },
-       {
-      "name": "Puppet Studio",
-      "server": "https://abnormalize.icu/"
     }
   ]
 }
