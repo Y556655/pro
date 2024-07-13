@@ -29,7 +29,6 @@
 {"name": "*奇优┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_qiyou","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/奇优影院.json"},
 {"name": "*IKAN┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_akys01","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/IKAN.json"},
 {"name": "*子子┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_zzys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子影视.json"},
-{"name":"*花花┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_花花","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/huahua.json"},
 {"name": "LIBVIO┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xBPQ_LIBVIO","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"./json/LIBVIO.json"},
 {"name": "世觉┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xBPQ_sjyysj","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/sjyy.json"},
 //{"name": "APP才能看视觉┃(xBPQ)","jar": "./app/xBPQ0606.bmp","key": "csp_xBPQ_xsj","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/xsj.json"},
