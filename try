@@ -11,7 +11,7 @@
 {"name":"💡酷看┃秒播","jar":"./app/fan.bmp","key":"酷看","type":3,"api":"csp_Kkys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"name":"快看影视","jar":"./app/fan240306.bmp","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "荐片┃综合","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
-{"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
+{"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
 {"name":"在线┃外剧","jar":"./app/fan.bmp","key":"zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"name": "快看┃综合","key": "kuaikan01","type": 3,"api": "csp_Kuaikan","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 {"name": "360┃APP","key": "360_spider","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
