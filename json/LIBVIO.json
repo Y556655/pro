@@ -2,10 +2,9 @@
   "作者": "YYH",
   "站名": "LIBVIO",
   "主页url": "https://www.libvio.cc",
-  //"主页url": "https://libvio.fun,https://tv.libvio.cc/,https://tv.libvio.cc/",
+  //"主页url": www.libfabu.com,https://www.libvio.cc/",
 
   "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 9; Mi Note 3 Build/PKQ1.181007.001;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.132 Mobile Safari/537.36",
-  "头部集合": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.libvio.cc",
   "热门推荐": "40",
   "起始页": "1",
   "直接播放": "0",
@@ -37,9 +36,11 @@
   "简介": "display: none;\">&&</span>",
   
   "线路数组": "<h3 class=\"iconfont&&</div>",
-  "线路标题": ">&&<[替换:夸克网盘>>本线路不能播放#百度云盘>>此线路不能播放]",
+  "线路标题": ">&&<[不包含:视频下载]",
   
   "播放数组": "<ul class=\"stui-content&&</ul>",
+  "播放链接前辍": "https://www.libvio.cc",
+  
   "免嗅":"0",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
 
@@ -81,6 +82,7 @@
   
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
+  {"n":"2024","v":"2024"},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
   {"n":"2021","v":"2021"},
@@ -133,6 +135,7 @@
   
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
+  {"n":"2024","v":"2024"},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
   {"n":"2021","v":"2021"},
@@ -184,6 +187,7 @@
   
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
+  {"n":"2024","v":"2024"},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
   {"n":"2021","v":"2021"},
@@ -234,6 +238,7 @@
   
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
+  {"n":"2024","v":"2024"},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
   {"n":"2021","v":"2021"},
@@ -286,6 +291,7 @@
   
   {"key":"year","name":"年份","value":[
   {"n":"全部","v":""},
+  {"n":"2024","v":"2024"},
   {"n":"2023","v":"2023"},
   {"n":"2022","v":"2022"},
   {"n":"2021","v":"2021"},
