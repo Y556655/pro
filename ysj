@@ -34,8 +34,8 @@
 
 //XYQH
 {"name": "荐片┃升级影视界请打开↑乐猪↑扫图片二维码","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
-{"name":"阿里设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0},
-{"name": "玩偶┃4K弹幕","key": "csp_WoGG","jar":"./app/fan.bmp","type":3, "api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/file/tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+//{"name":"阿里设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0},
+//{"name": "玩偶┃4K弹幕","key": "csp_WoGG","jar":"./app/fan.bmp","type":3, "api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"http://127.0.0.1:9978/file/tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"name": "推送┃手机","jar":"./app/xiangl0718.bmp","key":"push_agent","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/autorun.json"}
 
 
