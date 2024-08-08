@@ -7,6 +7,7 @@
 //sp
 {"name": "畅梦┃南瓜","key": "畅梦┃南瓜","jar":"./app/fan.bmp","type": 3,"api": "csp_NanGua","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"name": "糯米┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_lmys01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/糯米影视.json"},
+{"name": "稀饭┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xfys01","playerType":2,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/稀饭.json"},
 {"name": "4K┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_zx4k01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zx4k.json"},
 {"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"💡酷看┃秒播","jar":"./app/fan.bmp","key":"酷看","type":3,"api":"csp_Kkys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
