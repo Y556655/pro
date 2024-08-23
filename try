@@ -12,7 +12,6 @@
 {"name": "4K┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_zx4k01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/zx4k.json"},
 {"name":"小苹果┃APP","jar":"./app/fan.bmp","key":"苹果","playerType":1,"type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"name":"💡酷看┃秒播","jar":"./app/fan.bmp","key":"酷看","type":3,"api":"csp_Kkys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{"name": "老张","key": "lzsys","type": 1,"api": "http://zhangqun66.serv00.net/158.php","searchable": 1,"changeable": 1,"categories": ["电影","连续剧","大陆综艺","国产动漫","日韩动漫","NBA","爽文短剧","年代穿越","成长逆袭"]},
 {"name":"快看影视","jar":"./app/fan240306.bmp","key":"csp_Kuaikan","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name": "荐片┃综合","key":"csp_jpys01","type":3,"playerType":1,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/jp.js"},
 {"name":"厂长┃直连","jar":"./app/fan.bmp","key":"Czsapp","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
