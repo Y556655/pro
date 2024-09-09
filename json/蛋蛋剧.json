@@ -1,7 +1,7 @@
 {
 "作者":"YYH",
 "站名":"蛋蛋剧",
-"主页url":"https://www.dandanju.cc",
+"主页url":"https://www.ddjhd.com/",
 //www.dandanju.vip https://www.dandanju.me https://www.dandanju.fun
 "数组": "class=\"ewave-vodlist__box\">&&</a",
 
@@ -13,7 +13,7 @@
 
 "嗅探": "0",
 "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-"请求头": "手机#Referer$https://www.dandanju.cc/",	
+"请求头": "手机#Referer$https://www.ddjhd.com/",	
 
 "影片年代":"年份：&&</p>",
 "影片地区":"地区：&&<span",
@@ -32,11 +32,11 @@
 //"跳转解析": "默认$https://www.dandanju.cc/webplayer/?vid=#蘑菇云播$https://www.mgplayer.cc/parse/videoParse.php?vid=",
 //"跳转播放链接":"解析+data\":*url\":\"&&\"",	
 
-"分类url": "https://www.dandanju.cc/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;au0",
+"分类url": "https://www.ddjhd.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;au0",
 "分类": "电影$1#剧集$2#动漫$4#综艺$4",
 
 "搜索模式": "1",
-"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+"搜索url": "https://www.ddjhd.com/search/{wd}----------1---.html",
 "搜索数组": "<li class=\"active clearfix&&</li",
 
 "筛选":{
