@@ -102,7 +102,7 @@
 //{"name": "️FREEOK┃(xBPQ)","jar":"./app/ls1107.bmp","key": "csp_xf_free","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/freeok.json"},
 //{"name": "COKEMV┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_cokemv","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/cokemv.json"},
 //{"name":"零度┃(xBPQ)","jar":"./app/xBPQ0606.bmp","key":"csp_ldyy0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/零度.json"},
-//{"name": "奈飞┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
+{"name": "奈飞┃(xBPQ)","jar":"./app/ls1107.bmp","key":"csp_xBPQ_ynaf","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/鸭奈飞.json"},
 
 
 {"name":"阿里设置","jar":"./app/alisz.bmp","key": "csp_KungFu404","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 1, "changeable":0},
