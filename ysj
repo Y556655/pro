@@ -28,8 +28,9 @@
 {"name": "奇优┃综合","jar":"./app/xBPQ0808.bmp","key":"0hfyy01","type":3,"api":"csp_xBPQ","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/hfyy.json"},
 //{"name":"蛋蛋剧┃(xBPQ)","jar":"./app/xBPQ0808.bmp","key":"csp_ddj0","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/蛋蛋剧.json"},
 //{"name": "北川┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_bcys","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/北川影视.json"},
-{"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
-{"name":"新6V┃磁力","key":"新6V","jar":"./app/fan.bmp","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
+//{"name": "迅雷┃(xBPQ)","jar":"./app/xBPQ1106.bmp","key":"csp_xlxz01","playerType":1,"type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/迅雷.json"},
+//{"name":"新6V┃磁力","key":"新6V","jar":"./app/fan.bmp","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
+{"name":"X6V┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_x6v","playerType":2,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/x6v.json"},
 //{"name":"高清电影┃(XYQH)","jar":"./app/xiangl0718.bmp","key": "csp_XYQHiker_高清电影","playerType":1,"type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/高清世界XYQH.json"},
 
 
