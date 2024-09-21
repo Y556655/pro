@@ -13,7 +13,7 @@
   //"副标题": "class=\"module-item-note\">&&</div>",
   
 
-  "分类url": "https://www.xb6v.com/{cateId}/index_2.html",
+  "分类url": "https://www.xb6v.com/{cateId}/index_{catePg}.html",
   "分类": "电视剧&喜剧片&动作片&爱情片&科幻片&恐怖片",
   "分类值": "dianshiju&xijupian&dongzuopian&aiqingpian&kehuanpian&kongbupian",
   
