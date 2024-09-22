@@ -2,13 +2,14 @@
   "作者": "YYH",
   "站名": "AUETE影视",
   "主页url": "https://auete.pro",
-  //https://auete.pro-https://v.auete.com
-  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://auete.org",
+  //https://v.auete.com
+  
+  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://auete.pro",
   "热门推荐": "40",
-
+  "分类起始页码": "2",
   "副标题": "class=\"hdtag\">&&</button>",
   
-  "分类url": "https://auete.pro/{cateId}/index.html",
+  "分类url": "https://auete.pro/{cateId}/{class}/index{catePg}.html",
   "分类": "电影&连续剧&综艺&动漫",
   "分类值": "Movie&Tv&Zy&Dm",
   
@@ -20,8 +21,8 @@
   "主演": "影片主演:&&</p>",
   "简介": "description\" content=\"&&\"/>",
   
-  "线路数组": "class=\"title border-top&&<span[不包含:云播G线]",
-  "线路标题": "</i>&&<small>",
+  "线路数组": "class=\"title border-top&&<span",
+  "线路标题": "</i>&&<small>[替换:：>>空]",
   
   "播放数组": "</small>&&</div>",
   "播放标题": "\">&&</a",
@@ -29,70 +30,11 @@
   "播放链接前缀": "https://auete.pro",
   "播放链接后缀": "",
 
-//"搜索url": "https://auete.pro/aueteso.php?searchword={wd}",
-//"搜索模式": "1",
-//"搜索二次截取": "",
-//"搜索数组": "class=\"list-unstyled threadlist&&</a",
-//"搜索图片": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fblog%2F202107%2F08%2F20210708113445_0fe7a.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1684821090&t=e44e2b6c04524958f0c7abdd8a2e3e1b",
-//"搜索标题": "text-danger\">&&</span>",
-//"搜索链接": "data-href=\"&&\"",
-//"搜索后缀":"",
-//"搜索链接前缀": "https://auete.pro",
+  "搜索模式": "1",
   
-  "免嗅": "0",
+  "免嗅": "1",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#.flv#.m4a",
   "过滤词":"",
   
-  "筛选":{
-"Movie":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"动作片","v":"dzp"},
-  {"n":"爱情片","v":"aqp"},
-  {"n":"科幻片","v":"khp"},
-  {"n":"恐怖片","v":"kbp"},
-  {"n":"剧情片","v":"jqp"},
-  {"n":"战争片","v":"zzp"},
-  {"n":"惊悚片","v":"jsp"}]},
-  
-  {"key":"by","name":"排序","value":[
-  {"n":"时间","v":"time"},
-  {"n":"人气","v":"hits"},
-  {"n":"评分","v":"score"}]}],
-  
-"Tv":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":""},
-  {"n":"国产剧","v":"38"},
-  {"n":"港台剧","v":"39"},
-  {"n":"欧美剧","v":"40"},
-  {"n":"日韩剧","v":"41"},
-  {"n":"其它剧","v":"42"}]},
- 
-  
-  {"key":"by","name":"排序","value":[
-  {"n":"时间","v":"time"},
-  {"n":"人气","v":"hits"},
-  {"n":"评分","v":"score"}]}],
-  
-"Zy":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":""},
-  {"n":"综艺","v":"46"}]},
-  
-  {"key":"by","name":"排序","value":[
-  {"n":"时间","v":"time"},
-  {"n":"人气","v":"hits"},
-  {"n":"评分","v":"score"}]}],
-
-"Dm":[
-  {"key":"cateId","name":"类型","value":[
-  {"n":"全部","v":""},
-  {"n":"国产动漫","v":"52"},
-  {"n":"日本动漫","v":"53"},
-  {"n":"欧美动漫","v":"54"}]},
-  
-  {"key":"by","name":"排序","value":[
-  {"n":"时间","v":"time"},
-  {"n":"人气","v":"hits"},
-  {"n":"评分","v":"score"}]}]}
+  "筛选":"0"
 }
