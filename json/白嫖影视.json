@@ -25,7 +25,12 @@
 "播放链接":"href=\"&&\"",
 
 "搜索模式": "1",
-"搜索url": "https://ys.51baipiao.net/index.php/vod/search.html?wd={wd}",
+"搜索url": "https://ys.51baipiao.net/index.php/vod/search/wd/{wd}.html",
+"搜索数组": "class=\"module-item-pic\">&&class=\"loading\">",
+"搜索图片": "data-src=\"&&\"",
+"搜索标题": "alt=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索链接前缀": "https://ys.51baipiao.net",
 
 "分类": "电影$1#电视剧$2#动漫$29#综艺$3",
 "分类url": "https://ys.51baipiao.net/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html",
