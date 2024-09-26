@@ -1,20 +1,20 @@
 {
   "作者": "YYH",
   "站名": "4K影视",
-  "主页url": "https://www.xifanys.com",
+  "主页url": "https://xifanys.com/",
   //https://www.xifanys.vip/
-  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.xifanys.com",
+  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://xifanys.com/",
   "热门推荐": "40",
   
   "副标题": "class=\"module-item-note\">&&</div>",
   
-  "分类url": "https://www.xifanys.com/yingpianshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+  "分类url": "https://xifanys.com/yingpianshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
   "分类": "电影&连续剧&综艺&动漫&短剧",
   "分类值": "dianying&lianxuju&zongyi&dongman&duanju",
   
   
   
-  "搜索url":"https://www.xifanys.xyz/yingpiansearch/-------------.html?wd={wd}",
+  "搜索url":"https://xifanys.com/yingpiansearch/-------------.html?wd={wd}",
   "搜索模式": "1",
  
   //"影片年代": "年份：&&</p>",
@@ -31,7 +31,7 @@
   "播放列表":"<a&&</a>",
   "播放标题": "<span>&&</span>",
   "播放链接": "href=\"&&\"",
-  "播放链接前缀": "https://www.xifanys.com",
+  "播放链接前缀": "https://xifanys.com",
   "播放链接后缀": "",
   
 "免嗅":"1",
