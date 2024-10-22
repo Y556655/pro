@@ -9,7 +9,7 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#mp4",
 
-"数组": "class=\"col-md-6 col-sm-4&&/div>",
+"数组": "class=\"stui-vodlist__box\">&&/div>",
 "图片": "data-original=\"&&\"",
 "标题": "title=\"&&\"",
 "链接": "href=\"&&\"",
