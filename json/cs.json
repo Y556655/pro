@@ -21,13 +21,13 @@
 "主演":"主演：&&</div",
 "简介":"剧情：&&</div>",
 
-"线路数组":"class=\"module-tab-item tab-item\"&&/span>",
-"线路标题":"span>&&<",
+"线路数组":"class=\"more text-muted pull-right&&/div>",
+"线路标题":"class=\"title\">&&</h3",
 
-"播放数组":"class=\"scroll-content\">&&</div>",
-"播放标题":"span>&&</span",
+"播放数组":"class=\"stui-content__playlist&&</div>",
+"播放标题":"self\">&&</a",
 "播放链接":"href=\"&&\"",
-"播放链接前缀": "https://www.ziziys.com",
+"播放链接前缀": "http://xingchenwu.com",
 
 "搜索url":"https://www.ziziys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
 "搜索模式": "1",
