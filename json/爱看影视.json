@@ -1,9 +1,9 @@
 {
   "作者": "YYH",
   "站名": "爱看影视仅搜索",
-  "主页url": "https://ikan6.vip",
+  "主页url": "https://www.akysw.com",
   //https://www.aikanys.vip/-https://www.akanhd.com/
-  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.shijueyy.com",
+  "播放请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.akysw.com",
   "热门推荐": "40",
   
   "数组": "class=\"post-list video-list&&/a></p>",
@@ -12,20 +12,20 @@
   "链接": "href=\"&&\"",
   "副标题": "mr-xs-0\">&&</",
   
-  "分类url": "https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+  "分类url": "https://www.akysw.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   "分类": "电影&连续剧&综艺&动漫&日韩剧&美剧",
   "分类值": "1&2&3&4&15&16",
   
   
   
-  "搜索url":"https://ikan6.vip/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
+  "搜索url":"https://www.akysw.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=30",
   "搜索模式": "0",
   "搜索二次截取": "",
   "搜索图片": "pic\":&&\"",
   "搜索标题": "name\":\"&&\"",
   "搜索链接": "id\":&&,\"",
   "搜索后缀":"/",
-  "搜索链接前缀": "https://ikan6.vip/voddetail/",
+  "搜索链接前缀": "https://www.akysw.com/voddetail/",
   
   "影片年代": "年份：&&</p>",
   "影片地区": "地区：&&<span",
@@ -40,7 +40,7 @@
   "播放数组": "id=\"ewave-playlist&&</ul>",
   "播放标题": ">&&</a>",
   "播放链接": " href=\"&&\"",
-  "播放链接前缀": "https://ikan6.vip",
+  "播放链接前缀": "https://www.akysw.com",
   "播放链接后缀": "",
   
 "免嗅":"1",
